@@ -20,8 +20,8 @@ keywords: screeps, mmo, programming
 #disqus: forumname
 
 ##set this to enable google analytics
-#ga_id: analyticsID
-#ga_domain: analyticsDomain
+ga_id: UA-84882486-1
+ga_domain: auto
 
 ##Some commonly used links
 links:
