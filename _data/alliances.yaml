@@ -1,4 +1,5 @@
-The Culture:
+culture:
+  name: The Culture
   slack: theculture_public
   members:
   - anisoptera
@@ -9,7 +10,9 @@ The Culture:
   - NhanHo
   - tedivm
 
-LUN (Luranian United Nations):
+lun:
+  name: Luranian United Nations
+  charter: https://docs.google.com/document/d/1u-TkeVIcr0rgJqvpEAPXxD58Dw-HawBaWXUVfXfkeic
   slack: lun
   members:
   - Lur
@@ -17,7 +20,7 @@ LUN (Luranian United Nations):
   - BuffyNZ
   - Leonyx
 
-NATO:
+nato:
   slack: nato
   members:
   - gewure
@@ -27,13 +30,15 @@ NATO:
   - nephanea
   - nnog
 
-Semperrexoff:
+semperrexoff:
+  name: Semperrexoff
   members:
   - NihilRex
   - SemperRabbit
   - weekOff
 
-SUN:
+sun:
+  name: Screeps United Nations
   slack: sun
   members:
   - Atavus
@@ -46,14 +51,16 @@ SUN:
   - Pantek59
   - Finndibaen
 
-Thunder Kittens:
+thunderkittens:
+  name: Thunder Kittens
   members:
   - bonzaiferroni
   - SteeleR
   - taiga
   - Vervorris
 
-UCA:
+uca:
+  name: UCA
   slack: uca_public
   members:
   - aster26
@@ -67,7 +74,8 @@ UCA:
   - EmptySet
   - GMan
 
-Ypsilon Empire:
+ypsilonempire:
+  name: Ypsilon Empire
   members:
   - daboross
   - DoctorPC

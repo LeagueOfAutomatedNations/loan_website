@@ -15,19 +15,25 @@ lastmod: 2014-07-07T16:57:30+05:30
 		pull request!</a></p>
 
 	{% for alliance in site.data.alliances %}
-	<h2>{{ alliance[0] }}</h2>
+	<h2>{{ alliance[1].name }}</h2>
 	<p>
-	{% if alliance[1].slack %}
-	Slack:
-		<a href="https://screeps.slack.com/messages/{{ alliance[1].slack }}/">
-			#{{ alliance[1].slack }}
-		</a>
-		<br>
-	{% endif %}
-	{{ alliance[1].members | size }} members
+    {% if alliance[1].charter %}
+  		<a href="https://screeps.slack.com/messages/{{ alliance[1].charter }}/">
+  			Charter
+  		</a>
+  		<br>
+  	{% endif %}
+  	{% if alliance[1].slack %}
+  	Slack:
+  		<a href="https://screeps.slack.com/messages/{{ alliance[1].slack }}/">
+  			#{{ alliance[1].slack }}
+  		</a>
+  		<br>
+  	{% endif %}
+  	{{ alliance[1].members | size }} members
 	</p>
 	<ul>
-		{% assign members_sorted = (alliance[1].members | sort: "downcase" %}
+		{% assign members_sorted = (alliance[1].members | sort: "downcase") %}
 		{% for member in members_sorted %}
 		  <li>
 		    <a href="https://screeps.com/a/#!/profile/{{ member }}">
