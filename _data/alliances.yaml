@@ -1,4 +1,5 @@
 The Culture:
+  slack: theculture_public
   members:
   - anisoptera
   - Bovius
@@ -8,14 +9,32 @@ The Culture:
   - NhanHo
   - tedivm
 
-Thunder Kittens:
+LUN (Luranian United Nations):
+  slack: lun
   members:
-  - bonzaiferroni
-  - SteeleR
-  - taiga
-  - Vervorris
+  - Lur
+  - starwar15432
+  - BuffyNZ
+  - Leonyx
+
+NATO:
+  slack: nato
+  members:
+  - gewure
+  - TooAngel
+  - Amadox
+  - bldinator
+  - nephanea
+  - nnog
+
+Semperrexoff:
+  members:
+  - NihilRex
+  - SemperRabbit
+  - weekOff
 
 SUN:
+  slack: sun
   members:
   - Atavus
   - BlackLotus
@@ -27,17 +46,15 @@ SUN:
   - Pantek59
   - Finndibaen
 
-NATO:
+Thunder Kittens:
   members:
-  - gewure
-  - TooAngel
-  - Amadox
-  - bldinator
-  - nephanea
-  - nnog
-
+  - bonzaiferroni
+  - SteeleR
+  - taiga
+  - Vervorris
 
 UCA:
+  slack: uca_public
   members:
   - aster26
   - Icon
@@ -54,17 +71,3 @@ Ypsilon Empire:
   members:
   - daboross
   - DoctorPC
-
-Semperrexoff:
-  members:
-  - NihilRex
-  - SemperRabbit
-  - weekOff
-
-LUN (Luranian United Nations):
-  members:
-  - Lur
-  - starwar15432
-  - BuffyNZ
-  - Leonyx
-
