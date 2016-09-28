@@ -25,9 +25,6 @@ keywords: some, relevant, keywords, for, usage, in metatags
 
 ##Some commonly used links
 links:
-  facebook: username
-  twitter: username
-  email: username@gmail.com
   github: LeagueOfAutomatedNations
 
 ##put desired image in img/ directory and set the value accordingly. If not defined, a placeholder image will be used.
