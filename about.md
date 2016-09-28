@@ -7,4 +7,4 @@ sitemap:
     lastmod: 2014-09-07T16:31:30+05:30
 ---
 # About
-This is a demo ABOUT page. Edit ```about.html``` to change its contents.
+The League of Automated Nations records alliance data from the Screeps game.
