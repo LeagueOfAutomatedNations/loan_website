@@ -18,12 +18,13 @@ lastmod: 2014-07-07T16:57:30+05:30
 	<h2>{{ alliance[0] }}</h2>
 	<p>
 	{% if alliance[1].slack %}
-	<br>Slack:
+	Slack:
 		<a href="https://screeps.slack.com/messages/{{ alliance[1].slack }}/">
 			#{{ alliance[1].slack }}
 		</a>
+		<br>
 	{% endif %}
-	<br>{{ alliance[1].members | size }} members
+	{{ alliance[1].members | size }} members
 	</p>
 	<ul>
 		{% assign members_sorted = (alliance[1].members | sort: "downcase" %}
