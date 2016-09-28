@@ -25,7 +25,8 @@
       </section>
       <footer class="grid site-footer">
         <p>&copy;&nbsp;{{ site.name }}</p>
-        <p><small>Powered by <a href="http://jekyllrb.com" target="_blank"><em>Jekyll</em></a> using <a href="http://bitwiser.in/bitwiser/" target="_blank"><em>Bitwiser</em></a> theme.</small></p>
+        <p><small>Last Updated: {{ site.time | date_to_rfc822 }}</small>
+        <br><small>Powered by <a href="http://jekyllrb.com" target="_blank"><em>Jekyll</em></a> using <a href="http://bitwiser.in/bitwiser/" target="_blank"><em>Bitwiser</em></a> theme.</small></p>
       </footer>
       {% if site.ga_id %}
         {% include analytics.html %}
