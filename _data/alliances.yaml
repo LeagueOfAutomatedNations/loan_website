@@ -22,6 +22,7 @@ lun:
   - Leonyx
 
 nato:
+  name: NATO
   slack: nato
   members:
   - gewure
