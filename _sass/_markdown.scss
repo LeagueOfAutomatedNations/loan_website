@@ -1,7 +1,7 @@
 @import url(http://fonts.googleapis.com/css?family=Vollkorn:400,400italic,700,700italic&subset=latin);
 
 body {
-	font: 1.3em "Vollkorn", Palatino, Times;
+	font: 1.1em "Vollkorn", Palatino, Times;
 	color: #333;
 	line-height: 1.4;
 	text-align: justify;
@@ -53,6 +53,7 @@ p {
 ul {
 	list-style: square;
 	padding-left:1.2em;
+	margin-top:0;
 	}
 ol {
 	padding-left:1.2em;
@@ -112,7 +113,7 @@ body#index li {
 -------------------------------------------------------- */
 @media only screen and (max-device-width: 1024px) {
 body {
-	font-size: 120%;
+	font-size: 100%;
 	line-height: 1.4;
 	}
 } /* @iPad */

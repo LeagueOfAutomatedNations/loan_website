@@ -106,6 +106,7 @@ nav ul {
 	ul{
 		display: inline-block;
 	}
+
 	li{
 		position: relative;
 		display: inline-block;
@@ -129,14 +130,24 @@ nav ul {
 }
 
 .content{
-	margin-top: 1em;
 
+	h2{
+		margin-top: 1em;
+		margin-bottom: 0em;
+	}
 	h3{
-		margin: 0.3em 0;
+		margin: 0.1em 0;
 		font-style: normal;
 	}
 	a{
 		color: #08c;
+	}
+	p{
+		margin-top: 0.2em;
+		margin-bottom: 0.2em;
+	}
+	ul, li{
+		margin-top: 0.2em;
 	}
 	.button{
 		color: #fff;
@@ -241,10 +252,10 @@ a {
 		font-size: .9em;
 		border-top: 1px solid #ccc;
 	}
-	
+
 	table {
 	  margin: 10px 0px;
-	  
+
 	  th {
 	  	font-weight: bold;
 	  }
