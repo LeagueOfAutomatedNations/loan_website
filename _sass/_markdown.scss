@@ -131,3 +131,28 @@ article {
 	padding: 0 10px;
 	}
 } /* @iPhone */
+
+/* Map
+--------------------------- */
+#ScreepsMapFlex {
+  display: flex;
+  justify-content: space-around;
+  align-items: flex-start;
+}
+
+#ScreepsColorKeyContainer {
+    float: right;
+}
+
+.colorKeyList {
+    list-style: none;
+}
+
+.colorKeyList .colorBox {
+  display: inline-block;
+  border: 1px solid black;
+  width: 3em;
+  height: 1em;
+  margin-right: 2px;
+  vertical-align: middle;
+}

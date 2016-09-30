@@ -7,16 +7,20 @@ sitemap:
 ---
 <script type="text/javascript" language="javascript" src="js/ScreepsMap.js"></script>
 <div class="unit whole">
-  <div id="ScreepsMapContainer"></div> 
+  <div id="ScreepsMapFlex">
+    <div id="ScreepsMapContainer"></div>
+    <div id="ScreepsColorKeyContainer"></div>
+  </div>
   <script type="text/javascript" language="javascript">
     window.onload = function() {
       let map = new ScreepsMap();
-      map.setRoomSize(7,7);
+      map.setRoomSize(5,5);
       map.setMapBounds("W60N60","E60S60");
       map.setPadding(5);
       map.setRoomData({{ site.data.rooms | jsonify }});
       map.setAllianceData({{ site.data.alliances | jsonify }});
       map.drawAllianceMap({"roomStyle": "box"});
+      map.drawColorKey();
     }
   </script>
 </div>

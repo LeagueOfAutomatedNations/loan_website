@@ -3,6 +3,7 @@ var ScreepsMap = function() {
     // Magic values
     this.containerID = "ScreepsMapContainer";
     this.canvasID = "ScreepsMapCanvas";
+    this.colorKeyID = "ScreepsColorKeyContainer";
     this.topLeftOfTerrain = this.roomNameToXY("W60N60");
     this.terrainImageRoomSize = 50;
 
@@ -176,5 +177,16 @@ ScreepsMap.prototype.drawFillBox = function(roomName, color, alpha) {
     this.context.globalAlpha = alpha;
     this.context.fillRect(xy.x, xy.y, this.roomWidth, this.roomHeight);
     this.context.restore();
+}
+
+ScreepsMap.prototype.drawColorKey = function() {
+    let container = document.getElementById(this.colorKeyID);
+    let output = '<ul class="colorKeyList">';
+    for (let aName of this.allianceNames) {
+        output += '<li class="colorKeyItem"><span class="colorBox" style="background-color: ' + this.colorForAlliance(aName) + ';"></span>';
+        output += '<span class="colorLabel">' + this.alliances[aName].name + '</li>';
+    }
+    output += '</ul>';
+    container.innerHTML = output;
 }
 
