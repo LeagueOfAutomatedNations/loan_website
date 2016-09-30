@@ -1,0 +1,21 @@
+---
+layout: page
+title: Screeps Alliance Map 
+sitemap:
+  priority: 1.0
+  changefreq: weekly
+---
+<script type="text/javascript" language="javascript" src="js/ScreepsMap.js"></script>
+<div class="unit whole">
+  <div id="ScreepsMapContainer"></div> 
+  <script type="text/javascript" language="javascript">
+    window.onload = function() {
+      let map = new ScreepsMap();
+      map.setRoomData({{ site.data.sample_rooms | jsonify }});
+      map.setAllianceData({{ site.data.alliances | jsonify }});
+      map.drawAllianceMap();
+    }
+  </script>
+</div>
+
+
