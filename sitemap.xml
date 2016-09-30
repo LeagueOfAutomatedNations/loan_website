@@ -18,7 +18,7 @@
     {% if page.sitemap != null and page.sitemap != empty %}
       <url>
         <loc>{{ site.base_url }}{{ page.url }}</loc>
-        <lastmod>{{ page.sitemap.lastmod | date_to_xmlschema }}</lastmod>
+        <lastmod>{{ site.time | date_to_xmlschema }}</lastmod>
         <changefreq>{{ page.sitemap.changefreq }}</changefreq>
         <priority>{{ page.sitemap.priority }}</priority>
        </url>
