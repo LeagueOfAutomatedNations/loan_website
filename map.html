@@ -11,7 +11,7 @@ sitemap:
   <script type="text/javascript" language="javascript">
     window.onload = function() {
       let map = new ScreepsMap();
-      map.setRoomData({{ site.data.sample_rooms | jsonify }});
+      map.setRoomData({{ site.data.rooms | jsonify }});
       map.setAllianceData({{ site.data.alliances | jsonify }});
       map.drawAllianceMap();
     }
