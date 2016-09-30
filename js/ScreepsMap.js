@@ -13,6 +13,8 @@ var ScreepsMap = function() {
     this.setPadding(5);
 };
 
+ScreepsMap.prototype.colors = ["#6A6", "#A66","#66A","#AA6","#A6A","#6AA","#06A","#A60","#0A6","#6A0","#A06","#60A"];
+
 ScreepsMap.prototype.setRoomSize = function(width, height) {
     this.roomWidth = width;
     if (!height) {
@@ -96,15 +98,20 @@ ScreepsMap.prototype.hexToRgb = function(hex) {
 }
 
 ScreepsMap.prototype.colorForAlliance = function(aName) {
-    let colors = ["#6A6","#A66","#66A","#AA6","#A6A","#6AA","#06A","#A60","#0A6","#6A0","#A06","#60A"];
-    let index = this.allianceNames.indexOf(aName);
-    if (index == -1) { return "#DDD"; }
-    return colors[index % colors.length];
+    if(!this.alliances[aName].color) {
+      if(this.colors.length > 0) {
+        this.alliances[aName].color = this.colors.shift()
+      } else {
+        var colorInt = Math.floor(Math.random() * (4096 - 0 + 1)) + 0;
+        this.alliances[aName].color = '#' + colorInt.toString(16)
+      }
+    }
+    return this.alliances[aName].color
 }
 
 ScreepsMap.prototype.drawAllianceMap = function(options) {
     this.canvas = this.resetCanvas(document.getElementById(this.containerID));
-    this.context = this.canvas.getContext("2d"); 
+    this.context = this.canvas.getContext("2d");
     this.drawOptions = options;
     if (!this.drawOptions.roomStyle) {
         this.drawOptions.roomStyle = "box";
