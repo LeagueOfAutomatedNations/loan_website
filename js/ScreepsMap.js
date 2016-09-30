@@ -1,11 +1,12 @@
 
 var ScreepsMap = function() {
+    // Magic values
     this.containerID = "ScreepsMapContainer";
     this.canvasID = "ScreepsMapCanvas";
-
     this.topLeftOfTerrain = this.roomNameToXY("W60N60");
     this.terrainImageRoomSize = 50;
 
+    // Defaults
     this.setRoomSize(5,5);
     this.setMapBounds("W60N60","E60S60");
     this.setPadding(5);
@@ -104,6 +105,9 @@ ScreepsMap.prototype.drawAllianceMap = function(options) {
     this.canvas = this.resetCanvas(document.getElementById(this.containerID));
     this.context = this.canvas.getContext("2d"); 
     this.drawOptions = options;
+    if (!this.drawOptions.roomStyle) {
+        this.drawOptions.roomStyle = "box";
+    }
     this.loadImages(function() {
         this.drawTerrain();
         this.drawAlliances();
@@ -139,8 +143,15 @@ ScreepsMap.prototype.drawAlliances = function() {
     for (let name of Object.keys(this.rooms)) {
         for (let aName of Object.keys(this.alliances)) {
             if (this.alliances[aName].members.indexOf(this.rooms[name].owner) != -1) {
-                //this.drawFadeCircle(name, this.roomWidth*2, this.roomWidth*0.7, this.colorForAlliance(aName));
-                this.drawFillBox(name, this.colorForAlliance(aName), (this.rooms[name].level > 0 ? 1 : 0.5));
+                if (this.drawOptions.roomStyle == "blob") {
+                    if (this.rooms[name].level) {
+                        this.drawFadeCircle(name, this.roomWidth*2, this.roomWidth*0.7, this.colorForAlliance(aName));
+                    } else {
+                        this.drawFadeCircle(name, this.roomWidth*0.7, this.roomWidth*0.1, this.colorForAlliance(aName));
+                    }
+                } else {
+                    this.drawFillBox(name, this.colorForAlliance(aName), (this.rooms[name].level > 0 ? 1 : 0.5));
+                }
             }
         }
     }

@@ -11,9 +11,12 @@ sitemap:
   <script type="text/javascript" language="javascript">
     window.onload = function() {
       let map = new ScreepsMap();
+      map.setRoomSize(7,7);
+      map.setMapBounds("W60N60","E60S60");
+      map.setPadding(5);
       map.setRoomData({{ site.data.rooms | jsonify }});
       map.setAllianceData({{ site.data.alliances | jsonify }});
-      map.drawAllianceMap();
+      map.drawAllianceMap({"roomStyle": "box"});
     }
   </script>
 </div>
