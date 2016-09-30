@@ -76,6 +76,18 @@ uca:
   - EmptySet
   - GMan
 
+ud:
+  name: undefined
+  slack: ud
+  members:
+  - Azfaloth
+  - bekvon
+  - Garland
+  - Nisou
+  - Remco
+  - Revrick
+  - TranceCake
+
 ypsilonempire:
   name: Ypsilon Empire
   members:
