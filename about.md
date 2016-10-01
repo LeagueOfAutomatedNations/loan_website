@@ -22,4 +22,4 @@ Contributing alliance data can be done by editing [this yaml file](http://www.le
 ## Join us on Slack
 
 If you're interested in helping the project you can join us in on the Screeps
-Slack network in the channel [#loan]("https://screeps.slack.com/messages/loan/).
+Slack network in the channel [#loan](https://screeps.slack.com/messages/loan/).
