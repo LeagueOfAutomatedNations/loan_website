@@ -40,6 +40,13 @@ ScreepsMap.prototype.setAllianceData = function(data) {
     this.alliances = data;
     this.allianceNames = Object.keys(this.alliances);
     this.allianceNames.sort();
+
+    this.alliances['neutral'] = {
+      'name': 'unaffiliated',
+      'members': ['neutral'],
+      'color': '#474747'
+    }
+    this.allianceNames.push('neutral')
 }
 
 ScreepsMap.prototype.desiredCanvasWidth = function() {
