@@ -81,6 +81,7 @@ uca:
 
 ud:
   name: undefined
+  color: "#2AABFF"
   slack: ud
   members:
   - Azfaloth
