@@ -71,6 +71,7 @@ thunderkittens:
 uca:
   name: United Creep Alliance
   slack: uca_public
+  abbreviation: UCA
   members:
   - aster26
   - Icon
