@@ -1,3780 +1,2929 @@
-E1N11:
-    owner: Dissi
-    level: 1
-
-E1N12:
-    owner: Dissi
-    level: 1
-
-E1N13:
-    owner: Dissi
-    level: 1
-
-E1N14:
-    owner: Dissi
-    level: 1
-
-E1N15:
-    owner: Dissi
-    level: 1
-
-E1N16:
-    owner: Dissi
-    level: 1
-
-E1N26:
-    owner: Dissi
-    level: 1
-
-E2N11:
-    owner: Dissi
-    level: 1
-
-E2N12:
-    owner: Dissi
-    level: 1
-
-E2N13:
-    owner: Dissi
-    level: 1
-
-E2N14:
-    owner: Dissi
-    level: 1
-
-E2N15:
-    owner: Dissi
-    level: 1
-
-E2N16:
-    owner: Dissi
-    level: 1
-
-E2N19:
-    owner: Dissi
-    level: 1
-
-E2N23:
-    owner: Dissi
-    level: 1
-
-E2N25:
-    owner: Dissi
-    level: 1
-
-E2N26:
-    owner: Dissi
-    level: 1
-
-E2N27:
-    owner: Dissi
-    level: 1
-
-E2N7:
-    owner: Dissi
-    level: 1
-
-E3N11:
-    owner: Dissi
-    level: 1
-
-E3N12:
-    owner: Dissi
-    level: 1
-
-E3N13:
-    owner: Dissi
-    level: 1
-
-E3N14:
-    owner: Dissi
-    level: 1
-
-E3N15:
-    owner: Dissi
-    level: 1
-
-E3N16:
-    owner: Dissi
-    level: 1
-
-E3N17:
-    owner: Dissi
-    level: 1
-
-E3N18:
-    owner: Dissi
-    level: 1
-
-E3N19:
-    owner: Dissi
-    level: 1
-
-E3N21:
-    owner: Dissi
-    level: 1
-
-E3N22:
-    owner: Dissi
-    level: 1
-
-E3N23:
-    owner: Dissi
-    level: 1
-
-E3N25:
-    owner: Dissi
-    level: 1
-
-E3N26:
-    owner: Dissi
-    level: 1
-
-E3N7:
-    owner: Dissi
-    level: 1
-
-E3N8:
-    owner: Dissi
-    level: 1
-
-E3N9:
-    owner: Dissi
-    level: 1
-
-E4N11:
-    owner: Dissi
-    level: 1
-
-E4N12:
-    owner: Dissi
-    level: 1
-
-E4N17:
-    owner: Dissi
-    level: 1
-
-E4N18:
-    owner: Dissi
-    level: 1
-
-E4N21:
-    owner: Dissi
-    level: 1
-
-E4N22:
-    owner: Dissi
-    level: 1
-
-E4N23:
-    owner: Dissi
-    level: 1
-
-E4N8:
-    owner: Dissi
-    level: 1
-
-E5N11:
-    owner: Dissi
-    level: 1
-
-E5N12:
-    owner: Dissi
-    level: 1
-
-E5N17:
-    owner: Dissi
-    level: 1
-
-E5N18:
-    owner: Dissi
-    level: 1
-
-E5N21:
-    owner: Dissi
-    level: 1
-
-E5N22:
-    owner: Dissi
-    level: 1
-
-E5N23:
-    owner: Dissi
-    level: 1
-
-E5N27:
-    owner: Dissi
-    level: 1
-
-E5N7:
-    owner: Dissi
-    level: 1
-
-E5N8:
-    owner: Dissi
-    level: 1
-
-E6N11:
-    owner: Dissi
-    level: 1
-
-E6N17:
-    owner: Dissi
-    level: 1
-
-E6N7:
-    owner: Dissi
-    level: 1
-
-E6N8:
-    owner: Dissi
-    level: 1
-
-W1N12:
-    owner: Dissi
-    level: 1
-
-W1N16:
-    owner: Dissi
-    level: 1
-
-W1N17:
-    owner: Dissi
-    level: 1
-
-W1N18:
-    owner: Dissi
-    level: 1
-
-W1N19:
-    owner: Dissi
-    level: 1
-
-W1N8:
-    owner: Dissi
-    level: 1
-
-W1N9:
-    owner: Dissi
-    level: 1
-
-W2N11:
-    owner: Dissi
-    level: 1
-
-W2N12:
-    owner: Dissi
-    level: 1
-
-W2N13:
-    owner: Dissi
-    level: 1
-
-W2N14:
-    owner: Dissi
-    level: 1
-
-W2N16:
-    owner: Dissi
-    level: 1
-
-W2N17:
-    owner: Dissi
-    level: 1
-
-W2N18:
-    owner: Dissi
-    level: 1
-
-W2N8:
-    owner: Dissi
-    level: 1
-
-W2N9:
-    owner: Dissi
-    level: 1
-
-W3N11:
-    owner: Dissi
-    level: 1
-
-W3N12:
-    owner: Dissi
-    level: 1
-
-W3N13:
-    owner: Dissi
-    level: 1
-
-W3N14:
-    owner: Dissi
-    level: 1
-
-W3N15:
-    owner: Dissi
-    level: 1
-
-W3N17:
-    owner: Dissi
-    level: 1
-
-W3N8:
-    owner: Dissi
-    level: 1
-
-W3N9:
-    owner: Dissi
-    level: 1
-
-W4N11:
-    owner: Dissi
-    level: 1
-
-W4N12:
-    owner: Dissi
-    level: 1
-
-W4N13:
-    owner: Dissi
-    level: 1
-
-W4N8:
-    owner: Dissi
-    level: 1
-
-W5N11:
-    owner: Dissi
-    level: 1
-
-W5N12:
-    owner: Dissi
-    level: 1
-
-W5N8:
-    owner: Dissi
-    level: 1
-
-W6N8:
-    owner: Dissi
-    level: 1
-
 E11N19:
-    owner: Dissi
-    level: 1
-
-E6N18:
-    owner: Dissi
-    level: 1
-
-E6N21:
-    owner: Dissi
-    level: 1
-
-E6N22:
-    owner: Dissi
-    level: 1
-
-E6N23:
-    owner: Dissi
-    level: 1
-
-E7N11:
-    owner: Dissi
-    level: 1
-
-E7N12:
-    owner: Dissi
-    level: 1
-
-E7N14:
-    owner: Dissi
-    level: 1
-
-E7N15:
-    owner: Dissi
-    level: 1
-
-E7N16:
-    owner: Dissi
-    level: 1
-
-E7N17:
-    owner: Dissi
-    level: 1
-
-E7N18:
-    owner: Dissi
-    level: 1
-
-E7N21:
-    owner: Dissi
-    level: 1
-
-E7N22:
-    owner: Dissi
-    level: 1
-
-E7N23:
-    owner: Dissi
-    level: 1
-
-E7N24:
-    owner: Dissi
-    level: 1
-
-E7N25:
-    owner: Dissi
-    level: 1
-
-E7N8:
-    owner: Dissi
-    level: 1
-
-E7N9:
-    owner: Dissi
-    level: 1
-
-E8N11:
-    owner: Dissi
-    level: 1
-
-E8N12:
-    owner: Dissi
-    level: 1
-
-E8N13:
-    owner: Dissi
-    level: 1
-
-E8N14:
-    owner: Dissi
-    level: 1
-
-E8N15:
-    owner: Dissi
-    level: 1
-
-E8N16:
-    owner: Dissi
-    level: 1
-
-E8N17:
-    owner: Dissi
-    level: 1
-
-E8N18:
-    owner: Dissi
-    level: 1
-
-E8N19:
-    owner: Dissi
-    level: 1
-
-E8N8:
-    owner: Dissi
-    level: 1
-
-E8N9:
-    owner: Dissi
-    level: 1
-
-E9N11:
-    owner: Dissi
-    level: 1
-
-E9N12:
-    owner: Dissi
-    level: 1
-
-E9N17:
-    owner: Dissi
-    level: 1
-
-E9N18:
-    owner: Dissi
-    level: 1
-
-E9N8:
-    owner: Dissi
-    level: 1
-
-W7N8:
-    owner: Dissi
-    level: 1
-
-W7N9:
-    owner: Dissi
-    level: 1
-
-W17N11:
-    owner: Dissi
-    level: 1
-
-W17N12:
-    owner: Dissi
-    level: 1
-
-W17N13:
-    owner: Dissi
-    level: 1
-
-W18N11:
-    owner: Dissi
-    level: 1
-
-W18N12:
-    owner: Dissi
-    level: 1
-
-W18N13:
-    owner: Dissi
-    level: 1
-
-E1N17:
-    owner: NhanHo
-    level: 1
-
-E1N18:
-    owner: NhanHo
-    level: 1
-
-E1N19:
-    owner: NhanHo
-    level: 1
-
-E2N17:
-    owner: NhanHo
-    level: 1
-
-E2N18:
-    owner: NhanHo
-    level: 1
-
-E5S1:
-    owner: NhanHo
-    level: 1
-
-E5S13:
-    owner: NhanHo
-    level: 1
-
-E5S2:
-    owner: NhanHo
-    level: 1
-
-E6N12:
-    owner: NhanHo
-    level: 1
-
-E6N13:
-    owner: NhanHo
-    level: 1
-
-E6S1:
-    owner: NhanHo
-    level: 1
-
-E6S11:
-    owner: NhanHo
-    level: 1
-
-E6S12:
-    owner: NhanHo
-    level: 1
-
-E6S13:
-    owner: NhanHo
-    level: 1
-
-E6S2:
-    owner: NhanHo
-    level: 1
-
-E6S3:
-    owner: NhanHo
-    level: 1
-
-W3S13:
-    owner: NhanHo
-    level: 1
-
-W3S14:
-    owner: NhanHo
-    level: 1
-
-W3S15:
-    owner: NhanHo
-    level: 1
-
-E11S3:
-    owner: NhanHo
-    level: 1
-
-E7S12:
-    owner: NhanHo
-    level: 1
-
-E7S2:
-    owner: NhanHo
-    level: 1
-
-E7S3:
-    owner: NhanHo
-    level: 1
-
-E7S4:
-    owner: NhanHo
-    level: 1
-
-E8S17:
-    owner: NhanHo
-    level: 1
-
-E8S18:
-    owner: NhanHo
-    level: 1
-
-E8S19:
-    owner: NhanHo
-    level: 1
-
-E8S2:
-    owner: NhanHo
-    level: 1
-
-E8S3:
-    owner: NhanHo
-    level: 1
-
-E8S4:
-    owner: NhanHo
-    level: 1
-
-E9S18:
-    owner: NhanHo
-    level: 1
-
-W11N15:
-    owner: NhanHo
-    level: 1
-
-W11N16:
-    owner: NhanHo
-    level: 1
-
-W11N2:
-    owner: NhanHo
-    level: 1
-
-E12N12:
-    owner: NhanHo
-    level: 1
-
-E12N13:
-    owner: NhanHo
-    level: 1
-
-E12S2:
-    owner: NhanHo
-    level: 1
-
-E12S3:
-    owner: NhanHo
-    level: 1
-
-E13S1:
-    owner: NhanHo
-    level: 1
-
-E13S2:
-    owner: NhanHo
-    level: 1
-
-E13S3:
-    owner: NhanHo
-    level: 1
-
-E14N7:
-    owner: NhanHo
-    level: 1
-
-E14N8:
-    owner: NhanHo
-    level: 1
-
-E14S1:
-    owner: NhanHo
-    level: 1
-
-E14S2:
-    owner: NhanHo
-    level: 1
-
-E15N11:
-    owner: NhanHo
-    level: 1
-
-E15N12:
-    owner: NhanHo
-    level: 1
-
-E15N7:
-    owner: NhanHo
-    level: 1
-
-E15N8:
-    owner: NhanHo
-    level: 1
-
-E15S1:
-    owner: NhanHo
-    level: 1
-
-E15S2:
-    owner: NhanHo
-    level: 1
-
-E16N11:
-    owner: NhanHo
-    level: 1
-
-E16N12:
-    owner: NhanHo
-    level: 1
-
-E16N8:
-    owner: NhanHo
-    level: 1
-
-E16S1:
-    owner: NhanHo
-    level: 1
-
-E16S2:
-    owner: NhanHo
-    level: 1
-
-E16S3:
-    owner: NhanHo
-    level: 1
-
-W12N1:
-    owner: NhanHo
-    level: 1
-
-W12N15:
-    owner: NhanHo
-    level: 1
-
-W12N16:
-    owner: NhanHo
-    level: 1
-
-W12N2:
-    owner: NhanHo
-    level: 1
-
-W12N3:
-    owner: NhanHo
-    level: 1
-
-E17N11:
-    owner: NhanHo
-    level: 1
-
-E17N9:
-    owner: NhanHo
-    level: 1
-
-E17S1:
-    owner: NhanHo
-    level: 1
-
-E17S2:
-    owner: NhanHo
-    level: 1
-
-E17S3:
-    owner: NhanHo
-    level: 1
-
-E18N9:
-    owner: NhanHo
-    level: 1
-
-E19N23:
-    owner: NhanHo
-    level: 1
-
-E21N13:
-    owner: NhanHo
-    level: 1
-
-E21N15:
-    owner: NhanHo
-    level: 1
-
-E21N4:
-    owner: NhanHo
-    level: 1
-
-E21N5:
-    owner: NhanHo
-    level: 1
-
-W18N14:
-    owner: NhanHo
-    level: 1
-
-W19N13:
-    owner: NhanHo
-    level: 1
-
-E22N12:
-    owner: NhanHo
-    level: 1
-
-E22N13:
-    owner: NhanHo
-    level: 1
-
-E22N14:
-    owner: NhanHo
-    level: 1
-
-E22N15:
-    owner: NhanHo
-    level: 1
-
-E22N16:
-    owner: NhanHo
-    level: 1
-
-E22N17:
-    owner: NhanHo
-    level: 1
-
-E22N26:
-    owner: NhanHo
-    level: 1
-
-E22N28:
-    owner: NhanHo
-    level: 1
-
-E22N29:
-    owner: NhanHo
-    level: 1
-
-E22N5:
-    owner: NhanHo
-    level: 1
-
-E23N12:
-    owner: NhanHo
-    level: 1
-
-E23N16:
-    owner: NhanHo
-    level: 1
-
-E23N17:
-    owner: NhanHo
-    level: 1
-
-E23N18:
-    owner: NhanHo
-    level: 1
-
-E23N19:
-    owner: NhanHo
-    level: 1
-
-E23N26:
-    owner: NhanHo
-    level: 1
-
-E23N27:
-    owner: NhanHo
-    level: 1
-
-E24N11:
-    owner: NhanHo
-    level: 1
-
-E24N12:
-    owner: NhanHo
-    level: 1
-
-E24N17:
-    owner: NhanHo
-    level: 1
-
-E24N18:
-    owner: NhanHo
-    level: 1
-
-E24N23:
-    owner: NhanHo
-    level: 1
-
-E24N27:
-    owner: NhanHo
-    level: 1
-
-E25N11:
-    owner: NhanHo
-    level: 1
-
-E25N12:
-    owner: NhanHo
-    level: 1
-
-E25N17:
-    owner: NhanHo
-    level: 1
-
-E25N18:
-    owner: NhanHo
-    level: 1
-
-E25N21:
-    owner: NhanHo
-    level: 1
-
-E25N23:
-    owner: NhanHo
-    level: 1
-
-E26N17:
-    owner: NhanHo
-    level: 1
-
-E1N56:
-    owner: SemperRabbit
-    level: 1
-
-E2N56:
-    owner: SemperRabbit
-    level: 1
-
-E2N57:
-    owner: SemperRabbit
-    level: 1
-
-E3N56:
-    owner: SemperRabbit
-    level: 1
-
-E3N57:
-    owner: SemperRabbit
-    level: 1
-
-E3N58:
-    owner: SemperRabbit
-    level: 1
-
-E4N58:
-    owner: SemperRabbit
-    level: 1
-
-W1N43:
-    owner: TranceCake
-    level: 1
-
-W1N45:
-    owner: TranceCake
-    level: 1
-
-W2N44:
-    owner: TranceCake
-    level: 1
-
-W3N42:
-    owner: TranceCake
-    level: 1
-
-W4N41:
-    owner: TranceCake
-    level: 1
-
-W4N43:
-    owner: TranceCake
-    level: 1
-
-W1S42:
-    owner: Atlan
-    level: 1
-
-W1S43:
-    owner: Atlan
-    level: 1
-
-W2S43:
-    owner: Atlan
-    level: 1
-
-W2S47:
-    owner: Atlan
-    level: 1
-
-W3S46:
-    owner: Atlan
-    level: 1
-
-W3S47:
-    owner: Atlan
-    level: 1
-
-W4S41:
-    owner: Atlan
-    level: 1
-
-W5S41:
-    owner: Atlan
-    level: 1
-
-W5S42:
-    owner: Atlan
-    level: 1
-
-W5S43:
-    owner: Atlan
-    level: 1
-
-W6S41:
-    owner: Atlan
-    level: 1
-
-W7S43:
-    owner: Atlan
-    level: 1
-
-W7S44:
-    owner: Atlan
-    level: 1
-
-W7S47:
-    owner: Atlan
-    level: 1
-
-W8S44:
-    owner: Atlan
-    level: 1
-
-W8S48:
-    owner: Atlan
-    level: 1
-
-W8S49:
-    owner: Atlan
-    level: 1
-
-W11S34:
-    owner: Atlan
-    level: 1
-
-W11S35:
-    owner: Atlan
-    level: 1
-
-W12S34:
-    owner: Atlan
-    level: 1
-
-W2N45:
-    owner: Remco
-    level: 1
-
-W2N46:
-    owner: Remco
-    level: 1
-
-W4N42:
-    owner: Remco
-    level: 1
-
-W5N42:
-    owner: Remco
-    level: 1
-
-W5N43:
-    owner: Remco
-    level: 1
-
-W6N42:
-    owner: Remco
-    level: 1
-
-W6N48:
-    owner: Remco
-    level: 1
-
-W7N42:
-    owner: Remco
-    level: 1
-
-W7N44:
-    owner: Remco
-    level: 1
-
-W7N45:
-    owner: Remco
-    level: 1
-
-W7N47:
-    owner: Remco
-    level: 1
-
-W8N47:
-    owner: Remco
-    level: 1
-
+  level: 0
+  owner: Dissi
 E11S1:
-    owner: TooAngel
-    level: 1
-
+  level: 0
+  owner: TooAngel
 E11S11:
-    owner: TooAngel
-    level: 1
-
+  level: 7
+  owner: TooAngel
+E11S12:
+  level: 0
+  owner: TooAngel
 E11S2:
-    owner: TooAngel
-    level: 1
-
-E7S11:
-    owner: TooAngel
-    level: 1
-
-E7S8:
-    owner: TooAngel
-    level: 1
-
-E7S9:
-    owner: TooAngel
-    level: 1
-
-E8S8:
-    owner: TooAngel
-    level: 1
-
-E8S9:
-    owner: TooAngel
-    level: 1
-
-E9S2:
-    owner: TooAngel
-    level: 1
-
-E9S3:
-    owner: TooAngel
-    level: 1
-
-E9S8:
-    owner: TooAngel
-    level: 1
-
+  level: 0
+  owner: TooAngel
+E11S3:
+  level: 0
+  owner: NhanHo
+E11S9:
+  level: 0
+  owner: TooAngel
+E12N12:
+  level: 8
+  owner: NhanHo
+E12N13:
+  level: 0
+  owner: NhanHo
 E12S1:
-    owner: TooAngel
-    level: 1
-
+  level: 8
+  owner: TooAngel
 E12S11:
-    owner: TooAngel
-    level: 1
-
+  level: 0
+  owner: TooAngel
+E12S12:
+  level: 0
+  owner: TooAngel
+E12S2:
+  level: 0
+  owner: NhanHo
+E12S3:
+  level: 0
+  owner: NhanHo
 E12S7:
-    owner: TooAngel
-    level: 1
-
+  level: 0
+  owner: TooAngel
 E12S8:
-    owner: TooAngel
-    level: 1
-
+  level: 7
+  owner: TooAngel
 E12S9:
-    owner: TooAngel
-    level: 1
-
+  level: 8
+  owner: TooAngel
+E13S1:
+  level: 0
+  owner: NhanHo
 E13S13:
-    owner: TooAngel
-    level: 1
-
+  level: 7
+  owner: TooAngel
+E13S14:
+  level: 0
+  owner: TooAngel
+E13S2:
+  level: 0
+  owner: NhanHo
+E13S3:
+  level: 8
+  owner: NhanHo
 E13S9:
-    owner: TooAngel
-    level: 1
-
-W14N18:
-    owner: TooAngel
-    level: 1
-
-W14N21:
-    owner: TooAngel
-    level: 1
-
-W14N22:
-    owner: TooAngel
-    level: 1
-
-W15N18:
-    owner: TooAngel
-    level: 1
-
-W15N21:
-    owner: TooAngel
-    level: 1
-
-W15N23:
-    owner: TooAngel
-    level: 1
-
-W16N22:
-    owner: TooAngel
-    level: 1
-
-E21S1:
-    owner: TooAngel
-    level: 1
-
-E21S2:
-    owner: TooAngel
-    level: 1
-
-E21S3:
-    owner: TooAngel
-    level: 1
-
-E21S4:
-    owner: TooAngel
-    level: 1
-
-W17N21:
-    owner: TooAngel
-    level: 1
-
-W17N22:
-    owner: TooAngel
-    level: 1
-
-E22S1:
-    owner: TooAngel
-    level: 1
-
-E22S2:
-    owner: TooAngel
-    level: 1
-
-E23S1:
-    owner: TooAngel
-    level: 1
-
-E23S2:
-    owner: TooAngel
-    level: 1
-
-E24S1:
-    owner: TooAngel
-    level: 1
-
-E26N12:
-    owner: TooAngel
-    level: 1
-
-E26N8:
-    owner: TooAngel
-    level: 1
-
-E27N11:
-    owner: TooAngel
-    level: 1
-
-E27N12:
-    owner: TooAngel
-    level: 1
-
-E27N5:
-    owner: TooAngel
-    level: 1
-
-E27N8:
-    owner: TooAngel
-    level: 1
-
-E28N11:
-    owner: TooAngel
-    level: 1
-
-E28N12:
-    owner: TooAngel
-    level: 1
-
-E28N5:
-    owner: TooAngel
-    level: 1
-
-E28N6:
-    owner: TooAngel
-    level: 1
-
-E28N7:
-    owner: TooAngel
-    level: 1
-
-E28N8:
-    owner: TooAngel
-    level: 1
-
-E29N11:
-    owner: TooAngel
-    level: 1
-
-E29N12:
-    owner: TooAngel
-    level: 1
-
-E29N13:
-    owner: TooAngel
-    level: 1
-
-E29N7:
-    owner: TooAngel
-    level: 1
-
-E29N8:
-    owner: TooAngel
-    level: 1
-
-E32N9:
-    owner: TooAngel
-    level: 1
-
-E33N15:
-    owner: TooAngel
-    level: 1
-
-E33N8:
-    owner: TooAngel
-    level: 1
-
-E6N53:
-    owner: weekOff
-    level: 1
-
-E7N51:
-    owner: weekOff
-    level: 1
-
-E7N52:
-    owner: weekOff
-    level: 1
-
-E7N53:
-    owner: weekOff
-    level: 1
-
-E7N54:
-    owner: weekOff
-    level: 1
-
-E8N51:
-    owner: weekOff
-    level: 1
-
-E8N52:
-    owner: weekOff
-    level: 1
-
-E8N53:
-    owner: weekOff
-    level: 1
-
-E8N54:
-    owner: weekOff
-    level: 1
-
-E7N56:
-    owner: NihilRex
-    level: 1
-
-E7N57:
-    owner: NihilRex
-    level: 1
-
-E8N56:
-    owner: NihilRex
-    level: 1
-
-E8N57:
-    owner: NihilRex
-    level: 1
-
-E9N57:
-    owner: NihilRex
-    level: 1
-
-E9N58:
-    owner: daboross
-    level: 1
-
-W11N45:
-    owner: Garland
-    level: 1
-
-W11N47:
-    owner: Garland
-    level: 1
-
-W11N48:
-    owner: Garland
-    level: 1
-
-W12N45:
-    owner: Garland
-    level: 1
-
-W12N46:
-    owner: Garland
-    level: 1
-
-W12N47:
-    owner: Garland
-    level: 1
-
-W12N48:
-    owner: Garland
-    level: 1
-
-W13N43:
-    owner: Garland
-    level: 1
-
-W13N46:
-    owner: Garland
-    level: 1
-
-W13N47:
-    owner: Garland
-    level: 1
-
-W14N47:
-    owner: Garland
-    level: 1
-
-W14N48:
-    owner: Garland
-    level: 1
-
-W11S44:
-    owner: Tanjera
-    level: 1
-
-W11S45:
-    owner: Tanjera
-    level: 1
-
-W11S46:
-    owner: Tanjera
-    level: 1
-
-W12S41:
-    owner: Tanjera
-    level: 1
-
-W12S44:
-    owner: Tanjera
-    level: 1
-
-W13S41:
-    owner: Tanjera
-    level: 1
-
-W13S42:
-    owner: Tanjera
-    level: 1
-
-W14S42:
-    owner: Tanjera
-    level: 1
-
-W15S41:
-    owner: Tanjera
-    level: 1
-
-W15S42:
-    owner: Tanjera
-    level: 1
-
-W15S43:
-    owner: Tanjera
-    level: 1
-
-W17S43:
-    owner: Tanjera
-    level: 1
-
-W18S41:
-    owner: Tanjera
-    level: 1
-
-W18S42:
-    owner: Tanjera
-    level: 1
-
-W18S43:
-    owner: Tanjera
-    level: 1
-
-W19S41:
-    owner: Tanjera
-    level: 1
-
-W19S42:
-    owner: Tanjera
-    level: 1
-
-W12N32:
-    owner: Revrick
-    level: 1
-
-W12N33:
-    owner: Revrick
-    level: 1
-
-W12N36:
-    owner: Revrick
-    level: 1
-
-W13N33:
-    owner: Revrick
-    level: 1
-
-W13N34:
-    owner: Revrick
-    level: 1
-
-W13N36:
-    owner: Revrick
-    level: 1
-
-W14N31:
-    owner: Revrick
-    level: 1
-
-W14N32:
-    owner: Revrick
-    level: 1
-
-W14N33:
-    owner: Revrick
-    level: 1
-
-W14N37:
-    owner: Revrick
-    level: 1
-
-W15N31:
-    owner: Revrick
-    level: 1
-
-W15N33:
-    owner: Revrick
-    level: 1
-
-W15N38:
-    owner: Revrick
-    level: 1
-
-W16N38:
-    owner: Revrick
-    level: 1
-
-W12S48:
-    owner: Pantek59
-    level: 1
-
-W12S49:
-    owner: Pantek59
-    level: 1
-
-W13S49:
-    owner: Pantek59
-    level: 1
-
-W17S44:
-    owner: Pantek59
-    level: 1
-
-W17S45:
-    owner: Pantek59
-    level: 1
-
-W17S46:
-    owner: Pantek59
-    level: 1
-
-W17S47:
-    owner: Pantek59
-    level: 1
-
-W17S48:
-    owner: Pantek59
-    level: 1
-
-W17S49:
-    owner: Pantek59
-    level: 1
-
-W18S44:
-    owner: Pantek59
-    level: 1
-
-W18S45:
-    owner: Pantek59
-    level: 1
-
-W18S47:
-    owner: Pantek59
-    level: 1
-
-W18S48:
-    owner: Pantek59
-    level: 1
-
-W18S49:
-    owner: Pantek59
-    level: 1
-
-W19S47:
-    owner: Pantek59
-    level: 1
-
-W13N56:
-    owner: Nisou
-    level: 1
-
-W15N53:
-    owner: Nisou
-    level: 1
-
-W16N51:
-    owner: Nisou
-    level: 1
-
-W16N52:
-    owner: Nisou
-    level: 1
-
-W16N53:
-    owner: Nisou
-    level: 1
-
-W17N51:
-    owner: Nisou
-    level: 1
-
-W17N52:
-    owner: Nisou
-    level: 1
-
-W18N51:
-    owner: Nisou
-    level: 1
-
-W19N51:
-    owner: Nisou
-    level: 1
-
-W19N52:
-    owner: Nisou
-    level: 1
-
-W14N53:
-    owner: Prime
-    level: 1
-
-W15N48:
-    owner: Azfaloth
-    level: 1
-
-W17N45:
-    owner: Azfaloth
-    level: 1
-
-W17N46:
-    owner: Azfaloth
-    level: 1
-
-W17N48:
-    owner: Azfaloth
-    level: 1
-
-W17N49:
-    owner: Azfaloth
-    level: 1
-
-W18N46:
-    owner: Azfaloth
-    level: 1
-
-W18N48:
-    owner: Azfaloth
-    level: 1
-
-W18N49:
-    owner: Azfaloth
-    level: 1
-
-W19N48:
-    owner: Azfaloth
-    level: 1
-
-W23N46:
-    owner: Azfaloth
-    level: 1
-
-W23N48:
-    owner: Azfaloth
-    level: 1
-
-W15S37:
-    owner: Atavus
-    level: 1
-
-W16S32:
-    owner: Atavus
-    level: 1
-
-W17S31:
-    owner: Atavus
-    level: 1
-
-W17S32:
-    owner: Atavus
-    level: 1
-
-W17S33:
-    owner: Atavus
-    level: 1
-
-W17S35:
-    owner: Atavus
-    level: 1
-
-W17S38:
-    owner: Atavus
-    level: 1
-
-W17S39:
-    owner: Atavus
-    level: 1
-
-W18S37:
-    owner: Atavus
-    level: 1
-
-W18S39:
-    owner: Atavus
-    level: 1
-
-W19S37:
-    owner: Atavus
-    level: 1
-
-W19S38:
-    owner: Atavus
-    level: 1
-
-W21S38:
-    owner: Atavus
-    level: 1
-
-W21S39:
-    owner: Atavus
-    level: 1
-
-W22S35:
-    owner: Atavus
-    level: 1
-
-W22S36:
-    owner: Atavus
-    level: 1
-
-W22S37:
-    owner: Atavus
-    level: 1
-
-W22S38:
-    owner: Atavus
-    level: 1
-
-W23S35:
-    owner: Atavus
-    level: 1
-
-W23S39:
-    owner: Atavus
-    level: 1
-
-W25S37:
-    owner: Atavus
-    level: 1
-
-W26S37:
-    owner: Atavus
-    level: 1
-
-W27S39:
-    owner: Atavus
-    level: 1
-
-W28S35:
-    owner: Atavus
-    level: 1
-
-W28S36:
-    owner: Atavus
-    level: 1
-
-W28S37:
-    owner: Atavus
-    level: 1
-
-W28S38:
-    owner: Atavus
-    level: 1
-
-W28S39:
-    owner: Atavus
-    level: 1
-
+  level: 0
+  owner: TooAngel
+E14N7:
+  level: 0
+  owner: NhanHo
+E14N8:
+  level: 0
+  owner: NhanHo
+E14S1:
+  level: 8
+  owner: NhanHo
+E14S2:
+  level: 0
+  owner: NhanHo
+E15N11:
+  level: 0
+  owner: NhanHo
+E15N12:
+  level: 8
+  owner: NhanHo
+E15N52:
+  level: 2
+  owner: daboross
+E15N7:
+  level: 8
+  owner: NhanHo
+E15N8:
+  level: 0
+  owner: NhanHo
+E15S1:
+  level: 0
+  owner: NhanHo
+E15S2:
+  level: 0
+  owner: NhanHo
+E16N11:
+  level: 8
+  owner: NhanHo
+E16N12:
+  level: 0
+  owner: NhanHo
+E16N8:
+  level: 0
+  owner: NhanHo
+E16S1:
+  level: 0
+  owner: NhanHo
+E16S2:
+  level: 8
+  owner: NhanHo
+E16S3:
+  level: 0
+  owner: NhanHo
+E17N11:
+  level: 0
+  owner: NhanHo
+E17N9:
+  level: 0
+  owner: NhanHo
+E17S1:
+  level: 0
+  owner: NhanHo
+E17S2:
+  level: 0
+  owner: NhanHo
+E17S3:
+  level: 0
+  owner: NhanHo
+E18N9:
+  level: 8
+  owner: NhanHo
+E19N23:
+  level: 7
+  owner: NhanHo
+E1N11:
+  level: 8
+  owner: Dissi
+E1N12:
+  level: 0
+  owner: Dissi
+E1N13:
+  level: 8
+  owner: Dissi
+E1N14:
+  level: 0
+  owner: Dissi
+E1N15:
+  level: 0
+  owner: Dissi
+E1N16:
+  level: 8
+  owner: Dissi
+E1N17:
+  level: 0
+  owner: NhanHo
+E1N18:
+  level: 8
+  owner: NhanHo
+E1N19:
+  level: 0
+  owner: NhanHo
+E1N26:
+  level: 0
+  owner: Dissi
+E1N56:
+  level: 0
+  owner: SemperRabbit
 E21N1:
-    owner: Amadox
-    level: 1
-
+  level: 8
+  owner: Amadox
 E21N12:
-    owner: Amadox
-    level: 1
-
+  level: 5
+  owner: Amadox
+E21N13:
+  level: 0
+  owner: NhanHo
+E21N15:
+  level: 0
+  owner: NhanHo
+E21N4:
+  level: 0
+  owner: NhanHo
+E21N5:
+  level: 8
+  owner: NhanHo
 E21N7:
-    owner: Amadox
-    level: 1
-
-E22N2:
-    owner: Amadox
-    level: 1
-
-E22N3:
-    owner: Amadox
-    level: 1
-
-E22N6:
-    owner: Amadox
-    level: 1
-
-E22N7:
-    owner: Amadox
-    level: 1
-
-E23N5:
-    owner: Amadox
-    level: 1
-
-E23N6:
-    owner: Amadox
-    level: 1
-
-E24N3:
-    owner: Amadox
-    level: 1
-
-E25N3:
-    owner: Amadox
-    level: 1
-
+  level: 0
+  owner: Amadox
+E21S1:
+  level: 7
+  owner: TooAngel
+E21S2:
+  level: 0
+  owner: TooAngel
 E21S25:
-    owner: bonzaiferroni
-    level: 1
-
+  level: 6
+  owner: bonzaiferroni
 E21S27:
-    owner: bonzaiferroni
-    level: 1
-
+  level: 0
+  owner: bonzaiferroni
+E21S3:
+  level: 0
+  owner: TooAngel
+E21S4:
+  level: 0
+  owner: TooAngel
+E22N12:
+  level: 0
+  owner: NhanHo
+E22N13:
+  level: 8
+  owner: NhanHo
+E22N14:
+  level: 0
+  owner: NhanHo
+E22N15:
+  level: 8
+  owner: NhanHo
+E22N16:
+  level: 0
+  owner: NhanHo
+E22N17:
+  level: 0
+  owner: NhanHo
+E22N2:
+  level: 8
+  owner: Amadox
+E22N26:
+  level: 8
+  owner: NhanHo
+E22N28:
+  level: 0
+  owner: NhanHo
+E22N29:
+  level: 7
+  owner: NhanHo
+E22N3:
+  level: 8
+  owner: Amadox
+E22N5:
+  level: 0
+  owner: NhanHo
+E22N6:
+  level: 0
+  owner: Amadox
+E22N7:
+  level: 8
+  owner: Amadox
+E22S1:
+  level: 0
+  owner: TooAngel
 E22S25:
-    owner: bonzaiferroni
-    level: 1
-
+  level: 0
+  owner: bonzaiferroni
 E22S26:
-    owner: bonzaiferroni
-    level: 1
-
+  level: 8
+  owner: bonzaiferroni
 E22S27:
-    owner: bonzaiferroni
-    level: 1
-
+  level: 0
+  owner: bonzaiferroni
+E23N12:
+  level: 0
+  owner: NhanHo
+E23N16:
+  level: 0
+  owner: NhanHo
+E23N17:
+  level: 8
+  owner: NhanHo
+E23N18:
+  level: 0
+  owner: NhanHo
+E23N19:
+  level: 0
+  owner: NhanHo
+E23N26:
+  level: 0
+  owner: NhanHo
+E23N27:
+  level: 0
+  owner: NhanHo
+E23N5:
+  level: 8
+  owner: Amadox
+E23N6:
+  level: 8
+  owner: Amadox
+E23S1:
+  level: 0
+  owner: TooAngel
+E23S14:
+  level: 0
+  owner: bonzaiferroni
 E23S15:
-    owner: bonzaiferroni
-    level: 1
-
+  level: 8
+  owner: bonzaiferroni
+E23S2:
+  level: 0
+  owner: TooAngel
 E23S25:
-    owner: bonzaiferroni
-    level: 1
-
+  level: 0
+  owner: bonzaiferroni
 E23S26:
-    owner: bonzaiferroni
-    level: 1
-
-E24S23:
-    owner: bonzaiferroni
-    level: 1
-
-E25S17:
-    owner: bonzaiferroni
-    level: 1
-
-E25S22:
-    owner: bonzaiferroni
-    level: 1
-
-E25S23:
-    owner: bonzaiferroni
-    level: 1
-
-E26S17:
-    owner: bonzaiferroni
-    level: 1
-
-E26S18:
-    owner: bonzaiferroni
-    level: 1
-
-E26S27:
-    owner: bonzaiferroni
-    level: 1
-
-E26S28:
-    owner: bonzaiferroni
-    level: 1
-
-E27S14:
-    owner: bonzaiferroni
-    level: 1
-
-E27S16:
-    owner: bonzaiferroni
-    level: 1
-
-E27S17:
-    owner: bonzaiferroni
-    level: 1
-
-E27S18:
-    owner: bonzaiferroni
-    level: 1
-
-E27S19:
-    owner: bonzaiferroni
-    level: 1
-
-E27S25:
-    owner: bonzaiferroni
-    level: 1
-
-E28S16:
-    owner: bonzaiferroni
-    level: 1
-
-E28S19:
-    owner: bonzaiferroni
-    level: 1
-
-E31S17:
-    owner: bonzaiferroni
-    level: 1
-
-E31S18:
-    owner: bonzaiferroni
-    level: 1
-
-E32S1:
-    owner: bonzaiferroni
-    level: 1
-
-E32S17:
-    owner: bonzaiferroni
-    level: 1
-
-E32S18:
-    owner: bonzaiferroni
-    level: 1
-
-E32S2:
-    owner: bonzaiferroni
-    level: 1
-
-E32S19:
-    owner: bonzaiferroni
-    level: 1
-
-E33S1:
-    owner: bonzaiferroni
-    level: 1
-
-E33S16:
-    owner: bonzaiferroni
-    level: 1
-
-E33S17:
-    owner: bonzaiferroni
-    level: 1
-
-E33S2:
-    owner: bonzaiferroni
-    level: 1
-
-E34S13:
-    owner: bonzaiferroni
-    level: 1
-
-E34S2:
-    owner: bonzaiferroni
-    level: 1
-
-E34S3:
-    owner: bonzaiferroni
-    level: 1
-
-E35S13:
-    owner: bonzaiferroni
-    level: 1
-
-E36S17:
-    owner: bonzaiferroni
-    level: 1
-
-E37S14:
-    owner: bonzaiferroni
-    level: 1
-
-E38S14:
-    owner: bonzaiferroni
-    level: 1
-
-W21S41:
-    owner: BlackLotus
-    level: 1
-
-W21S42:
-    owner: BlackLotus
-    level: 1
-
-W21S43:
-    owner: BlackLotus
-    level: 1
-
-W22S41:
-    owner: BlackLotus
-    level: 1
-
-W22S42:
-    owner: BlackLotus
-    level: 1
-
-W22S43:
-    owner: BlackLotus
-    level: 1
-
-W22S47:
-    owner: BlackLotus
-    level: 1
-
-W23S41:
-    owner: BlackLotus
-    level: 1
-
-W23S42:
-    owner: BlackLotus
-    level: 1
-
-W23S43:
-    owner: BlackLotus
-    level: 1
-
-W23S47:
-    owner: BlackLotus
-    level: 1
-
-W23S48:
-    owner: BlackLotus
-    level: 1
-
-W23S49:
-    owner: BlackLotus
-    level: 1
-
-W24S41:
-    owner: BlackLotus
-    level: 1
-
-W24S42:
-    owner: BlackLotus
-    level: 1
-
-W24S47:
-    owner: BlackLotus
-    level: 1
-
-W24S48:
-    owner: BlackLotus
-    level: 1
-
-W25S41:
-    owner: BlackLotus
-    level: 1
-
-W25S43:
-    owner: BlackLotus
-    level: 1
-
-W27S45:
-    owner: BlackLotus
-    level: 1
-
-W28S41:
-    owner: BlackLotus
-    level: 1
-
-W28S42:
-    owner: BlackLotus
-    level: 1
-
-W29S41:
-    owner: BlackLotus
-    level: 1
-
-W29S42:
-    owner: BlackLotus
-    level: 1
-
-W31S41:
-    owner: BlackLotus
-    level: 1
-
-W31S42:
-    owner: BlackLotus
-    level: 1
-
-W32S42:
-    owner: BlackLotus
-    level: 1
-
+  level: 8
+  owner: bonzaiferroni
 E23S36:
-    owner: SteeleR
-    level: 1
-
-E25S33:
-    owner: SteeleR
-    level: 1
-
-E27S36:
-    owner: SteeleR
-    level: 1
-
-E28S32:
-    owner: SteeleR
-    level: 1
-
-E28S33:
-    owner: SteeleR
-    level: 1
-
-E28S34:
-    owner: SteeleR
-    level: 1
-
-E29S33:
-    owner: SteeleR
-    level: 1
-
-E33S25:
-    owner: SteeleR
-    level: 1
-
-E36S27:
-    owner: SteeleR
-    level: 1
-
-E36S28:
-    owner: SteeleR
-    level: 1
-
-E37S25:
-    owner: SteeleR
-    level: 1
-
-E37S26:
-    owner: SteeleR
-    level: 1
-
-E37S27:
-    owner: SteeleR
-    level: 1
-
-E37S28:
-    owner: SteeleR
-    level: 1
-
-E37S29:
-    owner: SteeleR
-    level: 1
-
-E38S25:
-    owner: SteeleR
-    level: 1
-
-E38S26:
-    owner: SteeleR
-    level: 1
-
-E38S27:
-    owner: SteeleR
-    level: 1
-
-E38S28:
-    owner: SteeleR
-    level: 1
-
-E38S29:
-    owner: SteeleR
-    level: 1
-
-E39S28:
-    owner: SteeleR
-    level: 1
-
-E43S26:
-    owner: SteeleR
-    level: 1
-
-E47S26:
-    owner: SteeleR
-    level: 1
-
-E47S27:
-    owner: SteeleR
-    level: 1
-
-W43S54:
-    owner: SteeleR
-    level: 1
-
+  level: 8
+  owner: SteeleR
+E23S5:
+  level: 8
+  owner: Reini
+E23S6:
+  level: 0
+  owner: Reini
+E23S7:
+  level: 0
+  owner: Reini
+E24N11:
+  level: 0
+  owner: NhanHo
+E24N12:
+  level: 8
+  owner: NhanHo
+E24N17:
+  level: 0
+  owner: NhanHo
+E24N18:
+  level: 0
+  owner: NhanHo
+E24N23:
+  level: 8
+  owner: NhanHo
+E24N27:
+  level: 8
+  owner: NhanHo
+E24N3:
+  level: 5
+  owner: Amadox
+E24S1:
+  level: 5
+  owner: TooAngel
+E24S23:
+  level: 0
+  owner: bonzaiferroni
+E24S7:
+  level: 8
+  owner: Reini
+E24S8:
+  level: 8
+  owner: Reini
+E25N11:
+  level: 0
+  owner: NhanHo
+E25N12:
+  level: 0
+  owner: NhanHo
+E25N17:
+  level: 8
+  owner: NhanHo
+E25N18:
+  level: 0
+  owner: NhanHo
+E25N21:
+  level: 4
+  owner: NhanHo
+E25N23:
+  level: 0
+  owner: NhanHo
+E25N3:
+  level: 7
+  owner: Amadox
 E25N7:
-    owner: bldinator
-    level: 1
-
-E31N5:
-    owner: bldinator
-    level: 1
-
-E32N5:
-    owner: bldinator
-    level: 1
-
-E32N6:
-    owner: bldinator
-    level: 1
-
-E33N6:
-    owner: bldinator
-    level: 1
-
-E33N7:
-    owner: bldinator
-    level: 1
-
-E34N2:
-    owner: bldinator
-    level: 1
-
-E35N1:
-    owner: bldinator
-    level: 1
-
-E35N2:
-    owner: bldinator
-    level: 1
-
-E36N2:
-    owner: bldinator
-    level: 1
-
-E36N3:
-    owner: bldinator
-    level: 1
-
-E37N3:
-    owner: bldinator
-    level: 1
-
-E38N3:
-    owner: bldinator
-    level: 1
-
-E41N3:
-    owner: bldinator
-    level: 1
-
-E41N4:
-    owner: bldinator
-    level: 1
-
-E41N5:
-    owner: bldinator
-    level: 1
-
-E46N3:
-    owner: bldinator
-    level: 1
-
-E47N2:
-    owner: bldinator
-    level: 1
-
-E47N3:
-    owner: bldinator
-    level: 1
-
+  level: 5
+  owner: bldinator
+E25S17:
+  level: 8
+  owner: bonzaiferroni
+E25S18:
+  level: 0
+  owner: bonzaiferroni
+E25S22:
+  level: 0
+  owner: bonzaiferroni
+E25S23:
+  level: 8
+  owner: bonzaiferroni
+E25S33:
+  level: 8
+  owner: SteeleR
+E25S7:
+  level: 8
+  owner: Reini
+E26N12:
+  level: 0
+  owner: TooAngel
+E26N17:
+  level: 0
+  owner: NhanHo
+E26N7:
+  level: 0
+  owner: bldinator
+E26S17:
+  level: 0
+  owner: bonzaiferroni
+E26S18:
+  level: 0
+  owner: bonzaiferroni
+E26S27:
+  level: 8
+  owner: bonzaiferroni
+E26S28:
+  level: 0
+  owner: bonzaiferroni
+E26S7:
+  level: 8
+  owner: Reini
+E26S8:
+  level: 0
+  owner: Reini
+E27N11:
+  level: 0
+  owner: TooAngel
+E27N12:
+  level: 8
+  owner: TooAngel
 E27N3:
-    owner: gewure
-    level: 1
-
-E28N3:
-    owner: gewure
-    level: 1
-
-E28N4:
-    owner: gewure
-    level: 1
-
-E29N3:
-    owner: gewure
-    level: 1
-
-E31N2:
-    owner: gewure
-    level: 1
-
-E31N6:
-    owner: gewure
-    level: 1
-
-E31N7:
-    owner: gewure
-    level: 1
-
-E32N1:
-    owner: gewure
-    level: 1
-
-E32N2:
-    owner: gewure
-    level: 1
-
-E33N2:
-    owner: gewure
-    level: 1
-
-E35S2:
-    owner: gewure
-    level: 1
-
-E36S2:
-    owner: gewure
-    level: 1
-
-E38S1:
-    owner: gewure
-    level: 1
-
-E39S1:
-    owner: gewure
-    level: 1
-
-E43N1:
-    owner: gewure
-    level: 1
-
-E27S15:
-    owner: taiga
-    level: 1
-
-E27S4:
-    owner: taiga
-    level: 1
-
-E27S5:
-    owner: taiga
-    level: 1
-
-E27S7:
-    owner: taiga
-    level: 1
-
-E28S15:
-    owner: taiga
-    level: 1
-
-E28S5:
-    owner: taiga
-    level: 1
-
-E32N4:
-    owner: taiga
-    level: 1
-
-E32S15:
-    owner: taiga
-    level: 1
-
-E33N4:
-    owner: taiga
-    level: 1
-
-E33S15:
-    owner: taiga
-    level: 1
-
-E36N7:
-    owner: taiga
-    level: 1
-
-E37N4:
-    owner: taiga
-    level: 1
-
-E38N4:
-    owner: taiga
-    level: 1
-
-E43N5:
-    owner: taiga
-    level: 1
-
-E44N3:
-    owner: taiga
-    level: 1
-
-E45N7:
-    owner: taiga
-    level: 1
-
-W23S32:
-    owner: Moria
-    level: 1
-
-W23S33:
-    owner: Moria
-    level: 1
-
-W24S31:
-    owner: Moria
-    level: 1
-
-W24S32:
-    owner: Moria
-    level: 1
-
-W24S33:
-    owner: Moria
-    level: 1
-
-W25S31:
-    owner: Moria
-    level: 1
-
-W25S32:
-    owner: Moria
-    level: 1
-
-W26S32:
-    owner: Moria
-    level: 1
-
-W27S31:
-    owner: Moria
-    level: 1
-
-W27S32:
-    owner: Moria
-    level: 1
-
-W27S33:
-    owner: Moria
-    level: 1
-
-W27S34:
-    owner: Moria
-    level: 1
-
-W27S35:
-    owner: Moria
-    level: 1
-
-W28S31:
-    owner: Moria
-    level: 1
-
-W28S32:
-    owner: Moria
-    level: 1
-
-W28S33:
-    owner: Moria
-    level: 1
-
-W28S34:
-    owner: Moria
-    level: 1
-
-W29S31:
-    owner: Moria
-    level: 1
-
-W29S32:
-    owner: Moria
-    level: 1
-
-W29S33:
-    owner: Moria
-    level: 1
-
-W32S38:
-    owner: Moria
-    level: 1
-
-W33S34:
-    owner: Moria
-    level: 1
-
-W34S37:
-    owner: Moria
-    level: 1
-
-W35S37:
-    owner: Moria
-    level: 1
-
-W36S37:
-    owner: Moria
-    level: 1
-
+  level: 0
+  owner: gewure
 E27N36:
-    owner: tedivm
-    level: 1
-
-E28N32:
-    owner: tedivm
-    level: 1
-
-E28N33:
-    owner: tedivm
-    level: 1
-
-E28N34:
-    owner: tedivm
-    level: 1
-
-E28N35:
-    owner: tedivm
-    level: 1
-
-E28N36:
-    owner: tedivm
-    level: 1
-
-E28N37:
-    owner: tedivm
-    level: 1
-
-E31N31:
-    owner: tedivm
-    level: 1
-
-E31N32:
-    owner: tedivm
-    level: 1
-
-E31N33:
-    owner: tedivm
-    level: 1
-
-E32N31:
-    owner: tedivm
-    level: 1
-
-E32N32:
-    owner: tedivm
-    level: 1
-
-E32N33:
-    owner: tedivm
-    level: 1
-
-E32N34:
-    owner: tedivm
-    level: 1
-
-E33N31:
-    owner: tedivm
-    level: 1
-
-E33N32:
-    owner: tedivm
-    level: 1
-
-E33N33:
-    owner: tedivm
-    level: 1
-
-E34N31:
-    owner: tedivm
-    level: 1
-
-E34N32:
-    owner: tedivm
-    level: 1
-
-E34N33:
-    owner: tedivm
-    level: 1
-
-E35N31:
-    owner: tedivm
-    level: 1
-
-E35N32:
-    owner: tedivm
-    level: 1
-
-E35N33:
-    owner: tedivm
-    level: 1
-
+  level: 0
+  owner: tedivm
+E27N7:
+  level: 0
+  owner: TooAngel
+E27N8:
+  level: 8
+  owner: TooAngel
+E27N9:
+  level: 0
+  owner: TooAngel
+E27S14:
+  level: 8
+  owner: bonzaiferroni
+E27S15:
+  level: 8
+  owner: taiga
+E27S16:
+  level: 8
+  owner: bonzaiferroni
+E27S17:
+  level: 0
+  owner: bonzaiferroni
+E27S18:
+  level: 0
+  owner: bonzaiferroni
+E27S19:
+  level: 8
+  owner: bonzaiferroni
+E27S24:
+  level: 0
+  owner: bonzaiferroni
+E27S25:
+  level: 8
+  owner: bonzaiferroni
+E27S36:
+  level: 6
+  owner: SteeleR
+E27S4:
+  level: 8
+  owner: taiga
+E27S5:
+  level: 8
+  owner: taiga
 E27S56:
-    owner: Vervorris
-    level: 1
-
-E28S56:
-    owner: Vervorris
-    level: 1
-
-W28N42:
-    owner: bekvon
-    level: 1
-
-W28N43:
-    owner: bekvon
-    level: 1
-
-W31N42:
-    owner: bekvon
-    level: 1
-
-W31N43:
-    owner: bekvon
-    level: 1
-
-W32N41:
-    owner: bekvon
-    level: 1
-
-W32N42:
-    owner: bekvon
-    level: 1
-
-W32N45:
-    owner: bekvon
-    level: 1
-
-W33N41:
-    owner: bekvon
-    level: 1
-
-W33N42:
-    owner: bekvon
-    level: 1
-
-W33N43:
-    owner: bekvon
-    level: 1
-
-W33N44:
-    owner: bekvon
-    level: 1
-
-W33N45:
-    owner: bekvon
-    level: 1
-
-W34N41:
-    owner: bekvon
-    level: 1
-
-W34N42:
-    owner: bekvon
-    level: 1
-
-W34N43:
-    owner: bekvon
-    level: 1
-
-W35N41:
-    owner: bekvon
-    level: 1
-
-W35N42:
-    owner: bekvon
-    level: 1
-
-W35N43:
-    owner: bekvon
-    level: 1
-
-W36N41:
-    owner: bekvon
-    level: 1
-
-W36N42:
-    owner: bekvon
-    level: 1
-
-W36N43:
-    owner: bekvon
-    level: 1
-
-W37N41:
-    owner: bekvon
-    level: 1
-
-W37N42:
-    owner: bekvon
-    level: 1
-
-W38N41:
-    owner: bekvon
-    level: 1
-
-W39N41:
-    owner: bekvon
-    level: 1
-
-W31S21:
-    owner: Ashburnie
-    level: 1
-
-W31S22:
-    owner: Ashburnie
-    level: 1
-
-W31S26:
-    owner: Ashburnie
-    level: 1
-
-W31S28:
-    owner: Ashburnie
-    level: 1
-
-W31S29:
-    owner: Ashburnie
-    level: 1
-
-W32S21:
-    owner: Ashburnie
-    level: 1
-
-W32S24:
-    owner: Ashburnie
-    level: 1
-
-W32S25:
-    owner: Ashburnie
-    level: 1
-
-W32S26:
-    owner: Ashburnie
-    level: 1
-
-W32S28:
-    owner: Ashburnie
-    level: 1
-
-W32S29:
-    owner: Ashburnie
-    level: 1
-
-W33S21:
-    owner: Ashburnie
-    level: 1
-
-W33S23:
-    owner: Ashburnie
-    level: 1
-
-W33S25:
-    owner: Ashburnie
-    level: 1
-
-W33S27:
-    owner: Ashburnie
-    level: 1
-
-W33S28:
-    owner: Ashburnie
-    level: 1
-
-W33S29:
-    owner: Ashburnie
-    level: 1
-
-W34S22:
-    owner: Ashburnie
-    level: 1
-
-W34S23:
-    owner: Ashburnie
-    level: 1
-
-W34S27:
-    owner: Ashburnie
-    level: 1
-
-W34S31:
-    owner: Ashburnie
-    level: 1
-
-W34S32:
-    owner: Ashburnie
-    level: 1
-
-W35S32:
-    owner: Ashburnie
-    level: 1
-
-W36S32:
-    owner: Ashburnie
-    level: 1
-
-W37S31:
-    owner: Ashburnie
-    level: 1
-
-W37S32:
-    owner: Ashburnie
-    level: 1
-
-W38S31:
-    owner: Ashburnie
-    level: 1
-
-W38S32:
-    owner: Ashburnie
-    level: 1
-
-W41S32:
-    owner: Ashburnie
-    level: 1
-
-W41S33:
-    owner: Ashburnie
-    level: 1
-
-W42S33:
-    owner: Ashburnie
-    level: 1
-
-W46S33:
-    owner: Ashburnie
-    level: 1
-
-W47S33:
-    owner: Ashburnie
-    level: 1
-
-W48S33:
-    owner: Ashburnie
-    level: 1
-
+  level: 6
+  owner: Vervorris
+E27S7:
+  level: 8
+  owner: taiga
+E28N11:
+  level: 0
+  owner: TooAngel
+E28N12:
+  level: 8
+  owner: TooAngel
+E28N3:
+  level: 8
+  owner: gewure
+E28N32:
+  level: 0
+  owner: tedivm
+E28N33:
+  level: 8
+  owner: tedivm
+E28N34:
+  level: 0
+  owner: tedivm
+E28N35:
+  level: 0
+  owner: tedivm
+E28N36:
+  level: 6
+  owner: tedivm
+E28N37:
+  level: 0
+  owner: tedivm
+E28N4:
+  level: 0
+  owner: gewure
+E28N5:
+  level: 0
+  owner: TooAngel
+E28N6:
+  level: 7
+  owner: TooAngel
+E28N7:
+  level: 0
+  owner: TooAngel
+E28N8:
+  level: 0
+  owner: TooAngel
+E28S15:
+  level: 0
+  owner: taiga
+E28S16:
+  level: 0
+  owner: bonzaiferroni
+E28S19:
+  level: 6
+  owner: bonzaiferroni
+E28S24:
+  level: 0
+  owner: bonzaiferroni
+E28S32:
+  level: 0
+  owner: SteeleR
+E28S33:
+  level: 0
+  owner: SteeleR
+E28S34:
+  level: 0
+  owner: SteeleR
+E28S5:
+  level: 8
+  owner: taiga
+E29N12:
+  level: 0
+  owner: TooAngel
+E29N13:
+  level: 0
+  owner: TooAngel
+E29N3:
+  level: 0
+  owner: gewure
+E29N7:
+  level: 0
+  owner: TooAngel
+E29N8:
+  level: 7
+  owner: TooAngel
+E29S33:
+  level: 8
+  owner: SteeleR
+E2N11:
+  level: 0
+  owner: Dissi
+E2N12:
+  level: 0
+  owner: Dissi
+E2N13:
+  level: 0
+  owner: Dissi
+E2N14:
+  level: 0
+  owner: Dissi
+E2N15:
+  level: 0
+  owner: Dissi
+E2N16:
+  level: 0
+  owner: Dissi
+E2N17:
+  level: 0
+  owner: NhanHo
+E2N18:
+  level: 0
+  owner: NhanHo
+E2N19:
+  level: 0
+  owner: Dissi
+E2N23:
+  level: 0
+  owner: Dissi
+E2N25:
+  level: 0
+  owner: Dissi
+E2N26:
+  level: 8
+  owner: Dissi
+E2N27:
+  level: 0
+  owner: Dissi
+E2N56:
+  level: 4
+  owner: SemperRabbit
+E2N57:
+  level: 0
+  owner: SemperRabbit
+E2N59:
+  level: 0
+  owner: SemperRabbit
+E31N2:
+  level: 8
+  owner: gewure
+E31N31:
+  level: 8
+  owner: tedivm
+E31N32:
+  level: 0
+  owner: tedivm
+E31N33:
+  level: 0
+  owner: tedivm
+E31N6:
+  level: 7
+  owner: gewure
+E31N7:
+  level: 0
+  owner: gewure
+E31N8:
+  level: 0
+  owner: TooAngel
+E31S17:
+  level: 0
+  owner: bonzaiferroni
+E31S18:
+  level: 0
+  owner: bonzaiferroni
+E32N1:
+  level: 0
+  owner: gewure
+E32N2:
+  level: 8
+  owner: gewure
+E32N31:
+  level: 0
+  owner: tedivm
+E32N32:
+  level: 0
+  owner: tedivm
+E32N33:
+  level: 8
+  owner: tedivm
+E32N34:
+  level: 0
+  owner: tedivm
+E32N4:
+  level: 8
+  owner: taiga
+E32N5:
+  level: 8
+  owner: bldinator
+E32S1:
+  level: 0
+  owner: bonzaiferroni
+E32S15:
+  level: 8
+  owner: taiga
+E32S17:
+  level: 0
+  owner: bonzaiferroni
+E32S18:
+  level: 8
+  owner: bonzaiferroni
+E32S19:
+  level: 5
+  owner: bonzaiferroni
+E32S2:
+  level: 0
+  owner: bonzaiferroni
+E33N15:
+  level: 7
+  owner: TooAngel
+E33N2:
+  level: 0
+  owner: gewure
+E33N31:
+  level: 0
+  owner: tedivm
+E33N32:
+  level: 8
+  owner: tedivm
+E33N33:
+  level: 0
+  owner: tedivm
+E33N4:
+  level: 0
+  owner: taiga
+E33N5:
+  level: 7
+  owner: Reini
+E33N6:
+  level: 7
+  owner: bldinator
+E33N8:
+  level: 7
+  owner: TooAngel
+E33S1:
+  level: 0
+  owner: bonzaiferroni
+E33S15:
+  level: 0
+  owner: taiga
+E33S16:
+  level: 8
+  owner: bonzaiferroni
+E33S17:
+  level: 0
+  owner: bonzaiferroni
+E33S2:
+  level: 8
+  owner: bonzaiferroni
+E33S25:
+  level: 8
+  owner: SteeleR
+E33S3:
+  level: 0
+  owner: Reini
+E33S4:
+  level: 8
+  owner: Reini
+E33S7:
+  level: 0
+  owner: Reini
+E34N3:
+  level: 0
+  owner: Reini
+E34N31:
+  level: 8
+  owner: tedivm
+E34N32:
+  level: 0
+  owner: tedivm
+E34N33:
+  level: 8
+  owner: tedivm
+E34N38:
+  level: 4
+  owner: tedivm
+E34N8:
+  level: 0
+  owner: TooAngel
+E34S13:
+  level: 0
+  owner: bonzaiferroni
+E34S2:
+  level: 0
+  owner: bonzaiferroni
+E34S3:
+  level: 0
+  owner: bonzaiferroni
+E34S7:
+  level: 8
+  owner: Reini
+E35N1:
+  level: 0
+  owner: bldinator
+E35N2:
+  level: 8
+  owner: bldinator
 E35N23:
-    owner: Bovius
-    level: 1
-
-E36N37:
-    owner: Bovius
-    level: 1
-
-E36N38:
-    owner: Bovius
-    level: 1
-
-E37N35:
-    owner: Bovius
-    level: 1
-
-E37N37:
-    owner: Bovius
-    level: 1
-
-E37N38:
-    owner: Bovius
-    level: 1
-
-W33S43:
-    owner: Bovius
-    level: 1
-
-W33S44:
-    owner: Bovius
-    level: 1
-
-W33S45:
-    owner: Bovius
-    level: 1
-
-W33S46:
-    owner: Bovius
-    level: 1
-
-W36S43:
-    owner: Bovius
-    level: 1
-
-W37S44:
-    owner: Bovius
-    level: 1
-
-E38N33:
-    owner: Bovius
-    level: 1
-
-E38N37:
-    owner: Bovius
-    level: 1
-
-E38N38:
-    owner: Bovius
-    level: 1
-
-E39N32:
-    owner: Bovius
-    level: 1
-
-E39N33:
-    owner: Bovius
-    level: 1
-
-E39N37:
-    owner: Bovius
-    level: 1
-
-E39N38:
-    owner: Bovius
-    level: 1
-
-E47N35:
-    owner: Bovius
-    level: 1
-
+  level: 5
+  owner: Bovius
+E35N3:
+  level: 7
+  owner: Reini
+E35N31:
+  level: 0
+  owner: tedivm
+E35N32:
+  level: 0
+  owner: tedivm
+E35N33:
+  level: 0
+  owner: tedivm
 E35N47:
-    owner: anisoptera
-    level: 1
-
-E36N48:
-    owner: anisoptera
-    level: 1
-
-E41N43:
-    owner: anisoptera
-    level: 1
-
-E41N45:
-    owner: anisoptera
-    level: 1
-
-E41N47:
-    owner: anisoptera
-    level: 1
-
-E42N42:
-    owner: anisoptera
-    level: 1
-
-E42N44:
-    owner: anisoptera
-    level: 1
-
-E42N47:
-    owner: anisoptera
-    level: 1
-
-E42N48:
-    owner: anisoptera
-    level: 1
-
-E42N49:
-    owner: anisoptera
-    level: 1
-
-E43N41:
-    owner: anisoptera
-    level: 1
-
-E43N45:
-    owner: anisoptera
-    level: 1
-
-E43N48:
-    owner: anisoptera
-    level: 1
-
-E43N49:
-    owner: anisoptera
-    level: 1
-
-E44N41:
-    owner: anisoptera
-    level: 1
-
-E44N42:
-    owner: anisoptera
-    level: 1
-
-E44N43:
-    owner: anisoptera
-    level: 1
-
-E44N47:
-    owner: anisoptera
-    level: 1
-
-E45N42:
-    owner: anisoptera
-    level: 1
-
+  level: 7
+  owner: anisoptera
+E35S13:
+  level: 8
+  owner: bonzaiferroni
+E35S2:
+  level: 0
+  owner: gewure
 E36N1:
-    owner: nnog
-    level: 1
-
+  level: 7
+  owner: nnog
+E36N2:
+  level: 0
+  owner: bldinator
+E36N3:
+  level: 0
+  owner: bldinator
+E36N37:
+  level: 8
+  owner: Bovius
+E36N38:
+  level: 6
+  owner: Bovius
+E36N48:
+  level: 0
+  owner: anisoptera
+E36N7:
+  level: 8
+  owner: taiga
+E36S17:
+  level: 8
+  owner: bonzaiferroni
+E36S2:
+  level: 7
+  owner: gewure
+E36S27:
+  level: 8
+  owner: SteeleR
+E36S28:
+  level: 8
+  owner: SteeleR
 E37N1:
-    owner: nnog
-    level: 1
-
+  level: 7
+  owner: nnog
+E37N3:
+  level: 8
+  owner: bldinator
+E37N35:
+  level: 8
+  owner: Bovius
+E37N37:
+  level: 0
+  owner: Bovius
+E37N38:
+  level: 8
+  owner: Bovius
+E37N4:
+  level: 8
+  owner: taiga
+E37S14:
+  level: 8
+  owner: bonzaiferroni
+E37S25:
+  level: 8
+  owner: SteeleR
+E37S26:
+  level: 0
+  owner: SteeleR
+E37S27:
+  level: 8
+  owner: SteeleR
+E37S28:
+  level: 0
+  owner: SteeleR
+E37S29:
+  level: 0
+  owner: SteeleR
 E38N2:
-    owner: nnog
-    level: 1
-
-W34S28:
-    owner: seancl
-    level: 1
-
-W36S21:
-    owner: seancl
-    level: 1
-
-W36S23:
-    owner: seancl
-    level: 1
-
-W36S27:
-    owner: seancl
-    level: 1
-
-W37S21:
-    owner: seancl
-    level: 1
-
-W37S23:
-    owner: seancl
-    level: 1
-
-W37S27:
-    owner: seancl
-    level: 1
-
-W37S28:
-    owner: seancl
-    level: 1
-
-W37S29:
-    owner: seancl
-    level: 1
-
-W38S21:
-    owner: seancl
-    level: 1
-
-W38S22:
-    owner: seancl
-    level: 1
-
-W38S25:
-    owner: seancl
-    level: 1
-
-W38S26:
-    owner: seancl
-    level: 1
-
-W38S29:
-    owner: seancl
-    level: 1
-
-W39S22:
-    owner: seancl
-    level: 1
-
-W39S28:
-    owner: seancl
-    level: 1
-
-W41S24:
-    owner: seancl
-    level: 1
-
-W41S28:
-    owner: seancl
-    level: 1
-
-W41S29:
-    owner: seancl
-    level: 1
-
-W42S26:
-    owner: seancl
-    level: 1
-
+  level: 8
+  owner: nnog
+E38N3:
+  level: 0
+  owner: bldinator
+E38N33:
+  level: 0
+  owner: Bovius
+E38N37:
+  level: 0
+  owner: Bovius
+E38N38:
+  level: 0
+  owner: Bovius
+E38N4:
+  level: 0
+  owner: taiga
+E38S1:
+  level: 7
+  owner: gewure
+E38S14:
+  level: 0
+  owner: bonzaiferroni
+E38S25:
+  level: 0
+  owner: SteeleR
+E38S26:
+  level: 0
+  owner: SteeleR
+E38S27:
+  level: 0
+  owner: SteeleR
+E38S28:
+  level: 0
+  owner: SteeleR
+E38S29:
+  level: 0
+  owner: SteeleR
+E39N32:
+  level: 8
+  owner: Bovius
+E39N33:
+  level: 0
+  owner: Bovius
+E39N37:
+  level: 0
+  owner: Bovius
+E39N38:
+  level: 8
+  owner: Bovius
+E39S1:
+  level: 0
+  owner: gewure
+E39S28:
+  level: 0
+  owner: SteeleR
+E3N11:
+  level: 8
+  owner: Dissi
+E3N12:
+  level: 0
+  owner: Dissi
+E3N13:
+  level: 0
+  owner: Dissi
+E3N14:
+  level: 0
+  owner: Dissi
+E3N15:
+  level: 8
+  owner: Dissi
+E3N16:
+  level: 0
+  owner: Dissi
+E3N17:
+  level: 0
+  owner: Dissi
+E3N18:
+  level: 0
+  owner: Dissi
+E3N19:
+  level: 8
+  owner: Dissi
+E3N21:
+  level: 0
+  owner: Dissi
+E3N22:
+  level: 8
+  owner: Dissi
+E3N23:
+  level: 0
+  owner: Dissi
+E3N25:
+  level: 0
+  owner: Dissi
+E3N26:
+  level: 0
+  owner: Dissi
+E3N56:
+  level: 5
+  owner: SemperRabbit
+E3N57:
+  level: 0
+  owner: SemperRabbit
+E3N58:
+  level: 5
+  owner: SemperRabbit
+E3N59:
+  level: 0
+  owner: SemperRabbit
+E3N8:
+  level: 8
+  owner: Dissi
+E3N9:
+  level: 0
+  owner: Dissi
+E41N3:
+  level: 0
+  owner: bldinator
+E41N4:
+  level: 7
+  owner: bldinator
+E41N43:
+  level: 0
+  owner: anisoptera
+E41N45:
+  level: 0
+  owner: anisoptera
+E41N47:
+  level: 0
+  owner: anisoptera
 E41N8:
-    owner: Nephanae
-    level: 1
-
+  level: 7
+  owner: Nephanae
 E41N9:
-    owner: Nephanae
-    level: 1
-
-E42N7:
-    owner: Nephanae
-    level: 1
-
-E42N8:
-    owner: Nephanae
-    level: 1
-
-E42N9:
-    owner: Nephanae
-    level: 1
-
-E43N8:
-    owner: Nephanae
-    level: 1
-
-E43N9:
-    owner: Nephanae
-    level: 1
-
-E44N17:
-    owner: Nephanae
-    level: 1
-
-E44N8:
-    owner: Nephanae
-    level: 1
-
+  level: 7
+  owner: Nephanae
 E41S11:
-    owner: GMan
-    level: 1
-
+  level: 5
+  owner: GMan
 E41S12:
-    owner: GMan
-    level: 1
-
-E42S12:
-    owner: GMan
-    level: 1
-
+  level: 7
+  owner: GMan
 E41S13:
-    owner: Zim
-    level: 1
-
+  level: 7
+  owner: Zim
 E41S14:
-    owner: Zim
-    level: 1
-
+  level: 7
+  owner: Zim
 E41S15:
-    owner: Zim
-    level: 1
-
-E42S15:
-    owner: Zim
-    level: 1
-
+  level: 7
+  owner: Zim
 E41S3:
-    owner: Spyingwind
-    level: 1
-
+  level: 0
+  owner: Spyingwind
 E41S5:
-    owner: Spyingwind
-    level: 1
-
+  level: 0
+  owner: Spyingwind
 E41S6:
-    owner: Spyingwind
-    level: 1
-
+  level: 7
+  owner: Spyingwind
 E41S7:
-    owner: Spyingwind
-    level: 1
-
+  level: 7
+  owner: Spyingwind
 E41S8:
-    owner: Spyingwind
-    level: 1
-
+  level: 8
+  owner: Spyingwind
 E41S9:
-    owner: Spyingwind
-    level: 1
-
-E42S3:
-    owner: Spyingwind
-    level: 1
-
-E42S4:
-    owner: Spyingwind
-    level: 1
-
-E42S5:
-    owner: Spyingwind
-    level: 1
-
-E42S6:
-    owner: Spyingwind
-    level: 1
-
-E42S7:
-    owner: Spyingwind
-    level: 1
-
-E42S9:
-    owner: Spyingwind
-    level: 1
-
-E43S7:
-    owner: Spyingwind
-    level: 1
-
-E43S8:
-    owner: Spyingwind
-    level: 1
-
-E44S8:
-    owner: Spyingwind
-    level: 1
-
+  level: 0
+  owner: Spyingwind
+E42N42:
+  level: 0
+  owner: anisoptera
+E42N44:
+  level: 8
+  owner: anisoptera
+E42N47:
+  level: 0
+  owner: anisoptera
+E42N48:
+  level: 8
+  owner: anisoptera
+E42N49:
+  level: 0
+  owner: anisoptera
+E42N7:
+  level: 0
+  owner: Nephanae
+E42N8:
+  level: 0
+  owner: Nephanae
+E42N9:
+  level: 7
+  owner: Nephanae
+E42S12:
+  level: 6
+  owner: GMan
 E42S13:
-    owner: Nam
-    level: 1
-
-E43S12:
-    owner: Nam
-    level: 1
-
-E43S13:
-    owner: Nam
-    level: 1
-
-E43S14:
-    owner: Nam
-    level: 1
-
-E44S13:
-    owner: Nam
-    level: 1
-
-E45S13:
-    owner: Nam
-    level: 1
-
-E47S11:
-    owner: Nam
-    level: 1
-
-E53S12:
-    owner: Nam
-    level: 1
-
+  level: 7
+  owner: Nam
 E42S14:
-    owner: EmptySet
-    level: 1
-
-E42S17:
-    owner: Bodda
-    level: 1
-
-E44S17:
-    owner: Bodda
-    level: 1
-
-W38S5:
-    owner: dormando
-    level: 1
-
-W38S6:
-    owner: dormando
-    level: 1
-
-W38S7:
-    owner: dormando
-    level: 1
-
-W38S8:
-    owner: dormando
-    level: 1
-
-W39S7:
-    owner: dormando
-    level: 1
-
-W39S8:
-    owner: dormando
-    level: 1
-
-W41S7:
-    owner: dormando
-    level: 1
-
-W42S8:
-    owner: dormando
-    level: 1
-
-W43S5:
-    owner: dormando
-    level: 1
-
-W43S7:
-    owner: dormando
-    level: 1
-
-W43S8:
-    owner: dormando
-    level: 1
-
-W43S9:
-    owner: dormando
-    level: 1
-
-W44S8:
-    owner: dormando
-    level: 1
-
-W45S8:
-    owner: dormando
-    level: 1
-
-W46S8:
-    owner: dormando
-    level: 1
-
-W48S5:
-    owner: dormando
-    level: 1
-
-W41N21:
-    owner: DoctorPC
-    level: 1
-
-W41N22:
-    owner: DoctorPC
-    level: 1
-
-W42N22:
-    owner: DoctorPC
-    level: 1
-
-W42N23:
-    owner: DoctorPC
-    level: 1
-
-W43N23:
-    owner: DoctorPC
-    level: 1
-
-W43N24:
-    owner: DoctorPC
-    level: 1
-
-W44N23:
-    owner: DoctorPC
-    level: 1
-
-W48N22:
-    owner: DoctorPC
-    level: 1
-
-W48N23:
-    owner: DoctorPC
-    level: 1
-
+  level: 7
+  owner: EmptySet
+E42S15:
+  level: 0
+  owner: Zim
+E42S3:
+  level: 6
+  owner: Spyingwind
+E42S4:
+  level: 0
+  owner: Spyingwind
+E42S5:
+  level: 7
+  owner: Spyingwind
+E42S6:
+  level: 0
+  owner: Spyingwind
+E42S7:
+  level: 0
+  owner: Spyingwind
+E42S9:
+  level: 0
+  owner: Spyingwind
+E43N1:
+  level: 5
+  owner: gewure
+E43N41:
+  level: 8
+  owner: anisoptera
+E43N45:
+  level: 8
+  owner: anisoptera
+E43N48:
+  level: 0
+  owner: anisoptera
+E43N49:
+  level: 0
+  owner: anisoptera
+E43N5:
+  level: 5
+  owner: taiga
+E43N8:
+  level: 7
+  owner: Nephanae
+E43N9:
+  level: 0
+  owner: Nephanae
+E43S12:
+  level: 0
+  owner: Nam
+E43S13:
+  level: 8
+  owner: Nam
+E43S14:
+  level: 7
+  owner: Nam
+E43S26:
+  level: 8
+  owner: SteeleR
+E43S7:
+  level: 0
+  owner: Spyingwind
+E43S8:
+  level: 7
+  owner: Spyingwind
+E44N17:
+  level: 4
+  owner: Nephanae
+E44N3:
+  level: 8
+  owner: taiga
+E44N41:
+  level: 0
+  owner: anisoptera
+E44N42:
+  level: 0
+  owner: anisoptera
+E44N43:
+  level: 8
+  owner: anisoptera
+E44N47:
+  level: 4
+  owner: anisoptera
+E44N8:
+  level: 0
+  owner: Nephanae
 E44S11:
-    owner: Icon
-    level: 1
-
+  level: 0
+  owner: Icon
+E44S13:
+  level: 7
+  owner: Nam
+E44S17:
+  level: 5
+  owner: Bodda
 E44S3:
-    owner: Icon
-    level: 1
-
+  level: 5
+  owner: Icon
+E44S8:
+  level: 0
+  owner: Spyingwind
+E45N41:
+  level: 0
+  owner: anisoptera
+E45N42:
+  level: 0
+  owner: anisoptera
+E45N7:
+  level: 8
+  owner: taiga
 E45S11:
-    owner: Icon
-    level: 1
-
+  level: 0
+  owner: Icon
+E45S13:
+  level: 0
+  owner: Nam
 E45S2:
-    owner: Icon
-    level: 1
-
-E45S3:
-    owner: Icon
-    level: 1
-
-E45S7:
-    owner: Icon
-    level: 1
-
-E45S8:
-    owner: Icon
-    level: 1
-
-E46S1:
-    owner: Icon
-    level: 1
-
-E46S2:
-    owner: Icon
-    level: 1
-
-E46S7:
-    owner: Icon
-    level: 1
-
-E46S8:
-    owner: Icon
-    level: 1
-
-E47S5:
-    owner: Icon
-    level: 1
-
-E47S6:
-    owner: Icon
-    level: 1
-
-E47S7:
-    owner: Icon
-    level: 1
-
-E47S8:
-    owner: Icon
-    level: 1
-
-E48S5:
-    owner: Icon
-    level: 1
-
-E48S7:
-    owner: Icon
-    level: 1
-
-E48S8:
-    owner: Icon
-    level: 1
-
-E48S9:
-    owner: Icon
-    level: 1
-
-E49S8:
-    owner: Icon
-    level: 1
-
+  level: 7
+  owner: Icon
 E45S23:
-    owner: Artritus
-    level: 1
-
-E46S17:
-    owner: Artritus
-    level: 1
-
-E46S18:
-    owner: Artritus
-    level: 1
-
-E47S15:
-    owner: Artritus
-    level: 1
-
-E47S16:
-    owner: Artritus
-    level: 1
-
-E47S17:
-    owner: Artritus
-    level: 1
-
-E47S18:
-    owner: Artritus
-    level: 1
-
-E47S19:
-    owner: Artritus
-    level: 1
-
-E47S21:
-    owner: Artritus
-    level: 1
-
-E47S23:
-    owner: Artritus
-    level: 1
-
-E48S14:
-    owner: Artritus
-    level: 1
-
-E48S15:
-    owner: Artritus
-    level: 1
-
-E48S16:
-    owner: Artritus
-    level: 1
-
-E48S17:
-    owner: Artritus
-    level: 1
-
-E48S18:
-    owner: Artritus
-    level: 1
-
-E48S21:
-    owner: Artritus
-    level: 1
-
-E48S22:
-    owner: Artritus
-    level: 1
-
-E49S17:
-    owner: Artritus
-    level: 1
-
-E49S21:
-    owner: Artritus
-    level: 1
-
-E49S22:
-    owner: Artritus
-    level: 1
-
+  level: 8
+  owner: Artritus
+E45S3:
+  level: 0
+  owner: Icon
+E45S7:
+  level: 0
+  owner: Icon
+E45S8:
+  level: 0
+  owner: Icon
+E46N3:
+  level: 0
+  owner: bldinator
+E46S1:
+  level: 0
+  owner: Icon
 E46S13:
-    owner: aster26
-    level: 1
-
+  level: 6
+  owner: aster26
+E46S2:
+  level: 0
+  owner: Icon
+E46S7:
+  level: 8
+  owner: Icon
+E46S8:
+  level: 0
+  owner: Icon
+E47N2:
+  level: 0
+  owner: bldinator
+E47N3:
+  level: 7
+  owner: bldinator
+E47N35:
+  level: 8
+  owner: Bovius
+E47S11:
+  level: 7
+  owner: Nam
 E47S12:
-    owner: aster26
-    level: 1
-
+  level: 0
+  owner: aster26
 E47S13:
-    owner: aster26
-    level: 1
-
+  level: 0
+  owner: aster26
+E47S16:
+  level: 8
+  owner: Artritus
+E47S19:
+  level: 8
+  owner: Artritus
+E47S23:
+  level: 6
+  owner: Artritus
+E47S26:
+  level: 0
+  owner: SteeleR
+E47S27:
+  level: 8
+  owner: SteeleR
+E47S5:
+  level: 0
+  owner: Icon
+E47S6:
+  level: 8
+  owner: Icon
+E47S7:
+  level: 0
+  owner: Icon
+E47S8:
+  level: 0
+  owner: Icon
 E48S11:
-    owner: aster26
-    level: 1
-
+  level: 0
+  owner: aster26
 E48S12:
-    owner: aster26
-    level: 1
-
+  level: 0
+  owner: aster26
 E48S13:
-    owner: aster26
-    level: 1
-
+  level: 7
+  owner: aster26
+E48S15:
+  level: 8
+  owner: Artritus
+E48S16:
+  level: 8
+  owner: Artritus
+E48S21:
+  level: 8
+  owner: Artritus
+E48S5:
+  level: 7
+  owner: Icon
+E48S7:
+  level: 0
+  owner: Icon
+E48S8:
+  level: 8
+  owner: Icon
+E48S9:
+  level: 0
+  owner: Icon
 E49S11:
-    owner: aster26
-    level: 1
-
+  level: 7
+  owner: aster26
 E49S12:
-    owner: aster26
-    level: 1
-
+  level: 7
+  owner: aster26
 E49S13:
-    owner: aster26
-    level: 1
-
-E51S13:
-    owner: aster26
-    level: 1
-
-E51S14:
-    owner: aster26
-    level: 1
-
+  level: 0
+  owner: aster26
+E49S8:
+  level: 0
+  owner: Icon
+E4N11:
+  level: 0
+  owner: Dissi
+E4N12:
+  level: 0
+  owner: Dissi
+E4N17:
+  level: 0
+  owner: Dissi
+E4N18:
+  level: 0
+  owner: Dissi
+E4N21:
+  level: 0
+  owner: Dissi
+E4N22:
+  level: 0
+  owner: Dissi
+E4N23:
+  level: 0
+  owner: Dissi
+E4N58:
+  level: 0
+  owner: SemperRabbit
+E4N8:
+  level: 0
+  owner: Dissi
 E51N14:
-    owner: BuffyNZ
-    level: 1
-
-E52N13:
-    owner: BuffyNZ
-    level: 1
-
-E52N14:
-    owner: BuffyNZ
-    level: 1
-
-E53N13:
-    owner: BuffyNZ
-    level: 1
-
-E53N14:
-    owner: BuffyNZ
-    level: 1
-
+  level: 0
+  owner: BuffyNZ
+E51S13:
+  level: 0
+  owner: aster26
+E51S14:
+  level: 0
+  owner: aster26
+E51S15:
+  level: 2
+  owner: aster26
 E51S31:
-    owner: Heilos
-    level: 1
-
+  level: 5
+  owner: Heilos
+E52N13:
+  level: 0
+  owner: BuffyNZ
+E52N14:
+  level: 5
+  owner: BuffyNZ
+E52N15:
+  level: 0
+  owner: BuffyNZ
 E52S45:
-    owner: Heilos
-    level: 1
-
+  level: 0
+  owner: Heilos
+E53N13:
+  level: 5
+  owner: BuffyNZ
+E53N14:
+  level: 5
+  owner: BuffyNZ
+E53S12:
+  level: 5
+  owner: Nam
 E53S45:
-    owner: Heilos
-    level: 1
-
+  level: 5
+  owner: Heilos
 E55S37:
-    owner: Heilos
-    level: 1
-
+  level: 7
+  owner: Heilos
 E55S47:
-    owner: Heilos
-    level: 1
-
-E56S48:
-    owner: Heilos
-    level: 1
-
-E57S44:
-    owner: Heilos
-    level: 1
-
-E57S45:
-    owner: Heilos
-    level: 1
-
-E57S49:
-    owner: Heilos
-    level: 1
-
-E58S44:
-    owner: Heilos
-    level: 1
-
-E58S45:
-    owner: Heilos
-    level: 1
-
-E58S46:
-    owner: Heilos
-    level: 1
-
-E58S48:
-    owner: Heilos
-    level: 1
-
-E58S49:
-    owner: Heilos
-    level: 1
-
-E59S47:
-    owner: Heilos
-    level: 1
-
-E59S48:
-    owner: Heilos
-    level: 1
-
-W51S47:
-    owner: Finndibaen
-    level: 1
-
-W52S37:
-    owner: Finndibaen
-    level: 1
-
-W52S44:
-    owner: Finndibaen
-    level: 1
-
-W52S45:
-    owner: Finndibaen
-    level: 1
-
-W52S47:
-    owner: Finndibaen
-    level: 1
-
-W52S48:
-    owner: Finndibaen
-    level: 1
-
-W53S43:
-    owner: Finndibaen
-    level: 1
-
-W53S44:
-    owner: Finndibaen
-    level: 1
-
-W53S45:
-    owner: Finndibaen
-    level: 1
-
-W54S42:
-    owner: Finndibaen
-    level: 1
-
-W54S43:
-    owner: Finndibaen
-    level: 1
-
-W55S42:
-    owner: Finndibaen
-    level: 1
-
-W55S43:
-    owner: Finndibaen
-    level: 1
-
-W56S42:
-    owner: Finndibaen
-    level: 1
-
-W56S43:
-    owner: Finndibaen
-    level: 1
-
+  level: 0
+  owner: Heilos
 E56N1:
-    owner: Lur
-    level: 1
-
+  level: 4
+  owner: Lur
 E56S2:
-    owner: Leonyx
-    level: 1
-
-E58N8:
-    owner: starwar15432
-    level: 1
+  level: 4
+  owner: Leonyx
+E56S48:
+  level: 8
+  owner: Heilos
+E57N1:
+  level: 3
+  owner: starwar15432
+E57S44:
+  level: 8
+  owner: Heilos
+E57S45:
+  level: 0
+  owner: Heilos
+E57S49:
+  level: 0
+  owner: Heilos
+E58S44:
+  level: 0
+  owner: Heilos
+E58S45:
+  level: 7
+  owner: Heilos
+E58S46:
+  level: 0
+  owner: Heilos
+E58S48:
+  level: 0
+  owner: Heilos
+E58S49:
+  level: 8
+  owner: Heilos
+E59S47:
+  level: 0
+  owner: Heilos
+E59S48:
+  level: 0
+  owner: Heilos
+E5N11:
+  level: 0
+  owner: Dissi
+E5N12:
+  level: 0
+  owner: Dissi
+E5N17:
+  level: 8
+  owner: Dissi
+E5N18:
+  level: 8
+  owner: Dissi
+E5N21:
+  level: 0
+  owner: Dissi
+E5N22:
+  level: 0
+  owner: Dissi
+E5N23:
+  level: 0
+  owner: Dissi
+E5N27:
+  level: 8
+  owner: Dissi
+E5N7:
+  level: 8
+  owner: Dissi
+E5N8:
+  level: 0
+  owner: Dissi
+E5S1:
+  level: 0
+  owner: NhanHo
+E5S13:
+  level: 0
+  owner: NhanHo
+E5S2:
+  level: 0
+  owner: NhanHo
+E6N11:
+  level: 0
+  owner: Dissi
+E6N12:
+  level: 0
+  owner: NhanHo
+E6N13:
+  level: 8
+  owner: NhanHo
+E6N17:
+  level: 0
+  owner: Dissi
+E6N18:
+  level: 0
+  owner: Dissi
+E6N21:
+  level: 0
+  owner: Dissi
+E6N22:
+  level: 8
+  owner: Dissi
+E6N23:
+  level: 0
+  owner: Dissi
+E6N51:
+  level: 0
+  owner: weekOff
+E6N52:
+  level: 0
+  owner: weekOff
+E6N53:
+  level: 0
+  owner: weekOff
+E6N58:
+  level: 0
+  owner: NihilRex
+E6N7:
+  level: 0
+  owner: Dissi
+E6N8:
+  level: 0
+  owner: Dissi
+E6S1:
+  level: 0
+  owner: NhanHo
+E6S11:
+  level: 0
+  owner: NhanHo
+E6S12:
+  level: 8
+  owner: NhanHo
+E6S13:
+  level: 0
+  owner: NhanHo
+E6S2:
+  level: 8
+  owner: NhanHo
+E6S3:
+  level: 0
+  owner: NhanHo
+E7N11:
+  level: 0
+  owner: Dissi
+E7N12:
+  level: 0
+  owner: Dissi
+E7N14:
+  level: 0
+  owner: Dissi
+E7N15:
+  level: 0
+  owner: Dissi
+E7N16:
+  level: 0
+  owner: Dissi
+E7N17:
+  level: 8
+  owner: Dissi
+E7N18:
+  level: 0
+  owner: Dissi
+E7N21:
+  level: 0
+  owner: Dissi
+E7N22:
+  level: 0
+  owner: Dissi
+E7N23:
+  level: 0
+  owner: Dissi
+E7N24:
+  level: 8
+  owner: Dissi
+E7N25:
+  level: 0
+  owner: Dissi
+E7N51:
+  level: 0
+  owner: weekOff
+E7N52:
+  level: 5
+  owner: weekOff
+E7N53:
+  level: 0
+  owner: weekOff
+E7N54:
+  level: 0
+  owner: weekOff
+E7N56:
+  level: 0
+  owner: NihilRex
+E7N57:
+  level: 0
+  owner: NihilRex
+E7N58:
+  level: 0
+  owner: NihilRex
+E7N8:
+  level: 0
+  owner: Dissi
+E7N9:
+  level: 0
+  owner: Dissi
+E7S11:
+  level: 8
+  owner: TooAngel
+E7S12:
+  level: 0
+  owner: NhanHo
+E7S2:
+  level: 0
+  owner: NhanHo
+E7S3:
+  level: 8
+  owner: NhanHo
+E7S4:
+  level: 0
+  owner: NhanHo
+E7S8:
+  level: 0
+  owner: TooAngel
+E7S9:
+  level: 8
+  owner: TooAngel
+E8N11:
+  level: 0
+  owner: Dissi
+E8N12:
+  level: 0
+  owner: Dissi
+E8N13:
+  level: 0
+  owner: Dissi
+E8N14:
+  level: 0
+  owner: Dissi
+E8N15:
+  level: 8
+  owner: Dissi
+E8N16:
+  level: 0
+  owner: Dissi
+E8N17:
+  level: 8
+  owner: Dissi
+E8N18:
+  level: 0
+  owner: Dissi
+E8N19:
+  level: 0
+  owner: Dissi
+E8N51:
+  level: 5
+  owner: weekOff
+E8N52:
+  level: 0
+  owner: weekOff
+E8N53:
+  level: 0
+  owner: weekOff
+E8N54:
+  level: 4
+  owner: weekOff
+E8N56:
+  level: 5
+  owner: NihilRex
+E8N57:
+  level: 0
+  owner: NihilRex
+E8N59:
+  level: 3
+  owner: NihilRex
+E8N8:
+  level: 0
+  owner: Dissi
+E8N9:
+  level: 8
+  owner: Dissi
+E8S17:
+  level: 0
+  owner: NhanHo
+E8S18:
+  level: 0
+  owner: NhanHo
+E8S19:
+  level: 8
+  owner: NhanHo
+E8S2:
+  level: 0
+  owner: NhanHo
+E8S3:
+  level: 0
+  owner: NhanHo
+E8S4:
+  level: 0
+  owner: NhanHo
+E8S8:
+  level: 8
+  owner: TooAngel
+E8S9:
+  level: 0
+  owner: TooAngel
+E9N11:
+  level: 8
+  owner: Dissi
+E9N12:
+  level: 0
+  owner: Dissi
+E9N17:
+  level: 0
+  owner: Dissi
+E9N18:
+  level: 0
+  owner: Dissi
+E9N51:
+  level: 0
+  owner: weekOff
+E9N57:
+  level: 5
+  owner: NihilRex
+E9N8:
+  level: 0
+  owner: Dissi
+E9S11:
+  level: 0
+  owner: TooAngel
+E9S18:
+  level: 0
+  owner: NhanHo
+E9S2:
+  level: 0
+  owner: TooAngel
+E9S3:
+  level: 8
+  owner: TooAngel
+E9S8:
+  level: 0
+  owner: TooAngel
+W11N15:
+  level: 8
+  owner: NhanHo
+W11N16:
+  level: 0
+  owner: NhanHo
+W11N2:
+  level: 0
+  owner: NhanHo
+W11N45:
+  level: 0
+  owner: Garland
+W11N47:
+  level: 8
+  owner: Garland
+W11N48:
+  level: 0
+  owner: Garland
+W11S34:
+  level: 5
+  owner: Atlan
+W11S35:
+  level: 0
+  owner: Atlan
+W11S44:
+  level: 7
+  owner: Tanjera
+W11S45:
+  level: 7
+  owner: Tanjera
+W11S46:
+  level: 0
+  owner: Tanjera
+W12N1:
+  level: 0
+  owner: NhanHo
+W12N15:
+  level: 0
+  owner: NhanHo
+W12N16:
+  level: 0
+  owner: NhanHo
+W12N2:
+  level: 8
+  owner: NhanHo
+W12N3:
+  level: 0
+  owner: NhanHo
+W12N32:
+  level: 7
+  owner: Revrick
+W12N33:
+  level: 0
+  owner: Revrick
+W12N36:
+  level: 7
+  owner: Revrick
+W12N37:
+  level: 3
+  owner: Revrick
+W12N45:
+  level: 0
+  owner: Garland
+W12N46:
+  level: 0
+  owner: Garland
+W12N47:
+  level: 0
+  owner: Garland
+W12N48:
+  level: 7
+  owner: Garland
+W12S34:
+  level: 0
+  owner: Atlan
+W12S41:
+  level: 0
+  owner: Tanjera
+W12S42:
+  level: 0
+  owner: Tanjera
+W12S44:
+  level: 0
+  owner: Tanjera
+W12S48:
+  level: 0
+  owner: Pantek59
+W12S49:
+  level: 0
+  owner: Pantek59
+W13N33:
+  level: 0
+  owner: Revrick
+W13N34:
+  level: 0
+  owner: Revrick
+W13N36:
+  level: 7
+  owner: Revrick
+W13N43:
+  level: 5
+  owner: Garland
+W13N46:
+  level: 8
+  owner: Garland
+W13N47:
+  level: 0
+  owner: Garland
+W13N56:
+  level: 5
+  owner: Nisou
+W13S41:
+  level: 8
+  owner: Tanjera
+W13S42:
+  level: 0
+  owner: Tanjera
+W13S48:
+  level: 0
+  owner: Pantek59
+W13S49:
+  level: 6
+  owner: Pantek59
+W14N18:
+  level: 0
+  owner: TooAngel
+W14N31:
+  level: 0
+  owner: Revrick
+W14N32:
+  level: 7
+  owner: Revrick
+W14N33:
+  level: 8
+  owner: Revrick
+W14N37:
+  level: 0
+  owner: Revrick
+W14N47:
+  level: 8
+  owner: Garland
+W14N48:
+  level: 7
+  owner: Garland
+W14N53:
+  level: 7
+  owner: Prime
+W14S42:
+  level: 0
+  owner: Tanjera
+W15N18:
+  level: 0
+  owner: TooAngel
+W15N21:
+  level: 0
+  owner: TooAngel
+W15N22:
+  level: 0
+  owner: TooAngel
+W15N23:
+  level: 0
+  owner: TooAngel
+W15N31:
+  level: 0
+  owner: Revrick
+W15N33:
+  level: 0
+  owner: Revrick
+W15N38:
+  level: 6
+  owner: Revrick
+W15N48:
+  level: 8
+  owner: Azfaloth
+W15N53:
+  level: 0
+  owner: Nisou
+W15S33:
+  level: 1
+  owner: Atavus
+W15S37:
+  level: 8
+  owner: Atavus
+W15S41:
+  level: 8
+  owner: Tanjera
+W15S42:
+  level: 0
+  owner: Tanjera
+W15S43:
+  level: 8
+  owner: Tanjera
+W16N22:
+  level: 7
+  owner: TooAngel
+W16N38:
+  level: 0
+  owner: Revrick
+W16N51:
+  level: 0
+  owner: Nisou
+W16N52:
+  level: 7
+  owner: Nisou
+W16N53:
+  level: 7
+  owner: Nisou
+W16S32:
+  level: 0
+  owner: Atavus
+W16S42:
+  level: 0
+  owner: Tanjera
+W17N11:
+  level: 8
+  owner: Dissi
+W17N12:
+  level: 0
+  owner: Dissi
+W17N13:
+  level: 0
+  owner: Dissi
+W17N45:
+  level: 0
+  owner: Azfaloth
+W17N46:
+  level: 8
+  owner: Azfaloth
+W17N48:
+  level: 8
+  owner: Azfaloth
+W17N49:
+  level: 0
+  owner: Azfaloth
+W17N51:
+  level: 7
+  owner: Nisou
+W17N52:
+  level: 0
+  owner: Nisou
+W17S31:
+  level: 0
+  owner: Atavus
+W17S32:
+  level: 8
+  owner: Atavus
+W17S33:
+  level: 0
+  owner: Atavus
+W17S35:
+  level: 8
+  owner: Atavus
+W17S38:
+  level: 0
+  owner: Atavus
+W17S39:
+  level: 8
+  owner: Atavus
+W17S43:
+  level: 0
+  owner: Tanjera
+W17S44:
+  level: 0
+  owner: Pantek59
+W17S45:
+  level: 7
+  owner: Pantek59
+W17S46:
+  level: 0
+  owner: Pantek59
+W17S47:
+  level: 7
+  owner: Pantek59
+W17S48:
+  level: 0
+  owner: Pantek59
+W17S49:
+  level: 0
+  owner: Pantek59
+W18N11:
+  level: 0
+  owner: Dissi
+W18N12:
+  level: 0
+  owner: Dissi
+W18N13:
+  level: 0
+  owner: Dissi
+W18N14:
+  level: 0
+  owner: NhanHo
+W18N46:
+  level: 0
+  owner: Azfaloth
+W18N48:
+  level: 7
+  owner: Azfaloth
+W18N49:
+  level: 0
+  owner: Azfaloth
+W18N51:
+  level: 0
+  owner: Nisou
+W18S37:
+  level: 0
+  owner: Atavus
+W18S39:
+  level: 0
+  owner: Atavus
+W18S41:
+  level: 6
+  owner: Tanjera
+W18S42:
+  level: 0
+  owner: Tanjera
+W18S43:
+  level: 8
+  owner: Tanjera
+W18S44:
+  level: 8
+  owner: Pantek59
+W18S45:
+  level: 0
+  owner: Pantek59
+W18S47:
+  level: 7
+  owner: Pantek59
+W18S48:
+  level: 0
+  owner: Pantek59
+W18S49:
+  level: 7
+  owner: Pantek59
+W19N13:
+  level: 0
+  owner: NhanHo
+W19N48:
+  level: 0
+  owner: Azfaloth
+W19N51:
+  level: 0
+  owner: Nisou
+W19N52:
+  level: 5
+  owner: Nisou
+W19S37:
+  level: 8
+  owner: Atavus
+W19S38:
+  level: 0
+  owner: Atavus
+W19S41:
+  level: 0
+  owner: Tanjera
+W19S42:
+  level: 8
+  owner: Tanjera
+W19S43:
+  level: 0
+  owner: Tanjera
+W19S47:
+  level: 0
+  owner: Pantek59
+W1N12:
+  level: 0
+  owner: Dissi
+W1N16:
+  level: 0
+  owner: Dissi
+W1N17:
+  level: 8
+  owner: Dissi
+W1N18:
+  level: 0
+  owner: Dissi
+W1N19:
+  level: 0
+  owner: Dissi
+W1N43:
+  level: 7
+  owner: TranceCake
+W1N45:
+  level: 5
+  owner: TranceCake
+W1N8:
+  level: 0
+  owner: Dissi
+W1N9:
+  level: 0
+  owner: Dissi
+W1S42:
+  level: 0
+  owner: Atlan
+W1S43:
+  level: 7
+  owner: Atlan
+W1S44:
+  level: 0
+  owner: Atlan
+W21S38:
+  level: 8
+  owner: Atavus
+W21S39:
+  level: 0
+  owner: Atavus
+W21S41:
+  level: 0
+  owner: BlackLotus
+W21S42:
+  level: 0
+  owner: BlackLotus
+W21S43:
+  level: 0
+  owner: BlackLotus
+W22S35:
+  level: 0
+  owner: Atavus
+W22S36:
+  level: 8
+  owner: Atavus
+W22S37:
+  level: 0
+  owner: Atavus
+W22S38:
+  level: 0
+  owner: Atavus
+W22S41:
+  level: 0
+  owner: BlackLotus
+W22S42:
+  level: 8
+  owner: BlackLotus
+W22S43:
+  level: 8
+  owner: BlackLotus
+W22S47:
+  level: 0
+  owner: BlackLotus
+W23N46:
+  level: 7
+  owner: Azfaloth
+W23N48:
+  level: 5
+  owner: Azfaloth
+W23S32:
+  level: 0
+  owner: Moria
+W23S33:
+  level: 7
+  owner: Moria
+W23S35:
+  level: 8
+  owner: Atavus
+W23S39:
+  level: 0
+  owner: Atavus
+W23S41:
+  level: 0
+  owner: BlackLotus
+W23S42:
+  level: 0
+  owner: BlackLotus
+W23S43:
+  level: 0
+  owner: BlackLotus
+W23S47:
+  level: 0
+  owner: BlackLotus
+W23S48:
+  level: 8
+  owner: BlackLotus
+W23S49:
+  level: 0
+  owner: BlackLotus
+W24N47:
+  level: 0
+  owner: Azfaloth
+W24S31:
+  level: 0
+  owner: Moria
+W24S32:
+  level: 0
+  owner: Moria
+W24S33:
+  level: 0
+  owner: Moria
+W24S41:
+  level: 8
+  owner: BlackLotus
+W24S42:
+  level: 0
+  owner: BlackLotus
+W24S47:
+  level: 8
+  owner: BlackLotus
+W24S48:
+  level: 0
+  owner: BlackLotus
+W25S31:
+  level: 8
+  owner: Moria
+W25S32:
+  level: 0
+  owner: Moria
+W25S37:
+  level: 8
+  owner: Atavus
+W25S41:
+  level: 0
+  owner: BlackLotus
+W25S43:
+  level: 8
+  owner: BlackLotus
+W26S32:
+  level: 0
+  owner: Moria
+W26S37:
+  level: 8
+  owner: Atavus
+W27S31:
+  level: 8
+  owner: Moria
+W27S32:
+  level: 0
+  owner: Moria
+W27S33:
+  level: 8
+  owner: Moria
+W27S34:
+  level: 0
+  owner: Moria
+W27S35:
+  level: 0
+  owner: Moria
+W27S39:
+  level: 0
+  owner: Atavus
+W27S45:
+  level: 8
+  owner: BlackLotus
+W28N42:
+  level: 0
+  owner: bekvon
+W28N43:
+  level: 6
+  owner: bekvon
+W28S31:
+  level: 0
+  owner: Moria
+W28S32:
+  level: 0
+  owner: Moria
+W28S33:
+  level: 8
+  owner: Moria
+W28S34:
+  level: 0
+  owner: Moria
+W28S35:
+  level: 0
+  owner: Atavus
+W28S36:
+  level: 7
+  owner: Atavus
+W28S37:
+  level: 0
+  owner: Atavus
+W28S38:
+  level: 0
+  owner: Atavus
+W28S39:
+  level: 8
+  owner: Atavus
+W28S41:
+  level: 0
+  owner: BlackLotus
+W28S42:
+  level: 0
+  owner: BlackLotus
+W29S31:
+  level: 0
+  owner: Moria
+W29S32:
+  level: 0
+  owner: Moria
+W29S33:
+  level: 0
+  owner: Moria
+W29S41:
+  level: 8
+  owner: BlackLotus
+W29S42:
+  level: 0
+  owner: BlackLotus
+W2N11:
+  level: 0
+  owner: Dissi
+W2N12:
+  level: 0
+  owner: Dissi
+W2N13:
+  level: 0
+  owner: Dissi
+W2N14:
+  level: 0
+  owner: Dissi
+W2N15:
+  level: 0
+  owner: Dissi
+W2N16:
+  level: 0
+  owner: Dissi
+W2N17:
+  level: 0
+  owner: Dissi
+W2N18:
+  level: 0
+  owner: Dissi
+W2N44:
+  level: 7
+  owner: TranceCake
+W2N45:
+  level: 0
+  owner: Remco
+W2N46:
+  level: 6
+  owner: Remco
+W2N8:
+  level: 0
+  owner: Dissi
+W2N9:
+  level: 0
+  owner: Dissi
+W2S43:
+  level: 0
+  owner: Atlan
+W2S47:
+  level: 0
+  owner: Atlan
+W31N42:
+  level: 7
+  owner: bekvon
+W31N43:
+  level: 0
+  owner: bekvon
+W31S21:
+  level: 0
+  owner: Ashburnie
+W31S22:
+  level: 0
+  owner: Ashburnie
+W31S26:
+  level: 0
+  owner: Ashburnie
+W31S28:
+  level: 0
+  owner: Ashburnie
+W31S29:
+  level: 0
+  owner: Ashburnie
+W31S41:
+  level: 8
+  owner: BlackLotus
+W31S42:
+  level: 0
+  owner: BlackLotus
+W32N41:
+  level: 0
+  owner: bekvon
+W32N42:
+  level: 0
+  owner: bekvon
+W32N45:
+  level: 0
+  owner: bekvon
+W32S21:
+  level: 8
+  owner: Ashburnie
+W32S24:
+  level: 0
+  owner: Ashburnie
+W32S25:
+  level: 0
+  owner: Ashburnie
+W32S26:
+  level: 8
+  owner: Ashburnie
+W32S29:
+  level: 8
+  owner: Ashburnie
+W32S37:
+  level: 0
+  owner: Moria
+W32S38:
+  level: 5
+  owner: Moria
+W32S39:
+  level: 0
+  owner: Moria
+W32S42:
+  level: 0
+  owner: BlackLotus
+W33N41:
+  level: 0
+  owner: bekvon
+W33N42:
+  level: 8
+  owner: bekvon
+W33N43:
+  level: 0
+  owner: bekvon
+W33N44:
+  level: 8
+  owner: bekvon
+W33N45:
+  level: 0
+  owner: bekvon
+W33S21:
+  level: 0
+  owner: Ashburnie
+W33S23:
+  level: 0
+  owner: Ashburnie
+W33S25:
+  level: 0
+  owner: Ashburnie
+W33S27:
+  level: 7
+  owner: Ashburnie
+W33S28:
+  level: 0
+  owner: Ashburnie
+W33S34:
+  level: 8
+  owner: Moria
+W33S43:
+  level: 0
+  owner: Bovius
+W33S44:
+  level: 8
+  owner: Bovius
+W33S45:
+  level: 6
+  owner: Bovius
+W33S46:
+  level: 8
+  owner: Bovius
+W34N41:
+  level: 7
+  owner: bekvon
+W34N42:
+  level: 0
+  owner: bekvon
+W34N43:
+  level: 0
+  owner: bekvon
+W34S22:
+  level: 0
+  owner: Ashburnie
+W34S23:
+  level: 8
+  owner: Ashburnie
+W34S27:
+  level: 0
+  owner: Ashburnie
+W34S28:
+  level: 0
+  owner: seancl
+W34S31:
+  level: 0
+  owner: Ashburnie
+W34S32:
+  level: 0
+  owner: Ashburnie
+W34S37:
+  level: 0
+  owner: Moria
+W35N41:
+  level: 0
+  owner: bekvon
+W35N42:
+  level: 8
+  owner: bekvon
+W35N43:
+  level: 0
+  owner: bekvon
+W35S32:
+  level: 8
+  owner: Ashburnie
+W35S37:
+  level: 6
+  owner: Moria
+W36N41:
+  level: 8
+  owner: bekvon
+W36N42:
+  level: 0
+  owner: bekvon
+W36N43:
+  level: 0
+  owner: bekvon
+W36S21:
+  level: 7
+  owner: seancl
+W36S23:
+  level: 0
+  owner: seancl
+W36S27:
+  level: 0
+  owner: seancl
+W36S32:
+  level: 0
+  owner: Ashburnie
+W36S37:
+  level: 0
+  owner: Moria
+W36S43:
+  level: 0
+  owner: Bovius
+W37N41:
+  level: 8
+  owner: bekvon
+W37N42:
+  level: 0
+  owner: bekvon
+W37S21:
+  level: 0
+  owner: seancl
+W37S23:
+  level: 7
+  owner: seancl
+W37S27:
+  level: 8
+  owner: seancl
+W37S28:
+  level: 8
+  owner: seancl
+W37S29:
+  level: 0
+  owner: seancl
+W37S31:
+  level: 0
+  owner: Ashburnie
+W37S32:
+  level: 0
+  owner: Ashburnie
+W37S44:
+  level: 8
+  owner: Bovius
+W38N41:
+  level: 0
+  owner: bekvon
+W38S21:
+  level: 0
+  owner: seancl
+W38S22:
+  level: 0
+  owner: seancl
+W38S23:
+  level: 0
+  owner: seancl
+W38S25:
+  level: 8
+  owner: seancl
+W38S26:
+  level: 0
+  owner: seancl
+W38S29:
+  level: 0
+  owner: seancl
+W38S31:
+  level: 8
+  owner: Ashburnie
+W38S32:
+  level: 0
+  owner: Ashburnie
+W38S5:
+  level: 8
+  owner: dormando
+W38S6:
+  level: 7
+  owner: dormando
+W38S7:
+  level: 0
+  owner: dormando
+W38S8:
+  level: 0
+  owner: dormando
+W39N41:
+  level: 7
+  owner: bekvon
+W39S22:
+  level: 8
+  owner: seancl
+W39S28:
+  level: 0
+  owner: seancl
+W39S7:
+  level: 8
+  owner: dormando
+W39S8:
+  level: 8
+  owner: dormando
+W3N11:
+  level: 8
+  owner: Dissi
+W3N12:
+  level: 0
+  owner: Dissi
+W3N13:
+  level: 0
+  owner: Dissi
+W3N14:
+  level: 0
+  owner: Dissi
+W3N15:
+  level: 8
+  owner: Dissi
+W3N16:
+  level: 0
+  owner: Dissi
+W3N17:
+  level: 0
+  owner: Dissi
+W3N42:
+  level: 7
+  owner: TranceCake
+W3N46:
+  level: 0
+  owner: Remco
+W3N8:
+  level: 0
+  owner: Dissi
+W3N9:
+  level: 8
+  owner: Dissi
+W3S13:
+  level: 0
+  owner: NhanHo
+W3S14:
+  level: 8
+  owner: NhanHo
+W3S15:
+  level: 0
+  owner: NhanHo
+W3S46:
+  level: 8
+  owner: Atlan
+W3S47:
+  level: 0
+  owner: Atlan
+W41N22:
+  level: 7
+  owner: DoctorPC
+W41S24:
+  level: 0
+  owner: seancl
+W41S28:
+  level: 0
+  owner: seancl
+W41S29:
+  level: 7
+  owner: seancl
+W41S32:
+  level: 6
+  owner: Ashburnie
+W41S33:
+  level: 0
+  owner: Ashburnie
+W41S7:
+  level: 0
+  owner: dormando
+W42N22:
+  level: 0
+  owner: DoctorPC
+W42N23:
+  level: 0
+  owner: DoctorPC
+W42S26:
+  level: 0
+  owner: seancl
+W42S33:
+  level: 0
+  owner: Ashburnie
+W42S8:
+  level: 0
+  owner: dormando
+W43N23:
+  level: 7
+  owner: DoctorPC
+W43N24:
+  level: 0
+  owner: DoctorPC
+W43S5:
+  level: 7
+  owner: dormando
+W43S54:
+  level: 8
+  owner: SteeleR
+W43S7:
+  level: 0
+  owner: dormando
+W43S8:
+  level: 8
+  owner: dormando
+W43S9:
+  level: 0
+  owner: dormando
+W44N23:
+  level: 7
+  owner: DoctorPC
+W44S8:
+  level: 0
+  owner: dormando
+W45N23:
+  level: 0
+  owner: DoctorPC
+W45S8:
+  level: 0
+  owner: dormando
+W46S33:
+  level: 0
+  owner: Ashburnie
+W46S38:
+  level: 1
+  owner: Ashburnie
+W46S8:
+  level: 7
+  owner: dormando
+W47S33:
+  level: 6
+  owner: Ashburnie
+W48N22:
+  level: 0
+  owner: DoctorPC
+W48N23:
+  level: 7
+  owner: DoctorPC
+W48S33:
+  level: 0
+  owner: Ashburnie
+W48S5:
+  level: 5
+  owner: dormando
+W4N11:
+  level: 0
+  owner: Dissi
+W4N12:
+  level: 8
+  owner: Dissi
+W4N13:
+  level: 0
+  owner: Dissi
+W4N41:
+  level: 7
+  owner: TranceCake
+W4N42:
+  level: 0
+  owner: Remco
+W4N43:
+  level: 7
+  owner: TranceCake
+W4N8:
+  level: 0
+  owner: Dissi
+W4S41:
+  level: 0
+  owner: Atlan
+W51S47:
+  level: 0
+  owner: Finndibaen
+W52S37:
+  level: 6
+  owner: Finndibaen
+W52S44:
+  level: 0
+  owner: Finndibaen
+W52S45:
+  level: 7
+  owner: Finndibaen
+W52S47:
+  level: 7
+  owner: Finndibaen
+W52S48:
+  level: 0
+  owner: Finndibaen
+W53S43:
+  level: 7
+  owner: Finndibaen
+W53S44:
+  level: 0
+  owner: Finndibaen
+W53S45:
+  level: 0
+  owner: Finndibaen
+W54S42:
+  level: 7
+  owner: Finndibaen
+W54S43:
+  level: 7
+  owner: Finndibaen
+W55S42:
+  level: 0
+  owner: Finndibaen
+W55S43:
+  level: 8
+  owner: Finndibaen
+W56S42:
+  level: 0
+  owner: Finndibaen
+W56S43:
+  level: 0
+  owner: Finndibaen
+W5N11:
+  level: 0
+  owner: Dissi
+W5N12:
+  level: 0
+  owner: Dissi
+W5N42:
+  level: 8
+  owner: Remco
+W5N43:
+  level: 0
+  owner: Remco
+W5N8:
+  level: 0
+  owner: Dissi
+W5S41:
+  level: 7
+  owner: Atlan
+W5S42:
+  level: 0
+  owner: Atlan
+W5S43:
+  level: 7
+  owner: Atlan
+W6N42:
+  level: 8
+  owner: Remco
+W6N48:
+  level: 0
+  owner: Remco
+W6N8:
+  level: 8
+  owner: Dissi
+W6S41:
+  level: 0
+  owner: Atlan
+W7N42:
+  level: 0
+  owner: Remco
+W7N44:
+  level: 8
+  owner: Remco
+W7N45:
+  level: 8
+  owner: Remco
+W7N46:
+  level: 0
+  owner: Remco
+W7N47:
+  level: 0
+  owner: Remco
+W7N48:
+  level: 0
+  owner: Remco
+W7N49:
+  level: 0
+  owner: Remco
+W7N8:
+  level: 0
+  owner: Dissi
+W7N9:
+  level: 0
+  owner: Dissi
+W7S43:
+  level: 0
+  owner: Atlan
+W7S44:
+  level: 8
+  owner: Atlan
+W7S47:
+  level: 8
+  owner: Atlan
+W8N42:
+  level: 0
+  owner: Remco
+W8N46:
+  level: 0
+  owner: Remco
+W8N47:
+  level: 7
+  owner: Remco
+W8N48:
+  level: 0
+  owner: Garland
+W8N49:
+  level: 0
+  owner: Garland
+W8S44:
+  level: 0
+  owner: Atlan
+W8S48:
+  level: 0
+  owner: Atlan
+W8S49:
+  level: 8
+  owner: Atlan
 
