@@ -13,7 +13,7 @@ var ScreepsMap = function() {
     this.setPadding(5);
 };
 
-ScreepsMap.prototype.colors = ["#6A6","#66A","#A6A","#6AA","#06A","#0A6","#6A0","#A06","#60A"];
+ScreepsMap.prototype.colors = ["#6A6","#66A","#F6A","#6AA","#06A","#0A6","#6A0","#A06","#60A"];
 
 ScreepsMap.prototype.setRoomSize = function(width, height) {
     this.roomWidth = width;
