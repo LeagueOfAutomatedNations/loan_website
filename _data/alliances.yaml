@@ -1,5 +1,6 @@
 culture:
   name: The Culture
+  color: "#FF0"
   slack: theculture_public
   members:
   - anisoptera
