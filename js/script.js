@@ -2,7 +2,6 @@
 
 ---
 
-
 document.addEventListener("DOMContentLoaded", function(event) {
     var hidden = true;
     var menu = document.querySelector(".main-nav");
@@ -48,7 +47,7 @@ document.addEventListener("DOMContentLoaded", function(event) {
 
     cmtBtn.addEventListener("click", function(e){
         e.preventDefault();
-        loadDisqus(); 
+        loadDisqus();
     });
 
     var scrolling = false;
@@ -86,3 +85,9 @@ document.addEventListener("DOMContentLoaded", function(event) {
         }
     }, 400);
 });
+
+new KonamiCode(function () {
+  var d = document.getElementById("leaguelogo");
+  d.className += " fa fa-spin";
+});
+
