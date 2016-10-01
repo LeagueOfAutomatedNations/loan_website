@@ -13,7 +13,20 @@ var ScreepsMap = function() {
     this.setPadding(5);
 };
 
-ScreepsMap.prototype.colors = ["#FF0", "#6A6","#66F","#F6A","#6AA","#06A","#0A6","#6A0","#A06","#60A"];
+ScreepsMap.prototype.colors = [
+  '#FF0',
+  '#E0FFFF',
+  '#ADFF2F',
+  '#F0E68C',
+  '#FF00FF',
+  '#FFE4E1',
+  '#F6A',
+  '#FF4500',
+  '#00FF00',
+  '#DDA0DD',
+  '#D00000',
+  '#60A'
+];
 
 ScreepsMap.prototype.setRoomSize = function(width, height) {
     this.roomWidth = width;
