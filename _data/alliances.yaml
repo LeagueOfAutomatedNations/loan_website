@@ -2,6 +2,7 @@ culture:
   name: The Culture
   color: "#00FFFF"
   slack: theculture_public
+  abbreviation: Culture
   members:
   - anisoptera
   - Bovius
@@ -16,6 +17,7 @@ lun:
   name: Luranian United Nations
   charter: https://docs.google.com/document/d/1u-TkeVIcr0rgJqvpEAPXxD58Dw-HawBaWXUVfXfkeic
   slack: lun
+  abbreviation: LUN
   members:
   - Lur
   - starwar15432
@@ -43,6 +45,7 @@ semperrexoff:
 sun:
   name: Screeps United Nations
   slack: sun
+  abbreviation: SUN
   members:
   - Atavus
   - BlackLotus
@@ -57,6 +60,7 @@ sun:
 thunderkittens:
   name: Thunder Kittens
   color: "#FA8037"
+  abbreviation: TK
   members:
   - bonzaiferroni
   - SteeleR
@@ -94,6 +98,7 @@ ud:
 
 ypsilonempire:
   name: Ypsilon Empire
+  abbreviation: Ypsilon
   members:
   - daboross
   - DoctorPC
