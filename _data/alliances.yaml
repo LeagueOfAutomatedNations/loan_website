@@ -61,7 +61,7 @@ semperrexoff:
 
 swa:
   name: Southwestern Alliance
-  color: "#007700"
+  color: "#00BB00"
   slack: swa-public
   abbreviation: swa
   members:
