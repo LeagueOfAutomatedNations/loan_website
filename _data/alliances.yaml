@@ -35,6 +35,23 @@ nato:
   - Nephanae
   - nnog
 
+sun:
+  name: Screeps United Nations
+  charter: https://docs.google.com/document/d/1AWDVqoCi2wJxYgIiwPqxqa283byMJPNeg4RlSBbWfD4
+  color: "#b9c4c9"
+  slack: sun
+  abbreviation: SUN
+  members:
+  - Atavus
+  - BlackLotus
+  - seancl
+  - Atlan
+  - Ashburnie
+  - Tanjera
+  - Moria
+  - Pantek59
+  - Finndibaen
+
 semperrexoff:
   name: Semperrexoff
   members:
@@ -54,23 +71,6 @@ swa:
   - stybbe
   - Waveofbabies
   - Zergling
-
-sun:
-  name: Screeps United Nations
-  charter: https://docs.google.com/document/d/1AWDVqoCi2wJxYgIiwPqxqa283byMJPNeg4RlSBbWfD4
-  color: "#b9c4c9"
-  slack: sun
-  abbreviation: SUN
-  members:
-  - Atavus
-  - BlackLotus
-  - seancl
-  - Atlan
-  - Ashburnie
-  - Tanjera
-  - Moria
-  - Pantek59
-  - Finndibaen
 
 thunderkittens:
   name: Thunder Kittens
