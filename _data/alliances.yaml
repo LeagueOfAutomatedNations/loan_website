@@ -13,19 +13,6 @@ culture:
   - tedivm
   - Prime
 
-swa:
-  name: Southwestern Alliance
-  color: "#007700"
-  slack: swa-public
-  abbreviation: swa
-  members:
-  - Hernanduer
-  - maka_RTH
-  - n00bish
-  - stybbe
-  - Waveofbabies
-  - Zergling
-
 lun:
   name: Luranian United Nations
   charter: https://docs.google.com/document/d/1u-TkeVIcr0rgJqvpEAPXxD58Dw-HawBaWXUVfXfkeic
@@ -54,6 +41,19 @@ semperrexoff:
   - NihilRex
   - SemperRabbit
   - weekOff
+
+swa:
+  name: Southwestern Alliance
+  color: "#007700"
+  slack: swa-public
+  abbreviation: swa
+  members:
+  - Hernanduer
+  - maka_RTH
+  - n00bish
+  - stybbe
+  - Waveofbabies
+  - Zergling
 
 sun:
   name: Screeps United Nations
