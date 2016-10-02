@@ -1,5 +1,6 @@
 culture:
   name: The Culture
+  charter: https://docs.google.com/document/d/1CE4BUZ55avZZcQawa8OQhE_E-bpSwYqIyqHs7otQWBY/
   color: "#00FFFF"
   slack: theculture_public
   abbreviation: Culture
