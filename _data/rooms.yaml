@@ -22,9 +22,6 @@ E11N27:
 E11N28:
   level: 8
   owner: neutral
-E11N29:
-  level: 0
-  owner: neutral
 E11N3:
   level: 0
   owner: neutral
@@ -54,9 +51,6 @@ E11N5:
   owner: neutral
 E11N51:
   level: 5
-  owner: neutral
-E11N52:
-  level: 0
   owner: neutral
 E11N53:
   level: 6
@@ -212,15 +206,12 @@ E12N41:
   level: 0
   owner: neutral
 E12N42:
-  level: 4
+  level: 5
   owner: neutral
 E12N47:
   level: 6
   owner: neutral
 E12N5:
-  level: 0
-  owner: neutral
-E12N51:
   level: 0
   owner: neutral
 E12N52:
@@ -551,7 +542,7 @@ E13S5:
   level: 0
   owner: neutral
 E13S56:
-  level: 2
+  level: 3
   owner: neutral
 E13S6:
   level: 8
@@ -571,6 +562,9 @@ E14N17:
 E14N18:
   level: 8
   owner: neutral
+E14N19:
+  level: 0
+  owner: neutral
 E14N2:
   level: 0
   owner: neutral
@@ -586,6 +580,9 @@ E14N27:
 E14N28:
   level: 0
   owner: neutral
+E14N29:
+  level: 8
+  owner: neutral
 E14N3:
   level: 8
   owner: neutral
@@ -597,6 +594,9 @@ E14N47:
   owner: neutral
 E14N48:
   level: 7
+  owner: neutral
+E14N49:
+  level: 6
   owner: neutral
 E14N51:
   level: 5
@@ -610,10 +610,16 @@ E14N57:
 E14N58:
   level: 0
   owner: neutral
+E14N59:
+  level: 7
+  owner: neutral
 E14N7:
   level: 0
   owner: NhanHo
 E14N8:
+  level: 0
+  owner: NhanHo
+E14N9:
   level: 0
   owner: NhanHo
 E14S1:
@@ -628,6 +634,9 @@ E14S13:
 E14S17:
   level: 0
   owner: neutral
+E14S19:
+  level: 0
+  owner: neutral
 E14S2:
   level: 0
   owner: NhanHo
@@ -635,6 +644,9 @@ E14S21:
   level: 0
   owner: neutral
 E14S28:
+  level: 0
+  owner: neutral
+E14S29:
   level: 0
   owner: neutral
 E14S31:
@@ -651,6 +663,9 @@ E14S37:
   owner: neutral
 E14S38:
   level: 8
+  owner: neutral
+E14S39:
+  level: 0
   owner: neutral
 E14S47:
   level: 0
@@ -676,6 +691,9 @@ E15N11:
 E15N12:
   level: 8
   owner: NhanHo
+E15N19:
+  level: 0
+  owner: neutral
 E15N2:
   level: 8
   owner: neutral
@@ -687,6 +705,9 @@ E15N27:
   owner: neutral
 E15N28:
   level: 0
+  owner: neutral
+E15N29:
+  level: 8
   owner: neutral
 E15N3:
   level: 2
@@ -709,6 +730,9 @@ E15N47:
 E15N48:
   level: 8
   owner: neutral
+E15N49:
+  level: 0
+  owner: neutral
 E15N52:
   level: 4
   owner: daboross
@@ -718,11 +742,17 @@ E15N53:
 E15N58:
   level: 0
   owner: neutral
+E15N59:
+  level: 0
+  owner: neutral
 E15N7:
   level: 8
   owner: NhanHo
 E15N8:
   level: 0
+  owner: NhanHo
+E15N9:
+  level: 8
   owner: NhanHo
 E15S1:
   level: 0
@@ -739,6 +769,9 @@ E15S17:
 E15S18:
   level: 0
   owner: neutral
+E15S19:
+  level: 8
+  owner: neutral
 E15S2:
   level: 0
   owner: NhanHo
@@ -747,6 +780,9 @@ E15S23:
   owner: neutral
 E15S28:
   level: 0
+  owner: neutral
+E15S29:
+  level: 5
   owner: neutral
 E15S31:
   level: 0
@@ -761,6 +797,9 @@ E15S37:
   level: 0
   owner: neutral
 E15S38:
+  level: 0
+  owner: neutral
+E15S39:
   level: 0
   owner: neutral
 E15S51:
@@ -781,6 +820,9 @@ E16N12:
 E16N18:
   level: 0
   owner: neutral
+E16N19:
+  level: 8
+  owner: neutral
 E16N2:
   level: 0
   owner: neutral
@@ -792,6 +834,9 @@ E16N27:
   owner: neutral
 E16N28:
   level: 7
+  owner: neutral
+E16N29:
+  level: 8
   owner: neutral
 E16N3:
   level: 0
@@ -835,10 +880,16 @@ E16N57:
 E16N58:
   level: 0
   owner: neutral
+E16N59:
+  level: 6
+  owner: neutral
 E16N7:
   level: 0
   owner: neutral
 E16N8:
+  level: 0
+  owner: NhanHo
+E16N9:
   level: 0
   owner: NhanHo
 E16S1:
@@ -854,6 +905,9 @@ E16S13:
   level: 8
   owner: neutral
 E16S18:
+  level: 0
+  owner: neutral
+E16S19:
   level: 0
   owner: neutral
 E16S2:
@@ -874,6 +928,9 @@ E16S27:
 E16S28:
   level: 8
   owner: neutral
+E16S29:
+  level: 5
+  owner: neutral
 E16S3:
   level: 0
   owner: NhanHo
@@ -887,6 +944,9 @@ E16S33:
   level: 0
   owner: neutral
 E16S38:
+  level: 0
+  owner: neutral
+E16S39:
   level: 0
   owner: neutral
 E16S43:
@@ -955,6 +1015,9 @@ E17N32:
 E17N33:
   level: 0
   owner: neutral
+E17N34:
+  level: 0
+  owner: neutral
 E17N35:
   level: 8
   owner: neutral
@@ -997,9 +1060,6 @@ E17N58:
 E17N59:
   level: 0
   owner: neutral
-E17N6:
-  level: 0
-  owner: neutral
 E17N7:
   level: 0
   owner: neutral
@@ -1024,9 +1084,6 @@ E17S19:
 E17S2:
   level: 0
   owner: NhanHo
-E17S21:
-  level: 0
-  owner: neutral
 E17S22:
   level: 0
   owner: neutral
@@ -1035,6 +1092,9 @@ E17S23:
   owner: neutral
 E17S24:
   level: 6
+  owner: neutral
+E17S26:
+  level: 0
   owner: neutral
 E17S28:
   level: 7
@@ -1045,6 +1105,9 @@ E17S29:
 E17S3:
   level: 0
   owner: NhanHo
+E17S31:
+  level: 0
+  owner: neutral
 E17S32:
   level: 0
   owner: neutral
@@ -1180,6 +1243,9 @@ E18N5:
 E18N53:
   level: 3
   owner: neutral
+E18N56:
+  level: 2
+  owner: neutral
 E18N57:
   level: 0
   owner: neutral
@@ -1239,9 +1305,6 @@ E18S23:
   owner: neutral
 E18S28:
   level: 7
-  owner: neutral
-E18S29:
-  level: 0
   owner: neutral
 E18S3:
   level: 0
@@ -1309,6 +1372,12 @@ E19N12:
 E19N13:
   level: 8
   owner: neutral
+E19N14:
+  level: 0
+  owner: neutral
+E19N16:
+  level: 0
+  owner: neutral
 E19N18:
   level: 0
   owner: neutral
@@ -1321,6 +1390,9 @@ E19N22:
 E19N23:
   level: 7
   owner: NhanHo
+E19N26:
+  level: 7
+  owner: neutral
 E19N27:
   level: 0
   owner: neutral
@@ -1336,6 +1408,15 @@ E19N32:
 E19N33:
   level: 0
   owner: neutral
+E19N34:
+  level: 0
+  owner: neutral
+E19N35:
+  level: 8
+  owner: neutral
+E19N4:
+  level: 0
+  owner: neutral
 E19N41:
   level: 0
   owner: neutral
@@ -1345,11 +1426,35 @@ E19N42:
 E19N43:
   level: 8
   owner: neutral
+E19N44:
+  level: 7
+  owner: neutral
+E19N45:
+  level: 0
+  owner: neutral
+E19N46:
+  level: 0
+  owner: neutral
+E19N49:
+  level: 6
+  owner: neutral
+E19N5:
+  level: 0
+  owner: neutral
 E19N52:
   level: 4
   owner: neutral
+E19N54:
+  level: 5
+  owner: neutral
+E19N55:
+  level: 5
+  owner: neutral
 E19N57:
   level: 0
+  owner: neutral
+E19N6:
+  level: 8
   owner: neutral
 E19N7:
   level: 0
@@ -1357,11 +1462,23 @@ E19N7:
 E19N8:
   level: 8
   owner: neutral
+E19N9:
+  level: 0
+  owner: NhanHo
 E19S11:
   level: 8
   owner: neutral
 E19S12:
   level: 0
+  owner: neutral
+E19S14:
+  level: 8
+  owner: neutral
+E19S15:
+  level: 0
+  owner: neutral
+E19S16:
+  level: 8
   owner: neutral
 E19S17:
   level: 0
@@ -1369,7 +1486,13 @@ E19S17:
 E19S18:
   level: 0
   owner: neutral
+E19S19:
+  level: 6
+  owner: neutral
 E19S2:
+  level: 7
+  owner: neutral
+E19S26:
   level: 7
   owner: neutral
 E19S27:
@@ -1378,14 +1501,38 @@ E19S27:
 E19S28:
   level: 6
   owner: neutral
+E19S35:
+  level: 0
+  owner: neutral
+E19S36:
+  level: 8
+  owner: neutral
 E19S37:
   level: 8
   owner: neutral
 E19S38:
   level: 0
   owner: neutral
+E19S39:
+  level: 8
+  owner: neutral
+E19S4:
+  level: 8
+  owner: TooAngel
+E19S44:
+  level: 8
+  owner: neutral
+E19S45:
+  level: 0
+  owner: neutral
 E19S53:
   level: 5
+  owner: neutral
+E19S54:
+  level: 1
+  owner: neutral
+E19S6:
+  level: 0
   owner: neutral
 E1N1:
   level: 0
@@ -1664,7 +1811,7 @@ E21N51:
   level: 4
   owner: neutral
 E21N52:
-  level: 1
+  level: 2
   owner: neutral
 E21N53:
   level: 6
@@ -1723,6 +1870,9 @@ E21S25:
 E21S27:
   level: 0
   owner: bonzaiferroni
+E21S3:
+  level: 0
+  owner: TooAngel
 E21S31:
   level: 7
   owner: neutral
@@ -1867,9 +2017,6 @@ E22N56:
 E22N57:
   level: 0
   owner: neutral
-E22N58:
-  level: 0
-  owner: neutral
 E22N59:
   level: 0
   owner: neutral
@@ -1937,7 +2084,7 @@ E22S54:
   level: 0
   owner: neutral
 E22S57:
-  level: 5
+  level: 4
   owner: neutral
 E22S8:
   level: 0
@@ -2050,6 +2197,9 @@ E23S15:
 E23S16:
   level: 8
   owner: neutral
+E23S17:
+  level: 0
+  owner: neutral
 E23S18:
   level: 8
   owner: neutral
@@ -2137,6 +2287,9 @@ E24N17:
 E24N18:
   level: 0
   owner: NhanHo
+E24N19:
+  level: 8
+  owner: NhanHo
 E24N23:
   level: 8
   owner: NhanHo
@@ -2158,6 +2311,9 @@ E24N37:
 E24N38:
   level: 0
   owner: neutral
+E24N39:
+  level: 0
+  owner: neutral
 E24N48:
   level: 4
   owner: neutral
@@ -2176,11 +2332,17 @@ E24N57:
 E24N58:
   level: 0
   owner: neutral
+E24N59:
+  level: 6
+  owner: neutral
 E24N7:
   level: 8
   owner: neutral
 E24N8:
   level: 7
+  owner: neutral
+E24N9:
+  level: 6
   owner: neutral
 E24S1:
   level: 5
@@ -2233,6 +2395,9 @@ E25N17:
 E25N18:
   level: 0
   owner: NhanHo
+E25N19:
+  level: 0
+  owner: NhanHo
 E25N21:
   level: 5
   owner: NhanHo
@@ -2248,6 +2413,9 @@ E25N37:
 E25N38:
   level: 0
   owner: neutral
+E25N39:
+  level: 7
+  owner: neutral
 E25N41:
   level: 0
   owner: neutral
@@ -2261,6 +2429,9 @@ E25N57:
   level: 0
   owner: neutral
 E25N58:
+  level: 0
+  owner: neutral
+E25N59:
   level: 0
   owner: neutral
 E25N7:
@@ -2311,6 +2482,9 @@ E25S47:
 E25S48:
   level: 0
   owner: neutral
+E25S49:
+  level: 0
+  owner: neutral
 E25S51:
   level: 0
   owner: neutral
@@ -2353,6 +2527,9 @@ E26N47:
 E26N48:
   level: 0
   owner: neutral
+E26N49:
+  level: 0
+  owner: neutral
 E26N52:
   level: 6
   owner: neutral
@@ -2362,6 +2539,9 @@ E26N57:
 E26N7:
   level: 0
   owner: bldinator
+E26N8:
+  level: 0
+  owner: TooAngel
 E26S1:
   level: 0
   owner: neutral
@@ -2377,17 +2557,26 @@ E26S17:
 E26S18:
   level: 0
   owner: bonzaiferroni
+E26S19:
+  level: 6
+  owner: bonzaiferroni
 E26S27:
   level: 8
   owner: bonzaiferroni
 E26S28:
   level: 0
   owner: bonzaiferroni
+E26S29:
+  level: 3
+  owner: neutral
 E26S3:
   level: 6
   owner: neutral
 E26S31:
   level: 4
+  owner: neutral
+E26S39:
+  level: 5
   owner: neutral
 E26S41:
   level: 0
@@ -2401,11 +2590,17 @@ E26S43:
 E26S48:
   level: 7
   owner: neutral
+E26S49:
+  level: 0
+  owner: neutral
 E26S51:
   level: 0
   owner: neutral
 E26S52:
   level: 0
+  owner: neutral
+E26S59:
+  level: 5
   owner: neutral
 E26S7:
   level: 8
@@ -2546,9 +2741,6 @@ E27S41:
   level: 8
   owner: neutral
 E27S42:
-  level: 0
-  owner: neutral
-E27S43:
   level: 0
   owner: neutral
 E27S44:
@@ -2692,6 +2884,12 @@ E28N58:
 E28N6:
   level: 7
   owner: TooAngel
+E28N7:
+  level: 0
+  owner: TooAngel
+E28N8:
+  level: 0
+  owner: TooAngel
 E28S1:
   level: 6
   owner: neutral
@@ -2731,17 +2929,11 @@ E28S33:
 E28S34:
   level: 0
   owner: SteeleR
-E28S41:
-  level: 0
-  owner: neutral
 E28S42:
   level: 8
   owner: neutral
 E28S43:
   level: 7
-  owner: neutral
-E28S44:
-  level: 0
   owner: neutral
 E28S49:
   level: 0
@@ -2773,9 +2965,6 @@ E29N11:
 E29N12:
   level: 0
   owner: TooAngel
-E29N13:
-  level: 0
-  owner: TooAngel
 E29N17:
   level: 0
   owner: neutral
@@ -2788,6 +2977,9 @@ E29N2:
 E29N22:
   level: 6
   owner: neutral
+E29N24:
+  level: 7
+  owner: neutral
 E29N28:
   level: 8
   owner: neutral
@@ -2797,15 +2989,30 @@ E29N3:
 E29N31:
   level: 3
   owner: neutral
+E29N34:
+  level: 7
+  owner: neutral
 E29N37:
   level: 0
   owner: neutral
 E29N38:
   level: 6
   owner: neutral
+E29N4:
+  level: 0
+  owner: gewure
+E29N44:
+  level: 4
+  owner: neutral
+E29N45:
+  level: 2
+  owner: neutral
 E29N48:
   level: 0
   owner: neutral
+E29N5:
+  level: 0
+  owner: TooAngel
 E29N51:
   level: 0
   owner: neutral
@@ -2815,9 +3022,18 @@ E29N52:
 E29N53:
   level: 5
   owner: neutral
+E29N55:
+  level: 0
+  owner: neutral
+E29N56:
+  level: 0
+  owner: neutral
 E29N58:
   level: 6
   owner: neutral
+E29N6:
+  level: 0
+  owner: TooAngel
 E29N7:
   level: 0
   owner: TooAngel
@@ -2845,14 +3061,29 @@ E29S31:
 E29S33:
   level: 8
   owner: SteeleR
+E29S34:
+  level: 0
+  owner: SteeleR
 E29S38:
   level: 0
+  owner: neutral
+E29S39:
+  level: 7
+  owner: neutral
+E29S4:
+  level: 5
   owner: neutral
 E29S41:
   level: 7
   owner: neutral
-E29S42:
-  level: 0
+E29S44:
+  level: 5
+  owner: neutral
+E29S49:
+  level: 8
+  owner: neutral
+E29S54:
+  level: 4
   owner: neutral
 E29S58:
   level: 7
@@ -3215,7 +3446,7 @@ E32N2:
   level: 8
   owner: gewure
 E32N26:
-  level: 4
+  level: 5
   owner: neutral
 E32N31:
   level: 0
@@ -3265,12 +3496,6 @@ E32N57:
 E32N58:
   level: 7
   owner: neutral
-E32N8:
-  level: 0
-  owner: TooAngel
-E32N9:
-  level: 0
-  owner: TooAngel
 E32S1:
   level: 0
   owner: bonzaiferroni
@@ -3284,7 +3509,7 @@ E32S15:
   level: 8
   owner: taiga
 E32S17:
-  level: 5
+  level: 6
   owner: bonzaiferroni
 E32S18:
   level: 8
@@ -3550,9 +3775,9 @@ E34N52:
 E34N53:
   level: 7
   owner: neutral
-E34N8:
-  level: 0
-  owner: TooAngel
+E34N59:
+  level: 5
+  owner: neutral
 E34S11:
   level: 6
   owner: neutral
@@ -3586,6 +3811,9 @@ E34S37:
 E34S38:
   level: 8
   owner: neutral
+E34S39:
+  level: 0
+  owner: neutral
 E34S41:
   level: 0
   owner: neutral
@@ -3593,6 +3821,9 @@ E34S7:
   level: 8
   owner: Reini
 E34S8:
+  level: 6
+  owner: neutral
+E34S9:
   level: 6
   owner: neutral
 E35N1:
@@ -3606,6 +3837,9 @@ E35N17:
   owner: neutral
 E35N18:
   level: 8
+  owner: neutral
+E35N19:
+  level: 7
   owner: neutral
 E35N2:
   level: 8
@@ -3634,6 +3868,9 @@ E35N33:
 E35N47:
   level: 7
   owner: anisoptera
+E35N49:
+  level: 0
+  owner: anisoptera
 E35N57:
   level: 0
   owner: neutral
@@ -3643,6 +3880,9 @@ E35N58:
 E35S13:
   level: 8
   owner: bonzaiferroni
+E35S19:
+  level: 6
+  owner: neutral
 E35S2:
   level: 0
   owner: gewure
@@ -3679,6 +3919,9 @@ E35S47:
 E35S53:
   level: 6
   owner: neutral
+E35S59:
+  level: 4
+  owner: neutral
 E36N1:
   level: 7
   owner: nnog
@@ -3687,6 +3930,9 @@ E36N11:
   owner: neutral
 E36N17:
   level: 0
+  owner: neutral
+E36N19:
+  level: 7
   owner: neutral
 E36N2:
   level: 0
@@ -3715,6 +3961,9 @@ E36N43:
 E36N48:
   level: 0
   owner: anisoptera
+E36N49:
+  level: 6
+  owner: anisoptera
 E36N51:
   level: 6
   owner: neutral
@@ -3730,6 +3979,9 @@ E36N57:
 E36N7:
   level: 8
   owner: taiga
+E36N9:
+  level: 7
+  owner: neutral
 E36S11:
   level: 6
   owner: neutral
@@ -3750,6 +4002,9 @@ E36S27:
   owner: SteeleR
 E36S28:
   level: 8
+  owner: SteeleR
+E36S29:
+  level: 0
   owner: SteeleR
 E36S31:
   level: 0
@@ -3778,6 +4033,9 @@ E36S57:
 E36S7:
   level: 3
   owner: neutral
+E36S9:
+  level: 7
+  owner: neutral
 E37N1:
   level: 7
   owner: nnog
@@ -3794,9 +4052,6 @@ E37N22:
   level: 8
   owner: neutral
 E37N23:
-  level: 0
-  owner: neutral
-E37N27:
   level: 0
   owner: neutral
 E37N28:
@@ -3914,7 +4169,7 @@ E37S54:
   level: 4
   owner: neutral
 E37S56:
-  level: 4
+  level: 5
   owner: neutral
 E38N14:
   level: 0
@@ -4045,6 +4300,9 @@ E38S8:
 E38S9:
   level: 2
   owner: neutral
+E39N25:
+  level: 0
+  owner: neutral
 E39N28:
   level: 4
   owner: neutral
@@ -4060,11 +4318,17 @@ E39N37:
 E39N38:
   level: 8
   owner: Bovius
+E39N39:
+  level: 0
+  owner: Bovius
 E39N42:
   level: 7
   owner: neutral
 E39N43:
   level: 6
+  owner: neutral
+E39N45:
+  level: 5
   owner: neutral
 E39N48:
   level: 4
@@ -4075,17 +4339,35 @@ E39N51:
 E39N52:
   level: 0
   owner: neutral
+E39N54:
+  level: 0
+  owner: neutral
+E39N55:
+  level: 0
+  owner: neutral
+E39N59:
+  level: 4
+  owner: neutral
 E39S1:
   level: 0
   owner: gewure
+E39S19:
+  level: 4
+  owner: neutral
 E39S22:
   level: 0
   owner: neutral
 E39S23:
   level: 7
   owner: neutral
+E39S24:
+  level: 0
+  owner: neutral
 E39S28:
   level: 0
+  owner: SteeleR
+E39S29:
+  level: 8
   owner: SteeleR
 E39S31:
   level: 8
@@ -4096,11 +4378,23 @@ E39S32:
 E39S33:
   level: 0
   owner: neutral
+E39S34:
+  level: 0
+  owner: neutral
+E39S35:
+  level: 0
+  owner: neutral
+E39S36:
+  level: 8
+  owner: neutral
 E39S37:
   level: 8
   owner: neutral
 E39S38:
   level: 8
+  owner: neutral
+E39S39:
+  level: 0
   owner: neutral
 E39S41:
   level: 0
@@ -4109,6 +4403,12 @@ E39S42:
   level: 6
   owner: neutral
 E39S43:
+  level: 0
+  owner: neutral
+E39S49:
+  level: 7
+  owner: neutral
+E39S5:
   level: 0
   owner: neutral
 E39S51:
@@ -4120,13 +4420,28 @@ E39S52:
 E39S53:
   level: 6
   owner: neutral
+E39S54:
+  level: 5
+  owner: neutral
+E39S55:
+  level: 0
+  owner: neutral
 E39S57:
   level: 5
   owner: neutral
 E39S58:
   level: 6
   owner: neutral
+E39S59:
+  level: 6
+  owner: neutral
+E39S6:
+  level: 3
+  owner: neutral
 E39S7:
+  level: 4
+  owner: neutral
+E39S9:
   level: 4
   owner: neutral
 E3N11:
@@ -4180,9 +4495,6 @@ E3N26:
 E3N27:
   level: 0
   owner: Dissi
-E3N3:
-  level: 4
-  owner: neutral
 E3N31:
   level: 6
   owner: neutral
@@ -4849,6 +5161,9 @@ E44N17:
 E44N18:
   level: 0
   owner: neutral
+E44N19:
+  level: 0
+  owner: neutral
 E44N21:
   level: 0
   owner: neutral
@@ -4861,6 +5176,9 @@ E44N27:
 E44N28:
   level: 0
   owner: neutral
+E44N29:
+  level: 7
+  owner: neutral
 E44N3:
   level: 8
   owner: taiga
@@ -4872,6 +5190,9 @@ E44N32:
   owner: neutral
 E44N37:
   level: 0
+  owner: neutral
+E44N39:
+  level: 8
   owner: neutral
 E44N41:
   level: 0
@@ -4918,6 +5239,9 @@ E44S37:
 E44S38:
   level: 0
   owner: neutral
+E44S39:
+  level: 8
+  owner: neutral
 E44S47:
   level: 0
   owner: neutral
@@ -4936,11 +5260,17 @@ E44S53:
 E44S57:
   level: 7
   owner: neutral
+E44S59:
+  level: 6
+  owner: neutral
 E44S8:
   level: 0
   owner: Spyingwind
 E45N18:
   level: 8
+  owner: neutral
+E45N19:
+  level: 0
   owner: neutral
 E45N21:
   level: 8
@@ -4957,6 +5287,9 @@ E45N27:
 E45N28:
   level: 7
   owner: neutral
+E45N29:
+  level: 0
+  owner: neutral
 E45N32:
   level: 0
   owner: neutral
@@ -4966,12 +5299,18 @@ E45N37:
 E45N38:
   level: 0
   owner: neutral
+E45N39:
+  level: 7
+  owner: neutral
 E45N41:
   level: 0
   owner: anisoptera
 E45N42:
   level: 0
   owner: anisoptera
+E45N58:
+  level: 2
+  owner: neutral
 E45N7:
   level: 8
   owner: taiga
@@ -4993,6 +5332,9 @@ E45S23:
 E45S28:
   level: 5
   owner: neutral
+E45S29:
+  level: 8
+  owner: neutral
 E45S3:
   level: 0
   owner: Icon
@@ -5003,6 +5345,9 @@ E45S37:
   level: 0
   owner: neutral
 E45S38:
+  level: 0
+  owner: neutral
+E45S39:
   level: 0
   owner: neutral
 E45S41:
@@ -5025,6 +5370,9 @@ E45S7:
   owner: Icon
 E45S8:
   level: 0
+  owner: Icon
+E45S9:
+  level: 8
   owner: Icon
 E46N1:
   level: 5
@@ -5068,6 +5416,9 @@ E46N43:
 E46N47:
   level: 0
   owner: neutral
+E46N49:
+  level: 6
+  owner: neutral
 E46N51:
   level: 6
   owner: neutral
@@ -5079,6 +5430,9 @@ E46N7:
   owner: neutral
 E46N8:
   level: 0
+  owner: neutral
+E46N9:
+  level: 5
   owner: neutral
 E46S1:
   level: 0
@@ -5099,6 +5453,9 @@ E46S22:
   level: 2
   owner: neutral
 E46S28:
+  level: 0
+  owner: neutral
+E46S29:
   level: 0
   owner: neutral
 E46S31:
@@ -5131,17 +5488,20 @@ E46S57:
 E46S58:
   level: 0
   owner: neutral
+E46S59:
+  level: 0
+  owner: neutral
 E46S7:
   level: 8
   owner: Icon
 E46S8:
   level: 0
   owner: Icon
+E46S9:
+  level: 0
+  owner: Icon
 E47N11:
   level: 6
-  owner: neutral
-E47N12:
-  level: 0
   owner: neutral
 E47N2:
   level: 0
@@ -5303,7 +5663,7 @@ E47S55:
   level: 7
   owner: neutral
 E47S6:
-  level: 8
+  level: 7
   owner: Icon
 E47S7:
   level: 0
@@ -5361,9 +5721,6 @@ E48N38:
   owner: neutral
 E48N39:
   level: 0
-  owner: neutral
-E48N4:
-  level: 6
   owner: neutral
 E48N41:
   level: 7
@@ -5503,6 +5860,9 @@ E48S9:
 E49N18:
   level: 8
   owner: neutral
+E49N19:
+  level: 0
+  owner: neutral
 E49N2:
   level: 6
   owner: neutral
@@ -5512,10 +5872,19 @@ E49N21:
 E49N22:
   level: 0
   owner: neutral
+E49N25:
+  level: 0
+  owner: neutral
+E49N26:
+  level: 0
+  owner: neutral
 E49N27:
   level: 7
   owner: neutral
 E49N28:
+  level: 0
+  owner: neutral
+E49N29:
   level: 0
   owner: neutral
 E49N31:
@@ -5524,11 +5893,26 @@ E49N31:
 E49N33:
   level: 8
   owner: neutral
+E49N34:
+  level: 0
+  owner: neutral
+E49N35:
+  level: 6
+  owner: neutral
+E49N39:
+  level: 0
+  owner: neutral
 E49N42:
   level: 0
   owner: neutral
 E49N43:
   level: 7
+  owner: neutral
+E49N44:
+  level: 0
+  owner: neutral
+E49N46:
+  level: 0
   owner: neutral
 E49N47:
   level: 7
@@ -5536,14 +5920,35 @@ E49N47:
 E49N48:
   level: 0
   owner: neutral
+E49N5:
+  level: 4
+  owner: neutral
 E49N51:
   level: 6
   owner: neutral
 E49N52:
   level: 7
   owner: neutral
+E49N54:
+  level: 7
+  owner: neutral
+E49N55:
+  level: 6
+  owner: neutral
+E49N56:
+  level: 7
+  owner: neutral
 E49N57:
   level: 0
+  owner: neutral
+E49N59:
+  level: 2
+  owner: neutral
+E49N6:
+  level: 4
+  owner: neutral
+E49N9:
+  level: 1
   owner: neutral
 E49S11:
   level: 7
@@ -5554,14 +5959,26 @@ E49S12:
 E49S13:
   level: 0
   owner: aster26
+E49S14:
+  level: 8
+  owner: aster26
 E49S31:
   level: 7
   owner: neutral
 E49S32:
   level: 0
   owner: neutral
+E49S35:
+  level: 7
+  owner: neutral
+E49S36:
+  level: 7
+  owner: neutral
 E49S38:
   level: 6
+  owner: neutral
+E49S39:
+  level: 0
   owner: neutral
 E49S41:
   level: 0
@@ -5570,6 +5987,15 @@ E49S42:
   level: 6
   owner: neutral
 E49S43:
+  level: 0
+  owner: neutral
+E49S44:
+  level: 0
+  owner: neutral
+E49S45:
+  level: 0
+  owner: neutral
+E49S46:
   level: 0
   owner: neutral
 E49S47:
@@ -5584,7 +6010,16 @@ E49S51:
 E49S52:
   level: 0
   owner: neutral
+E49S54:
+  level: 6
+  owner: neutral
+E49S55:
+  level: 1
+  owner: neutral
 E49S58:
+  level: 7
+  owner: neutral
+E49S6:
   level: 7
   owner: neutral
 E49S7:
@@ -5608,6 +6043,9 @@ E4N17:
 E4N18:
   level: 0
   owner: Dissi
+E4N19:
+  level: 0
+  owner: Dissi
 E4N2:
   level: 0
   owner: neutral
@@ -5618,6 +6056,9 @@ E4N22:
   level: 0
   owner: Dissi
 E4N23:
+  level: 0
+  owner: Dissi
+E4N27:
   level: 0
   owner: Dissi
 E4N28:
@@ -5638,6 +6079,9 @@ E4N37:
 E4N38:
   level: 0
   owner: neutral
+E4N39:
+  level: 0
+  owner: neutral
 E4N41:
   level: 0
   owner: neutral
@@ -5650,10 +6094,19 @@ E4N43:
 E4N47:
   level: 7
   owner: neutral
+E4N49:
+  level: 6
+  owner: neutral
 E4N58:
   level: 0
   owner: SemperRabbit
+E4N59:
+  level: 4
+  owner: neutral
 E4N8:
+  level: 0
+  owner: Dissi
+E4N9:
   level: 0
   owner: Dissi
 E4S11:
@@ -5671,6 +6124,9 @@ E4S17:
 E4S18:
   level: 8
   owner: neutral
+E4S19:
+  level: 0
+  owner: neutral
 E4S2:
   level: 0
   owner: neutral
@@ -5682,6 +6138,9 @@ E4S27:
   owner: neutral
 E4S28:
   level: 0
+  owner: neutral
+E4S29:
+  level: 7
   owner: neutral
 E4S3:
   level: 0
@@ -5698,6 +6157,9 @@ E4S37:
 E4S38:
   level: 7
   owner: neutral
+E4S39:
+  level: 0
+  owner: neutral
 E4S41:
   level: 0
   owner: neutral
@@ -5706,6 +6168,9 @@ E4S42:
   owner: neutral
 E4S43:
   level: 8
+  owner: neutral
+E4S49:
+  level: 0
   owner: neutral
 E4S52:
   level: 6
@@ -5719,11 +6184,17 @@ E4S57:
 E4S58:
   level: 0
   owner: neutral
+E4S59:
+  level: 5
+  owner: neutral
 E4S7:
   level: 0
   owner: neutral
 E4S8:
   level: 0
+  owner: neutral
+E4S9:
+  level: 8
   owner: neutral
 E51N1:
   level: 4
@@ -5824,9 +6295,6 @@ E51S14:
 E51S15:
   level: 4
   owner: aster26
-E51S18:
-  level: 0
-  owner: neutral
 E51S22:
   level: 0
   owner: neutral
@@ -5845,9 +6313,6 @@ E51S29:
 E51S3:
   level: 6
   owner: neutral
-E51S31:
-  level: 5
-  owner: Heilos
 E51S44:
   level: 8
   owner: neutral
@@ -5932,9 +6397,6 @@ E52N34:
 E52N4:
   level: 5
   owner: neutral
-E52N45:
-  level: 1
-  owner: neutral
 E52N51:
   level: 5
   owner: neutral
@@ -5962,9 +6424,6 @@ E52S16:
 E52S18:
   level: 6
   owner: neutral
-E52S19:
-  level: 0
-  owner: neutral
 E52S2:
   level: 6
   owner: neutral
@@ -5981,7 +6440,7 @@ E52S24:
   level: 0
   owner: neutral
 E52S26:
-  level: 5
+  level: 6
   owner: neutral
 E52S3:
   level: 4
@@ -6109,6 +6568,9 @@ E53N9:
 E53S12:
   level: 6
   owner: Nam
+E53S15:
+  level: 0
+  owner: neutral
 E53S16:
   level: 7
   owner: neutral
@@ -6139,9 +6601,6 @@ E53S42:
 E53S43:
   level: 8
   owner: neutral
-E53S45:
-  level: 5
-  owner: Heilos
 E53S46:
   level: 6
   owner: neutral
@@ -6193,9 +6652,6 @@ E54N21:
 E54N23:
   level: 7
   owner: neutral
-E54N37:
-  level: 0
-  owner: neutral
 E54N41:
   level: 4
   owner: neutral
@@ -6204,6 +6660,9 @@ E54N47:
   owner: neutral
 E54N48:
   level: 7
+  owner: neutral
+E54N49:
+  level: 2
   owner: neutral
 E54N52:
   level: 0
@@ -6214,14 +6673,23 @@ E54N57:
 E54N7:
   level: 2
   owner: neutral
+E54N9:
+  level: 2
+  owner: neutral
 E54S18:
   level: 0
+  owner: neutral
+E54S19:
+  level: 5
   owner: neutral
 E54S2:
   level: 5
   owner: neutral
 E54S23:
   level: 5
+  owner: neutral
+E54S29:
+  level: 0
   owner: neutral
 E54S38:
   level: 7
@@ -6250,7 +6718,13 @@ E54S7:
 E54S8:
   level: 6
   owner: neutral
+E54S9:
+  level: 5
+  owner: neutral
 E55N21:
+  level: 6
+  owner: neutral
+E55N29:
   level: 6
   owner: neutral
 E55N32:
@@ -6280,15 +6754,15 @@ E55S18:
 E55S28:
   level: 7
   owner: neutral
+E55S29:
+  level: 0
+  owner: neutral
 E55S3:
   level: 5
   owner: neutral
 E55S32:
   level: 6
   owner: neutral
-E55S37:
-  level: 7
-  owner: Heilos
 E55S42:
   level: 8
   owner: neutral
@@ -6313,6 +6787,9 @@ E55S7:
 E55S8:
   level: 0
   owner: neutral
+E55S9:
+  level: 5
+  owner: neutral
 E56N1:
   level: 5
   owner: Lur
@@ -6327,6 +6804,9 @@ E56N17:
   owner: neutral
 E56N18:
   level: 0
+  owner: neutral
+E56N19:
+  level: 6
   owner: neutral
 E56N21:
   level: 7
@@ -6346,11 +6826,11 @@ E56N48:
 E56N52:
   level: 5
   owner: neutral
-E56N57:
-  level: 0
-  owner: neutral
 E56N58:
   level: 7
+  owner: neutral
+E56N9:
+  level: 2
   owner: neutral
 E56S1:
   level: 0
@@ -6364,6 +6844,9 @@ E56S17:
 E56S18:
   level: 4
   owner: neutral
+E56S19:
+  level: 0
+  owner: neutral
 E56S2:
   level: 5
   owner: Leonyx
@@ -6376,6 +6859,9 @@ E56S27:
 E56S28:
   level: 7
   owner: neutral
+E56S29:
+  level: 5
+  owner: neutral
 E56S3:
   level: 6
   owner: neutral
@@ -6385,8 +6871,8 @@ E56S32:
 E56S33:
   level: 0
   owner: neutral
-E56S48:
-  level: 8
+E56S49:
+  level: 0
   owner: Heilos
 E56S51:
   level: 4
@@ -6403,8 +6889,11 @@ E56S7:
 E56S8:
   level: 4
   owner: neutral
+E56S9:
+  level: 5
+  owner: neutral
 E57N1:
-  level: 3
+  level: 4
   owner: starwar15432
 E57N12:
   level: 6
@@ -6451,6 +6940,9 @@ E57N34:
 E57N35:
   level: 5
   owner: neutral
+E57N4:
+  level: 2
+  owner: neutral
 E57N49:
   level: 8
   owner: neutral
@@ -6461,7 +6953,7 @@ E57N7:
   level: 3
   owner: neutral
 E57N9:
-  level: 1
+  level: 2
   owner: neutral
 E57S1:
   level: 5
@@ -6517,9 +7009,6 @@ E57S4:
 E57S42:
   level: 7
   owner: neutral
-E57S44:
-  level: 8
-  owner: Heilos
 E57S45:
   level: 0
   owner: Heilos
@@ -6578,6 +7067,9 @@ E58N31:
   level: 6
   owner: neutral
 E58N32:
+  level: 0
+  owner: neutral
+E58N33:
   level: 0
   owner: neutral
 E58N35:
@@ -6655,9 +7147,6 @@ E58S43:
 E58S44:
   level: 0
   owner: Heilos
-E58S45:
-  level: 7
-  owner: Heilos
 E58S46:
   level: 0
   owner: Heilos
@@ -6667,14 +7156,14 @@ E58S47:
 E58S48:
   level: 0
   owner: Heilos
-E58S49:
-  level: 8
-  owner: Heilos
 E58S5:
   level: 4
   owner: neutral
 E58S51:
-  level: 4
+  level: 5
+  owner: neutral
+E58S52:
+  level: 1
   owner: neutral
 E58S53:
   level: 4
@@ -6694,6 +7183,12 @@ E58S6:
 E58S7:
   level: 2
   owner: neutral
+E58S8:
+  level: 1
+  owner: neutral
+E58S9:
+  level: 1
+  owner: neutral
 E59N11:
   level: 7
   owner: neutral
@@ -6706,11 +7201,29 @@ E59N13:
 E59N2:
   level: 3
   owner: neutral
+E59N24:
+  level: 5
+  owner: neutral
+E59N26:
+  level: 6
+  owner: neutral
 E59N32:
   level: 0
   owner: neutral
 E59N37:
   level: 5
+  owner: neutral
+E59N39:
+  level: 7
+  owner: neutral
+E59N4:
+  level: 5
+  owner: neutral
+E59N44:
+  level: 5
+  owner: neutral
+E59N46:
+  level: 7
   owner: neutral
 E59N47:
   level: 6
@@ -6724,11 +7237,20 @@ E59N7:
 E59S13:
   level: 5
   owner: neutral
+E59S14:
+  level: 0
+  owner: neutral
+E59S16:
+  level: 0
+  owner: neutral
 E59S17:
   level: 6
   owner: neutral
 E59S18:
   level: 0
+  owner: neutral
+E59S19:
+  level: 7
   owner: neutral
 E59S2:
   level: 3
@@ -6739,6 +7261,15 @@ E59S22:
 E59S23:
   level: 0
   owner: neutral
+E59S26:
+  level: 3
+  owner: neutral
+E59S39:
+  level: 5
+  owner: neutral
+E59S4:
+  level: 6
+  owner: neutral
 E59S41:
   level: 0
   owner: neutral
@@ -6748,10 +7279,19 @@ E59S42:
 E59S43:
   level: 0
   owner: neutral
+E59S44:
+  level: 0
+  owner: Heilos
+E59S45:
+  level: 0
+  owner: Heilos
 E59S47:
   level: 0
   owner: Heilos
 E59S48:
+  level: 0
+  owner: Heilos
+E59S49:
   level: 0
   owner: Heilos
 E59S51:
@@ -6760,11 +7300,17 @@ E59S51:
 E59S52:
   level: 5
   owner: neutral
+E59S54:
+  level: 0
+  owner: neutral
 E59S57:
   level: 8
   owner: neutral
 E59S58:
   level: 0
+  owner: neutral
+E59S9:
+  level: 5
   owner: neutral
 E5N11:
   level: 0
@@ -6778,6 +7324,9 @@ E5N17:
 E5N18:
   level: 8
   owner: Dissi
+E5N19:
+  level: 0
+  owner: Dissi
 E5N21:
   level: 0
   owner: Dissi
@@ -6790,6 +7339,9 @@ E5N23:
 E5N27:
   level: 8
   owner: Dissi
+E5N28:
+  level: 0
+  owner: Dissi
 E5N32:
   level: 7
   owner: neutral
@@ -6798,6 +7350,9 @@ E5N37:
   owner: neutral
 E5N38:
   level: 0
+  owner: neutral
+E5N39:
+  level: 8
   owner: neutral
 E5N41:
   level: 5
@@ -6820,6 +7375,9 @@ E5N7:
 E5N8:
   level: 0
   owner: Dissi
+E5N9:
+  level: 0
+  owner: Dissi
 E5S1:
   level: 0
   owner: NhanHo
@@ -6835,6 +7393,9 @@ E5S17:
 E5S18:
   level: 0
   owner: neutral
+E5S19:
+  level: 8
+  owner: neutral
 E5S2:
   level: 0
   owner: NhanHo
@@ -6848,6 +7409,9 @@ E5S27:
   level: 0
   owner: neutral
 E5S28:
+  level: 0
+  owner: neutral
+E5S29:
   level: 0
   owner: neutral
 E5S3:
@@ -6868,10 +7432,16 @@ E5S43:
 E5S48:
   level: 8
   owner: neutral
+E5S49:
+  level: 0
+  owner: neutral
 E5S7:
   level: 0
   owner: neutral
 E5S8:
+  level: 0
+  owner: neutral
+E5S9:
   level: 0
   owner: neutral
 E6N11:
@@ -6898,6 +7468,9 @@ E6N22:
 E6N23:
   level: 0
   owner: Dissi
+E6N27:
+  level: 0
+  owner: Dissi
 E6N28:
   level: 4
   owner: neutral
@@ -6911,6 +7484,9 @@ E6N37:
   level: 8
   owner: neutral
 E6N38:
+  level: 0
+  owner: neutral
+E6N39:
   level: 0
   owner: neutral
 E6N41:
@@ -6937,6 +7513,9 @@ E6N58:
 E6N8:
   level: 0
   owner: Dissi
+E6N9:
+  level: 0
+  owner: Dissi
 E6S1:
   level: 0
   owner: NhanHo
@@ -6960,6 +7539,9 @@ E6S22:
   owner: neutral
 E6S28:
   level: 0
+  owner: neutral
+E6S29:
+  level: 7
   owner: neutral
 E6S3:
   level: 0
@@ -6985,6 +7567,9 @@ E6S47:
 E6S48:
   level: 6
   owner: neutral
+E6S49:
+  level: 0
+  owner: neutral
 E6S51:
   level: 0
   owner: neutral
@@ -7002,6 +7587,9 @@ E6S7:
   owner: neutral
 E6S8:
   level: 8
+  owner: neutral
+E6S9:
+  level: 0
   owner: neutral
 E7N1:
   level: 0
@@ -7471,11 +8059,23 @@ E9N11:
 E9N12:
   level: 0
   owner: Dissi
+E9N14:
+  level: 0
+  owner: Dissi
+E9N15:
+  level: 0
+  owner: Dissi
+E9N16:
+  level: 0
+  owner: Dissi
 E9N17:
   level: 0
   owner: Dissi
 E9N18:
   level: 0
+  owner: Dissi
+E9N19:
+  level: 8
   owner: Dissi
 E9N2:
   level: 8
@@ -7498,11 +8098,20 @@ E9N32:
 E9N33:
   level: 7
   owner: neutral
+E9N36:
+  level: 0
+  owner: neutral
 E9N37:
   level: 7
   owner: neutral
 E9N38:
   level: 7
+  owner: neutral
+E9N39:
+  level: 0
+  owner: neutral
+E9N4:
+  level: 0
   owner: neutral
 E9N43:
   level: 5
@@ -7510,16 +8119,31 @@ E9N43:
 E9N47:
   level: 5
   owner: neutral
+E9N5:
+  level: 8
+  owner: neutral
 E9N51:
   level: 0
   owner: weekOff
+E9N56:
+  level: 0
+  owner: NihilRex
 E9N57:
   level: 6
   owner: NihilRex
+E9N59:
+  level: 0
+  owner: NihilRex
+E9N6:
+  level: 0
+  owner: neutral
 E9N7:
   level: 8
   owner: neutral
 E9N8:
+  level: 0
+  owner: Dissi
+E9N9:
   level: 0
   owner: Dissi
 E9S11:
@@ -7528,7 +8152,13 @@ E9S11:
 E9S12:
   level: 0
   owner: TooAngel
+E9S15:
+  level: 0
+  owner: neutral
 E9S18:
+  level: 0
+  owner: NhanHo
+E9S19:
   level: 0
   owner: NhanHo
 E9S2:
@@ -7538,6 +8168,12 @@ E9S22:
   level: 0
   owner: neutral
 E9S23:
+  level: 0
+  owner: neutral
+E9S24:
+  level: 7
+  owner: neutral
+E9S25:
   level: 0
   owner: neutral
 E9S27:
@@ -7552,10 +8188,19 @@ E9S3:
 E9S33:
   level: 5
   owner: neutral
+E9S39:
+  level: 6
+  owner: neutral
+E9S4:
+  level: 0
+  owner: TooAngel
 E9S42:
   level: 0
   owner: neutral
 E9S43:
+  level: 0
+  owner: neutral
+E9S46:
   level: 0
   owner: neutral
 E9S47:
@@ -7564,19 +8209,31 @@ E9S47:
 E9S48:
   level: 0
   owner: neutral
+E9S5:
+  level: 0
+  owner: neutral
 E9S51:
   level: 0
   owner: neutral
 E9S52:
   level: 6
   owner: neutral
+E9S56:
+  level: 6
+  owner: neutral
 E9S57:
+  level: 0
+  owner: neutral
+E9S6:
   level: 0
   owner: neutral
 E9S7:
   level: 8
   owner: neutral
 E9S8:
+  level: 0
+  owner: TooAngel
+E9S9:
   level: 0
   owner: TooAngel
 W11N1:
@@ -7729,15 +8386,15 @@ W11S7:
 W12N1:
   level: 0
   owner: NhanHo
+W12N13:
+  level: 0
+  owner: neutral
 W12N15:
   level: 0
   owner: NhanHo
 W12N16:
   level: 0
   owner: NhanHo
-W12N19:
-  level: 0
-  owner: neutral
 W12N2:
   level: 8
   owner: NhanHo
@@ -7906,14 +8563,8 @@ W13N1:
 W13N11:
   level: 4
   owner: neutral
-W13N12:
-  level: 0
-  owner: neutral
 W13N13:
   level: 8
-  owner: neutral
-W13N14:
-  level: 0
   owner: neutral
 W13N16:
   level: 0
@@ -8071,9 +8722,6 @@ W13S56:
 W13S58:
   level: 6
   owner: neutral
-W13S59:
-  level: 0
-  owner: neutral
 W13S6:
   level: 0
   owner: Hernanduer
@@ -8094,6 +8742,9 @@ W14N17:
   owner: neutral
 W14N18:
   level: 0
+  owner: TooAngel
+W14N19:
+  level: 8
   owner: TooAngel
 W14N2:
   level: 0
@@ -8125,6 +8776,9 @@ W14N47:
 W14N48:
   level: 7
   owner: Garland
+W14N49:
+  level: 0
+  owner: Azfaloth
 W14N52:
   level: 3
   owner: Azfaloth
@@ -8136,6 +8790,9 @@ W14N57:
   owner: neutral
 W14N58:
   level: 0
+  owner: neutral
+W14N59:
+  level: 5
   owner: neutral
 W14N7:
   level: 8
@@ -8182,10 +8839,16 @@ W14S51:
 W14S53:
   level: 0
   owner: neutral
+W14S59:
+  level: 6
+  owner: neutral
 W14S7:
   level: 0
   owner: Hernanduer
 W14S8:
+  level: 0
+  owner: Hernanduer
+W14S9:
   level: 0
   owner: Hernanduer
 W15N1:
@@ -8206,6 +8869,9 @@ W15N17:
 W15N18:
   level: 0
   owner: TooAngel
+W15N19:
+  level: 0
+  owner: TooAngel
 W15N21:
   level: 0
   owner: TooAngel
@@ -8217,6 +8883,9 @@ W15N23:
   owner: TooAngel
 W15N27:
   level: 4
+  owner: neutral
+W15N29:
+  level: 3
   owner: neutral
 W15N3:
   level: 0
@@ -8233,8 +8902,14 @@ W15N33:
 W15N38:
   level: 7
   owner: Revrick
+W15N39:
+  level: 0
+  owner: Revrick
 W15N48:
   level: 8
+  owner: Azfaloth
+W15N49:
+  level: 0
   owner: Azfaloth
 W15N51:
   level: 0
@@ -8248,7 +8923,13 @@ W15N57:
 W15N58:
   level: 0
   owner: neutral
+W15N59:
+  level: 6
+  owner: neutral
 W15N8:
+  level: 0
+  owner: neutral
+W15N9:
   level: 0
   owner: neutral
 W15S1:
@@ -8279,6 +8960,9 @@ W15S27:
   level: 0
   owner: Zergling
 W15S28:
+  level: 0
+  owner: Zergling
+W15S29:
   level: 0
   owner: Zergling
 W15S3:
@@ -8341,9 +9025,9 @@ W16N21:
 W16N22:
   level: 7
   owner: TooAngel
-W16N23:
-  level: 0
-  owner: TooAngel
+W16N29:
+  level: 3
+  owner: neutral
 W16N3:
   level: 8
   owner: neutral
@@ -8351,6 +9035,9 @@ W16N32:
   level: 7
   owner: neutral
 W16N38:
+  level: 0
+  owner: Revrick
+W16N39:
   level: 0
   owner: Revrick
 W16N42:
@@ -8377,6 +9064,9 @@ W16N7:
 W16N8:
   level: 0
   owner: neutral
+W16N9:
+  level: 8
+  owner: neutral
 W16S1:
   level: 0
   owner: neutral
@@ -8385,6 +9075,9 @@ W16S13:
   owner: n00bish
 W16S17:
   level: 0
+  owner: neutral
+W16S19:
+  level: 2
   owner: neutral
 W16S2:
   level: 8
@@ -8404,6 +9097,9 @@ W16S27:
 W16S28:
   level: 8
   owner: Zergling
+W16S29:
+  level: 0
+  owner: Zergling
 W16S3:
   level: 0
   owner: neutral
@@ -8415,9 +9111,6 @@ W16S42:
   owner: Tanjera
 W16S47:
   level: 7
-  owner: neutral
-W16S48:
-  level: 0
   owner: neutral
 W16S51:
   level: 5
@@ -8434,6 +9127,9 @@ W16S57:
 W16S58:
   level: 7
   owner: neutral
+W16S59:
+  level: 5
+  owner: neutral
 W16S8:
   level: 0
   owner: neutral
@@ -8449,9 +9145,6 @@ W17N12:
 W17N13:
   level: 0
   owner: Dissi
-W17N15:
-  level: 0
-  owner: neutral
 W17N16:
   level: 6
   owner: neutral
@@ -8465,9 +9158,6 @@ W17N2:
   level: 0
   owner: neutral
 W17N21:
-  level: 0
-  owner: TooAngel
-W17N22:
   level: 0
   owner: TooAngel
 W17N24:
@@ -8849,7 +9539,7 @@ W18S51:
   level: 6
   owner: neutral
 W18S55:
-  level: 4
+  level: 5
   owner: neutral
 W18S57:
   level: 4
@@ -8878,10 +9568,28 @@ W19N11:
 W19N13:
   level: 0
   owner: NhanHo
+W19N14:
+  level: 8
+  owner: NhanHo
+W19N15:
+  level: 0
+  owner: NhanHo
+W19N19:
+  level: 8
+  owner: neutral
 W19N2:
   level: 8
   owner: neutral
+W19N23:
+  level: 0
+  owner: neutral
+W19N26:
+  level: 6
+  owner: neutral
 W19N28:
+  level: 5
+  owner: neutral
+W19N29:
   level: 5
   owner: neutral
 W19N31:
@@ -8894,11 +9602,17 @@ W19N33:
   level: 5
   owner: neutral
 W19N37:
-  level: 2
+  level: 1
   owner: neutral
 W19N48:
   level: 0
   owner: Azfaloth
+W19N49:
+  level: 8
+  owner: Azfaloth
+W19N5:
+  level: 0
+  owner: neutral
 W19N51:
   level: 0
   owner: Nisou
@@ -8908,11 +9622,26 @@ W19N52:
 W19N53:
   level: 0
   owner: Nisou
+W19N54:
+  level: 1
+  owner: neutral
+W19N55:
+  level: 0
+  owner: neutral
+W19N56:
+  level: 4
+  owner: neutral
 W19N57:
   level: 6
   owner: neutral
 W19N58:
   level: 0
+  owner: neutral
+W19N59:
+  level: 5
+  owner: neutral
+W19N6:
+  level: 8
   owner: neutral
 W19N7:
   level: 8
@@ -8920,10 +9649,19 @@ W19N7:
 W19N8:
   level: 8
   owner: neutral
+W19N9:
+  level: 0
+  owner: neutral
 W19S1:
   level: 8
   owner: neutral
 W19S13:
+  level: 0
+  owner: n00bish
+W19S14:
+  level: 0
+  owner: n00bish
+W19S16:
   level: 0
   owner: n00bish
 W19S17:
@@ -8938,10 +9676,22 @@ W19S21:
 W19S22:
   level: 0
   owner: Zergling
+W19S24:
+  level: 0
+  owner: Zergling
+W19S25:
+  level: 0
+  owner: Zergling
+W19S26:
+  level: 0
+  owner: Zergling
 W19S27:
   level: 0
   owner: Zergling
 W19S28:
+  level: 8
+  owner: neutral
+W19S29:
   level: 8
   owner: neutral
 W19S3:
@@ -8953,6 +9703,9 @@ W19S37:
 W19S38:
   level: 0
   owner: Atavus
+W19S4:
+  level: 8
+  owner: neutral
 W19S41:
   level: 0
   owner: Tanjera
@@ -8962,20 +9715,41 @@ W19S42:
 W19S43:
   level: 0
   owner: Tanjera
+W19S44:
+  level: 0
+  owner: Pantek59
 W19S47:
   level: 0
   owner: Pantek59
+W19S49:
+  level: 0
+  owner: Pantek59
+W19S5:
+  level: 0
+  owner: neutral
 W19S52:
   level: 2
   owner: neutral
+W19S54:
+  level: 2
+  owner: neutral
+W19S56:
+  level: 5
+  owner: neutral
 W19S57:
   level: 4
+  owner: neutral
+W19S6:
+  level: 8
   owner: neutral
 W19S7:
   level: 0
   owner: neutral
 W19S8:
   level: 8
+  owner: neutral
+W19S9:
+  level: 0
   owner: neutral
 W1N1:
   level: 7
@@ -9145,6 +9919,9 @@ W1S42:
 W1S43:
   level: 7
   owner: Atlan
+W1S44:
+  level: 0
+  owner: Atlan
 W1S5:
   level: 0
   owner: Hernanduer
@@ -9153,9 +9930,6 @@ W1S52:
   owner: neutral
 W1S53:
   level: 4
-  owner: neutral
-W1S54:
-  level: 0
   owner: neutral
 W1S56:
   level: 2
@@ -9174,9 +9948,6 @@ W21N14:
   owner: neutral
 W21N16:
   level: 5
-  owner: neutral
-W21N17:
-  level: 0
   owner: neutral
 W21N19:
   level: 2
@@ -9508,9 +10279,6 @@ W23N1:
 W23N13:
   level: 6
   owner: neutral
-W23N14:
-  level: 0
-  owner: neutral
 W23N2:
   level: 5
   owner: neutral
@@ -9676,6 +10444,9 @@ W23S56:
 W23S57:
   level: 0
   owner: neutral
+W23S58:
+  level: 0
+  owner: neutral
 W23S59:
   level: 7
   owner: neutral
@@ -9690,6 +10461,9 @@ W24N1:
   owner: neutral
 W24N17:
   level: 7
+  owner: neutral
+W24N19:
+  level: 6
   owner: neutral
 W24N2:
   level: 7
@@ -9724,6 +10498,9 @@ W24N43:
 W24N47:
   level: 0
   owner: Azfaloth
+W24N49:
+  level: 5
+  owner: neutral
 W24N51:
   level: 7
   owner: neutral
@@ -9731,7 +10508,7 @@ W24N52:
   level: 0
   owner: neutral
 W24N53:
-  level: 3
+  level: 2
   owner: neutral
 W24N7:
   level: 0
@@ -9754,6 +10531,9 @@ W24S32:
 W24S33:
   level: 0
   owner: Moria
+W24S39:
+  level: 8
+  owner: Atavus
 W24S41:
   level: 8
   owner: BlackLotus
@@ -9778,6 +10558,9 @@ W24S57:
 W24S58:
   level: 7
   owner: neutral
+W24S59:
+  level: 0
+  owner: neutral
 W24S7:
   level: 4
   owner: neutral
@@ -9791,6 +10574,9 @@ W25N17:
   level: 7
   owner: neutral
 W25N18:
+  level: 7
+  owner: neutral
+W25N19:
   level: 7
   owner: neutral
 W25N2:
@@ -9823,8 +10609,14 @@ W25N57:
 W25N58:
   level: 6
   owner: neutral
+W25N59:
+  level: 0
+  owner: neutral
 W25N8:
   level: 0
+  owner: neutral
+W25N9:
+  level: 5
   owner: neutral
 W25S12:
   level: 0
@@ -9832,6 +10624,9 @@ W25S12:
 W25S13:
   level: 0
   owner: stybbe
+W25S19:
+  level: 7
+  owner: neutral
 W25S2:
   level: 0
   owner: neutral
@@ -9859,6 +10654,9 @@ W25S32:
 W25S37:
   level: 8
   owner: Atavus
+W25S39:
+  level: 0
+  owner: Atavus
 W25S41:
   level: 0
   owner: BlackLotus
@@ -9877,17 +10675,23 @@ W25S57:
 W25S58:
   level: 0
   owner: neutral
+W25S59:
+  level: 0
+  owner: neutral
+W25S9:
+  level: 6
+  owner: neutral
 W26N11:
   level: 7
-  owner: neutral
-W26N12:
-  level: 0
   owner: neutral
 W26N17:
   level: 5
   owner: neutral
 W26N18:
   level: 4
+  owner: neutral
+W26N19:
+  level: 6
   owner: neutral
 W26N21:
   level: 6
@@ -9925,9 +10729,6 @@ W26N53:
 W26N57:
   level: 0
   owner: neutral
-W26N8:
-  level: 0
-  owner: neutral
 W26S11:
   level: 0
   owner: stybbe
@@ -9958,6 +10759,9 @@ W26S27:
 W26S28:
   level: 0
   owner: neutral
+W26S29:
+  level: 8
+  owner: neutral
 W26S3:
   level: 8
   owner: neutral
@@ -9967,9 +10771,6 @@ W26S32:
 W26S37:
   level: 8
   owner: Atavus
-W26S48:
-  level: 0
-  owner: neutral
 W26S51:
   level: 6
   owner: neutral
@@ -9981,6 +10782,9 @@ W26S57:
   owner: neutral
 W26S58:
   level: 7
+  owner: neutral
+W26S59:
+  level: 0
   owner: neutral
 W27N1:
   level: 6
@@ -10073,6 +10877,9 @@ W27S19:
   level: 0
   owner: stybbe
 W27S2:
+  level: 0
+  owner: neutral
+W27S23:
   level: 0
   owner: neutral
 W27S27:
@@ -10261,8 +11068,14 @@ W28S19:
 W28S2:
   level: 0
   owner: neutral
+W28S22:
+  level: 0
+  owner: neutral
 W28S23:
   level: 7
+  owner: neutral
+W28S24:
+  level: 0
   owner: neutral
 W28S27:
   level: 8
@@ -10325,7 +11138,7 @@ W28S51:
   level: 0
   owner: neutral
 W28S54:
-  level: 5
+  level: 6
   owner: neutral
 W28S57:
   level: 0
@@ -10351,14 +11164,26 @@ W28S9:
 W29N12:
   level: 0
   owner: neutral
+W29N15:
+  level: 8
+  owner: neutral
+W29N16:
+  level: 0
+  owner: neutral
 W29N17:
   level: 0
   owner: neutral
 W29N18:
   level: 0
   owner: neutral
+W29N19:
+  level: 8
+  owner: neutral
 W29N22:
   level: 7
+  owner: neutral
+W29N24:
+  level: 8
   owner: neutral
 W29N27:
   level: 2
@@ -10372,6 +11197,9 @@ W29N3:
 W29N32:
   level: 8
   owner: neutral
+W29N36:
+  level: 0
+  owner: neutral
 W29N37:
   level: 0
   owner: neutral
@@ -10384,10 +11212,19 @@ W29N51:
 W29N52:
   level: 5
   owner: neutral
+W29N54:
+  level: 6
+  owner: neutral
+W29N56:
+  level: 0
+  owner: neutral
 W29N57:
   level: 7
   owner: neutral
 W29N58:
+  level: 0
+  owner: neutral
+W29N59:
   level: 0
   owner: neutral
 W29N7:
@@ -10408,6 +11245,15 @@ W29S12:
 W29S13:
   level: 0
   owner: stybbe
+W29S14:
+  level: 0
+  owner: stybbe
+W29S15:
+  level: 8
+  owner: stybbe
+W29S16:
+  level: 0
+  owner: stybbe
 W29S18:
   level: 0
   owner: stybbe
@@ -10419,6 +11265,9 @@ W29S23:
   owner: neutral
 W29S28:
   level: 8
+  owner: neutral
+W29S29:
+  level: 0
   owner: neutral
 W29S3:
   level: 0
@@ -10432,6 +11281,15 @@ W29S32:
 W29S33:
   level: 0
   owner: Moria
+W29S34:
+  level: 0
+  owner: Moria
+W29S39:
+  level: 0
+  owner: Atavus
+W29S4:
+  level: 0
+  owner: neutral
 W29S41:
   level: 8
   owner: BlackLotus
@@ -10440,6 +11298,9 @@ W29S42:
   owner: BlackLotus
 W29S48:
   level: 5
+  owner: neutral
+W29S5:
+  level: 0
   owner: neutral
 W29S51:
   level: 4
@@ -10450,11 +11311,20 @@ W29S52:
 W29S53:
   level: 6
   owner: neutral
+W29S55:
+  level: 6
+  owner: neutral
 W29S57:
   level: 0
   owner: neutral
 W29S58:
   level: 7
+  owner: neutral
+W29S59:
+  level: 0
+  owner: neutral
+W29S6:
+  level: 0
   owner: neutral
 W29S7:
   level: 0
@@ -10472,9 +11342,6 @@ W2N13:
   level: 0
   owner: Dissi
 W2N15:
-  level: 0
-  owner: Dissi
-W2N16:
   level: 0
   owner: Dissi
 W2N17:
@@ -10620,9 +11487,6 @@ W2S47:
   owner: Atlan
 W2S5:
   level: 0
-  owner: neutral
-W2S59:
-  level: 4
   owner: neutral
 W2S6:
   level: 8
@@ -10795,6 +11659,9 @@ W31S5:
 W31S53:
   level: 8
   owner: neutral
+W31S54:
+  level: 0
+  owner: neutral
 W31S56:
   level: 6
   owner: neutral
@@ -10942,6 +11809,9 @@ W32S4:
 W32S42:
   level: 0
   owner: BlackLotus
+W32S44:
+  level: 0
+  owner: neutral
 W32S52:
   level: 8
   owner: neutral
@@ -10970,7 +11840,7 @@ W33N14:
   level: 7
   owner: neutral
 W33N16:
-  level: 1
+  level: 2
   owner: neutral
 W33N18:
   level: 0
@@ -11084,7 +11954,7 @@ W33S25:
   level: 0
   owner: Ashburnie
 W33S27:
-  level: 7
+  level: 8
   owner: Ashburnie
 W33S28:
   level: 0
@@ -11156,12 +12026,15 @@ W34N13:
   level: 8
   owner: neutral
 W34N18:
-  level: 2
+  level: 1
   owner: neutral
 W34N2:
   level: 0
   owner: neutral
 W34N28:
+  level: 7
+  owner: neutral
+W34N29:
   level: 7
   owner: neutral
 W34N31:
@@ -11171,6 +12044,9 @@ W34N32:
   level: 0
   owner: neutral
 W34N33:
+  level: 0
+  owner: neutral
+W34N39:
   level: 0
   owner: neutral
 W34N41:
@@ -11191,6 +12067,9 @@ W34N52:
 W34N53:
   level: 8
   owner: neutral
+W34N59:
+  level: 6
+  owner: neutral
 W34S1:
   level: 0
   owner: neutral
@@ -11200,6 +12079,9 @@ W34S11:
 W34S12:
   level: 0
   owner: maka_RTH
+W34S19:
+  level: 8
+  owner: neutral
 W34S2:
   level: 7
   owner: neutral
@@ -11215,6 +12097,9 @@ W34S27:
 W34S28:
   level: 0
   owner: seancl
+W34S29:
+  level: 7
+  owner: seancl
 W34S3:
   level: 8
   owner: stybbe
@@ -11227,11 +12112,17 @@ W34S32:
 W34S37:
   level: 0
   owner: Moria
+W34S39:
+  level: 8
+  owner: neutral
 W34S42:
   level: 5
   owner: neutral
 W34S48:
   level: 7
+  owner: neutral
+W34S49:
+  level: 0
   owner: neutral
 W34S51:
   level: 8
@@ -11243,6 +12134,9 @@ W34S58:
   level: 8
   owner: neutral
 W34S8:
+  level: 0
+  owner: maka_RTH
+W34S9:
   level: 0
   owner: maka_RTH
 W35N1:
@@ -11259,6 +12153,9 @@ W35N13:
   owner: neutral
 W35N18:
   level: 1
+  owner: neutral
+W35N19:
+  level: 4
   owner: neutral
 W35N2:
   level: 0
@@ -11278,6 +12175,9 @@ W35N27:
 W35N28:
   level: 0
   owner: neutral
+W35N29:
+  level: 0
+  owner: neutral
 W35N3:
   level: 8
   owner: neutral
@@ -11286,6 +12186,9 @@ W35N32:
   owner: neutral
 W35N33:
   level: 8
+  owner: neutral
+W35N39:
+  level: 0
   owner: neutral
 W35N41:
   level: 0
@@ -11302,11 +12205,17 @@ W35N47:
 W35N48:
   level: 8
   owner: neutral
+W35N49:
+  level: 0
+  owner: neutral
 W35N52:
   level: 0
   owner: neutral
 W35N53:
   level: 0
+  owner: neutral
+W35N59:
+  level: 6
   owner: neutral
 W35S11:
   level: 0
@@ -11317,9 +12226,15 @@ W35S12:
 W35S13:
   level: 0
   owner: maka_RTH
+W35S19:
+  level: 0
+  owner: maka_RTH
 W35S2:
   level: 0
   owner: neutral
+W35S29:
+  level: 0
+  owner: seancl
 W35S3:
   level: 0
   owner: stybbe
@@ -11338,6 +12253,9 @@ W35S42:
 W35S48:
   level: 7
   owner: neutral
+W35S49:
+  level: 6
+  owner: neutral
 W35S52:
   level: 0
   owner: neutral
@@ -11355,6 +12273,9 @@ W35S7:
   owner: maka_RTH
 W35S8:
   level: 0
+  owner: maka_RTH
+W35S9:
+  level: 8
   owner: maka_RTH
 W36N1:
   level: 0
@@ -11386,6 +12307,9 @@ W36N3:
 W36N38:
   level: 8
   owner: neutral
+W36N39:
+  level: 8
+  owner: neutral
 W36N41:
   level: 8
   owner: bekvon
@@ -11404,6 +12328,9 @@ W36N52:
 W36N57:
   level: 3
   owner: neutral
+W36N59:
+  level: 1
+  owner: neutral
 W36S11:
   level: 0
   owner: maka_RTH
@@ -11412,6 +12339,9 @@ W36S12:
   owner: maka_RTH
 W36S13:
   level: 8
+  owner: maka_RTH
+W36S19:
+  level: 0
   owner: maka_RTH
 W36S21:
   level: 7
@@ -11431,6 +12361,12 @@ W36S37:
 W36S43:
   level: 0
   owner: Bovius
+W36S47:
+  level: 1
+  owner: neutral
+W36S52:
+  level: 0
+  owner: neutral
 W36S53:
   level: 6
   owner: neutral
@@ -11440,10 +12376,16 @@ W36S57:
 W36S58:
   level: 0
   owner: neutral
+W36S59:
+  level: 7
+  owner: neutral
 W36S7:
   level: 8
   owner: maka_RTH
 W36S8:
+  level: 0
+  owner: maka_RTH
+W36S9:
   level: 0
   owner: maka_RTH
 W37N11:
@@ -11529,6 +12471,9 @@ W37N53:
   owner: neutral
 W37N54:
   level: 0
+  owner: neutral
+W37N55:
+  level: 1
   owner: neutral
 W37N59:
   level: 6
@@ -11701,6 +12646,9 @@ W38N55:
 W38N56:
   level: 3
   owner: neutral
+W38N58:
+  level: 2
+  owner: neutral
 W38N7:
   level: 8
   owner: neutral
@@ -11767,6 +12715,9 @@ W38S34:
 W38S36:
   level: 5
   owner: neutral
+W38S37:
+  level: 2
+  owner: neutral
 W38S38:
   level: 7
   owner: neutral
@@ -11821,6 +12772,9 @@ W39N11:
 W39N12:
   level: 0
   owner: neutral
+W39N16:
+  level: 7
+  owner: neutral
 W39N17:
   level: 7
   owner: neutral
@@ -11836,19 +12790,43 @@ W39N22:
 W39N23:
   level: 0
   owner: neutral
+W39N24:
+  level: 0
+  owner: neutral
+W39N26:
+  level: 0
+  owner: neutral
 W39N3:
   level: 6
   owner: neutral
 W39N31:
   level: 6
   owner: neutral
+W39N34:
+  level: 5
+  owner: neutral
 W39N41:
   level: 7
   owner: bekvon
+W39N44:
+  level: 6
+  owner: neutral
 W39N47:
   level: 0
   owner: neutral
+W39N49:
+  level: 5
+  owner: neutral
+W39N5:
+  level: 0
+  owner: neutral
 W39N53:
+  level: 0
+  owner: neutral
+W39N54:
+  level: 0
+  owner: neutral
+W39N55:
   level: 0
   owner: neutral
 W39N57:
@@ -11875,21 +12853,45 @@ W39S12:
 W39S13:
   level: 0
   owner: maka_RTH
+W39S14:
+  level: 8
+  owner: maka_RTH
+W39S15:
+  level: 0
+  owner: maka_RTH
+W39S16:
+  level: 0
+  owner: maka_RTH
 W39S17:
   level: 0
   owner: neutral
 W39S18:
   level: 7
   owner: neutral
+W39S19:
+  level: 0
+  owner: maka_RTH
 W39S21:
   level: 0
   owner: maka_RTH
 W39S22:
   level: 8
   owner: seancl
+W39S26:
+  level: 0
+  owner: seancl
 W39S28:
   level: 0
   owner: seancl
+W39S29:
+  level: 8
+  owner: seancl
+W39S36:
+  level: 6
+  owner: neutral
+W39S4:
+  level: 0
+  owner: dormando
 W39S41:
   level: 5
   owner: neutral
@@ -11899,11 +12901,29 @@ W39S42:
 W39S43:
   level: 6
   owner: neutral
+W39S5:
+  level: 0
+  owner: dormando
+W39S55:
+  level: 7
+  owner: neutral
+W39S56:
+  level: 5
+  owner: neutral
+W39S59:
+  level: 8
+  owner: neutral
+W39S6:
+  level: 0
+  owner: dormando
 W39S7:
   level: 8
   owner: dormando
 W39S8:
   level: 8
+  owner: dormando
+W39S9:
+  level: 0
   owner: dormando
 W3N11:
   level: 8
@@ -11914,19 +12934,16 @@ W3N12:
 W3N13:
   level: 0
   owner: Dissi
-W3N14:
-  level: 0
-  owner: Dissi
 W3N15:
   level: 8
   owner: Dissi
+W3N16:
+  level: 0
+  owner: neutral
 W3N17:
   level: 0
   owner: Dissi
 W3N18:
-  level: 0
-  owner: neutral
-W3N21:
   level: 0
   owner: neutral
 W3N22:
@@ -12068,7 +13085,7 @@ W3S52:
   level: 4
   owner: neutral
 W3S59:
-  level: 5
+  level: 1
   owner: neutral
 W3S6:
   level: 0
@@ -12106,9 +13123,6 @@ W41N17:
 W41N2:
   level: 0
   owner: neutral
-W41N21:
-  level: 0
-  owner: DoctorPC
 W41N22:
   level: 7
   owner: DoctorPC
@@ -12445,6 +13459,9 @@ W43S2:
 W43S22:
   level: 7
   owner: neutral
+W43S23:
+  level: 0
+  owner: neutral
 W43S35:
   level: 5
   owner: neutral
@@ -12460,9 +13477,6 @@ W43S46:
 W43S47:
   level: 8
   owner: neutral
-W43S48:
-  level: 0
-  owner: neutral
 W43S5:
   level: 7
   owner: dormando
@@ -12476,7 +13490,7 @@ W43S54:
   level: 8
   owner: SteeleR
 W43S58:
-  level: 5
+  level: 4
   owner: neutral
 W43S6:
   level: 0
@@ -12511,6 +13525,9 @@ W44N23:
 W44N27:
   level: 8
   owner: neutral
+W44N29:
+  level: 3
+  owner: neutral
 W44N3:
   level: 6
   owner: neutral
@@ -12523,6 +13540,9 @@ W44N32:
 W44N38:
   level: 0
   owner: neutral
+W44N39:
+  level: 6
+  owner: neutral
 W44N42:
   level: 7
   owner: neutral
@@ -12531,6 +13551,9 @@ W44N43:
   owner: neutral
 W44N48:
   level: 8
+  owner: neutral
+W44N49:
+  level: 0
   owner: neutral
 W44N51:
   level: 0
@@ -12556,6 +13579,9 @@ W44S17:
 W44S18:
   level: 0
   owner: neutral
+W44S19:
+  level: 7
+  owner: neutral
 W44S2:
   level: 3
   owner: neutral
@@ -12571,17 +13597,20 @@ W44S27:
 W44S28:
   level: 7
   owner: neutral
+W44S29:
+  level: 0
+  owner: neutral
 W44S3:
   level: 2
+  owner: neutral
+W44S39:
+  level: 4
   owner: neutral
 W44S41:
   level: 5
   owner: neutral
 W44S47:
   level: 8
-  owner: neutral
-W44S48:
-  level: 0
   owner: neutral
 W44S51:
   level: 6
@@ -12631,14 +13660,20 @@ W45N47:
 W45N48:
   level: 0
   owner: neutral
+W45N49:
+  level: 0
+  owner: neutral
 W45N52:
   level: 6
   owner: neutral
 W45N58:
   level: 0
   owner: neutral
+W45N9:
+  level: 8
+  owner: neutral
 W45S11:
-  level: 2
+  level: 1
   owner: neutral
 W45S12:
   level: 4
@@ -12647,6 +13682,9 @@ W45S17:
   level: 7
   owner: neutral
 W45S18:
+  level: 0
+  owner: neutral
+W45S19:
   level: 0
   owner: neutral
 W45S21:
@@ -12661,6 +13699,9 @@ W45S23:
 W45S28:
   level: 0
   owner: neutral
+W45S29:
+  level: 7
+  owner: neutral
 W45S33:
   level: 5
   owner: neutral
@@ -12671,19 +13712,19 @@ W45S42:
   level: 7
   owner: neutral
 W45S43:
-  level: 1
+  level: 2
   owner: neutral
-W45S47:
-  level: 0
-  owner: neutral
-W45S48:
-  level: 0
+W45S49:
+  level: 8
   owner: neutral
 W45S53:
   level: 6
   owner: neutral
 W45S58:
   level: 6
+  owner: neutral
+W45S59:
+  level: 4
   owner: neutral
 W45S8:
   level: 0
@@ -12696,6 +13737,9 @@ W46N13:
   owner: neutral
 W46N18:
   level: 7
+  owner: neutral
+W46N19:
+  level: 5
   owner: neutral
 W46N22:
   level: 3
@@ -12727,8 +13771,14 @@ W46N7:
 W46N8:
   level: 0
   owner: neutral
+W46N9:
+  level: 0
+  owner: neutral
 W46S13:
   level: 4
+  owner: neutral
+W46S19:
+  level: 0
   owner: neutral
 W46S2:
   level: 3
@@ -12760,14 +13810,14 @@ W46S43:
 W46S47:
   level: 8
   owner: neutral
-W46S48:
-  level: 0
-  owner: neutral
 W46S57:
   level: 4
   owner: neutral
 W46S8:
   level: 7
+  owner: dormando
+W46S9:
+  level: 0
   owner: dormando
 W47N16:
   level: 6
@@ -12800,7 +13850,7 @@ W47N39:
   level: 0
   owner: neutral
 W47N42:
-  level: 7
+  level: 6
   owner: neutral
 W47N45:
   level: 6
@@ -12974,7 +14024,7 @@ W48S11:
   level: 5
   owner: neutral
 W48S13:
-  level: 4
+  level: 5
   owner: neutral
 W48S18:
   level: 0
@@ -12983,7 +14033,7 @@ W48S19:
   level: 0
   owner: neutral
 W48S2:
-  level: 3
+  level: 4
   owner: neutral
 W48S21:
   level: 0
@@ -13039,8 +14089,17 @@ W48S59:
 W48S9:
   level: 7
   owner: neutral
+W49N16:
+  level: 7
+  owner: neutral
+W49N19:
+  level: 7
+  owner: neutral
 W49N21:
   level: 7
+  owner: neutral
+W49N25:
+  level: 2
   owner: neutral
 W49N27:
   level: 2
@@ -13054,17 +14113,38 @@ W49N32:
 W49N33:
   level: 8
   owner: neutral
+W49N35:
+  level: 4
+  owner: neutral
+W49N36:
+  level: 6
+  owner: neutral
 W49N37:
   level: 5
+  owner: neutral
+W49N39:
+  level: 0
   owner: neutral
 W49N41:
   level: 7
   owner: neutral
+W49N45:
+  level: 5
+  owner: neutral
 W49N47:
   level: 5
   owner: neutral
+W49N5:
+  level: 0
+  owner: neutral
 W49N51:
   level: 7
+  owner: neutral
+W49N54:
+  level: 4
+  owner: neutral
+W49N55:
+  level: 2
   owner: neutral
 W49N57:
   level: 2
@@ -13075,23 +14155,44 @@ W49N58:
 W49N7:
   level: 6
   owner: neutral
+W49N9:
+  level: 6
+  owner: neutral
 W49S1:
-  level: 3
+  level: 4
   owner: neutral
 W49S11:
   level: 6
   owner: neutral
+W49S19:
+  level: 0
+  owner: neutral
+W49S25:
+  level: 5
+  owner: neutral
+W49S26:
+  level: 0
+  owner: neutral
 W49S27:
   level: 0
   owner: neutral
+W49S3:
+  level: 1
+  owner: neutral
 W49S31:
-  level: 3
+  level: 4
   owner: neutral
 W49S32:
   level: 3
   owner: neutral
+W49S36:
+  level: 4
+  owner: neutral
 W49S38:
   level: 5
+  owner: neutral
+W49S39:
+  level: 6
   owner: neutral
 W49S51:
   level: 0
@@ -13101,6 +14202,12 @@ W49S52:
   owner: neutral
 W49S53:
   level: 7
+  owner: neutral
+W49S54:
+  level: 0
+  owner: neutral
+W49S56:
+  level: 5
   owner: neutral
 W49S57:
   level: 8
@@ -13126,8 +14233,8 @@ W4N17:
 W4N18:
   level: 0
   owner: neutral
-W4N21:
-  level: 0
+W4N19:
+  level: 8
   owner: neutral
 W4N22:
   level: 8
@@ -13141,11 +14248,17 @@ W4N27:
 W4N28:
   level: 0
   owner: neutral
+W4N29:
+  level: 0
+  owner: neutral
 W4N3:
   level: 8
   owner: neutral
 W4N37:
-  level: 2
+  level: 3
+  owner: neutral
+W4N39:
+  level: 3
   owner: neutral
 W4N41:
   level: 7
@@ -13171,7 +14284,13 @@ W4N57:
 W4N58:
   level: 0
   owner: neutral
+W4N59:
+  level: 0
+  owner: neutral
 W4N8:
+  level: 0
+  owner: Dissi
+W4N9:
   level: 0
   owner: Dissi
 W4S11:
@@ -13189,8 +14308,14 @@ W4S17:
 W4S18:
   level: 7
   owner: Hernanduer
+W4S19:
+  level: 8
+  owner: Hernanduer
 W4S27:
   level: 0
+  owner: Zergling
+W4S29:
+  level: 8
   owner: Zergling
 W4S31:
   level: 8
@@ -13199,7 +14324,7 @@ W4S41:
   level: 0
   owner: Atlan
 W4S57:
-  level: 4
+  level: 2
   owner: neutral
 W4S7:
   level: 8
@@ -13313,7 +14438,7 @@ W51S19:
   level: 5
   owner: neutral
 W51S2:
-  level: 3
+  level: 0
   owner: neutral
 W51S29:
   level: 0
@@ -13450,6 +14575,9 @@ W52N8:
 W52N9:
   level: 5
   owner: neutral
+W52S1:
+  level: 0
+  owner: neutral
 W52S13:
   level: 5
   owner: neutral
@@ -13463,13 +14591,13 @@ W52S19:
   level: 6
   owner: neutral
 W52S2:
-  level: 2
+  level: 3
   owner: neutral
 W52S21:
   level: 4
   owner: neutral
 W52S24:
-  level: 1
+  level: 2
   owner: neutral
 W52S28:
   level: 4
@@ -13486,14 +14614,8 @@ W52S34:
 W52S35:
   level: 0
   owner: neutral
-W52S36:
-  level: 0
-  owner: Finndibaen
 W52S37:
   level: 5
-  owner: Finndibaen
-W52S38:
-  level: 0
   owner: Finndibaen
 W52S44:
   level: 0
@@ -13536,6 +14658,9 @@ W53N11:
   owner: neutral
 W53N13:
   level: 6
+  owner: neutral
+W53N16:
+  level: 0
   owner: neutral
 W53N2:
   level: 0
@@ -13720,6 +14845,9 @@ W54N47:
 W54N48:
   level: 0
   owner: neutral
+W54N49:
+  level: 7
+  owner: neutral
 W54N57:
   level: 6
   owner: neutral
@@ -13730,7 +14858,7 @@ W54S13:
   level: 5
   owner: neutral
 W54S17:
-  level: 2
+  level: 1
   owner: neutral
 W54S2:
   level: 0
@@ -13762,6 +14890,9 @@ W54S33:
 W54S37:
   level: 0
   owner: neutral
+W54S39:
+  level: 4
+  owner: neutral
 W54S42:
   level: 7
   owner: Finndibaen
@@ -13786,14 +14917,26 @@ W54S58:
 W54S8:
   level: 4
   owner: neutral
+W54S9:
+  level: 3
+  owner: neutral
 W55N11:
   level: 0
   owner: neutral
 W55N17:
   level: 3
   owner: neutral
+W55N19:
+  level: 4
+  owner: neutral
+W55N2:
+  level: 0
+  owner: neutral
 W55N23:
   level: 5
+  owner: neutral
+W55N29:
+  level: 6
   owner: neutral
 W55N31:
   level: 1
@@ -13825,10 +14968,16 @@ W55S12:
 W55S18:
   level: 5
   owner: neutral
+W55S19:
+  level: 0
+  owner: neutral
 W55S21:
   level: 0
   owner: neutral
 W55S28:
+  level: 0
+  owner: neutral
+W55S29:
   level: 0
   owner: neutral
 W55S31:
@@ -13843,12 +14992,18 @@ W55S37:
 W55S38:
   level: 0
   owner: neutral
+W55S39:
+  level: 0
+  owner: neutral
 W55S42:
   level: 0
   owner: Finndibaen
 W55S43:
   level: 8
   owner: Finndibaen
+W55S49:
+  level: 6
+  owner: neutral
 W55S57:
   level: 0
   owner: neutral
@@ -13867,6 +15022,9 @@ W56N13:
 W56N18:
   level: 0
   owner: neutral
+W56N19:
+  level: 0
+  owner: neutral
 W56N2:
   level: 6
   owner: neutral
@@ -13882,6 +15040,9 @@ W56N27:
 W56N28:
   level: 0
   owner: neutral
+W56N3:
+  level: 0
+  owner: neutral
 W56N33:
   level: 5
   owner: neutral
@@ -13892,7 +15053,7 @@ W56N38:
   level: 7
   owner: neutral
 W56N41:
-  level: 5
+  level: 4
   owner: neutral
 W56N47:
   level: 6
@@ -13912,8 +15073,14 @@ W56N57:
 W56N58:
   level: 7
   owner: neutral
+W56N59:
+  level: 7
+  owner: neutral
 W56N8:
   level: 3
+  owner: neutral
+W56N9:
+  level: 6
   owner: neutral
 W56S11:
   level: 6
@@ -13923,6 +15090,9 @@ W56S12:
   owner: neutral
 W56S13:
   level: 0
+  owner: neutral
+W56S19:
+  level: 7
   owner: neutral
 W56S21:
   level: 0
@@ -13945,6 +15115,9 @@ W56S33:
 W56S38:
   level: 6
   owner: neutral
+W56S39:
+  level: 0
+  owner: neutral
 W56S42:
   level: 0
   owner: Finndibaen
@@ -13959,6 +15132,9 @@ W56S57:
   owner: neutral
 W56S58:
   level: 8
+  owner: neutral
+W56S59:
+  level: 6
   owner: neutral
 W56S7:
   level: 4
@@ -13986,6 +15162,9 @@ W57N18:
   owner: neutral
 W57N19:
   level: 8
+  owner: neutral
+W57N2:
+  level: 0
   owner: neutral
 W57N26:
   level: 0
@@ -14063,9 +15242,6 @@ W57N8:
   level: 6
   owner: neutral
 W57S11:
-  level: 0
-  owner: neutral
-W57S12:
   level: 0
   owner: neutral
 W57S13:
@@ -14188,9 +15364,6 @@ W58N19:
 W58N2:
   level: 0
   owner: neutral
-W58N24:
-  level: 1
-  owner: neutral
 W58N26:
   level: 7
   owner: neutral
@@ -14296,9 +15469,6 @@ W58S4:
 W58S42:
   level: 7
   owner: neutral
-W58S45:
-  level: 0
-  owner: neutral
 W58S46:
   level: 7
   owner: neutral
@@ -14341,10 +15511,19 @@ W59N12:
 W59N13:
   level: 3
   owner: neutral
+W59N15:
+  level: 3
+  owner: neutral
+W59N16:
+  level: 0
+  owner: neutral
 W59N17:
   level: 8
   owner: neutral
 W59N18:
+  level: 0
+  owner: neutral
+W59N19:
   level: 0
   owner: neutral
 W59N22:
@@ -14353,8 +15532,14 @@ W59N22:
 W59N23:
   level: 6
   owner: neutral
+W59N25:
+  level: 5
+  owner: neutral
 W59N27:
   level: 0
+  owner: neutral
+W59N29:
+  level: 6
   owner: neutral
 W59N3:
   level: 0
@@ -14365,23 +15550,56 @@ W59N31:
 W59N33:
   level: 6
   owner: neutral
+W59N34:
+  level: 1
+  owner: neutral
 W59N37:
   level: 6
   owner: neutral
 W59N38:
   level: 0
   owner: neutral
+W59N39:
+  level: 7
+  owner: neutral
+W59N4:
+  level: 7
+  owner: neutral
+W59N46:
+  level: 7
+  owner: neutral
 W59N47:
   level: 6
   owner: neutral
+W59N54:
+  level: 4
+  owner: neutral
+W59N56:
+  level: 0
+  owner: neutral
 W59N58:
+  level: 4
+  owner: neutral
+W59N59:
+  level: 4
+  owner: neutral
+W59N9:
   level: 4
   owner: neutral
 W59S12:
   level: 0
   owner: neutral
+W59S15:
+  level: 0
+  owner: neutral
+W59S16:
+  level: 7
+  owner: neutral
 W59S17:
   level: 6
+  owner: neutral
+W59S19:
+  level: 4
   owner: neutral
 W59S2:
   level: 3
@@ -14395,6 +15613,9 @@ W59S23:
 W59S28:
   level: 0
   owner: neutral
+W59S29:
+  level: 7
+  owner: neutral
 W59S3:
   level: 4
   owner: neutral
@@ -14407,13 +15628,40 @@ W59S32:
 W59S33:
   level: 6
   owner: neutral
+W59S34:
+  level: 0
+  owner: neutral
+W59S35:
+  level: 6
+  owner: neutral
 W59S38:
   level: 0
+  owner: neutral
+W59S39:
+  level: 4
+  owner: neutral
+W59S4:
+  level: 3
   owner: neutral
 W59S43:
   level: 7
   owner: neutral
+W59S45:
+  level: 5
+  owner: neutral
+W59S54:
+  level: 0
+  owner: neutral
+W59S55:
+  level: 7
+  owner: neutral
+W59S56:
+  level: 0
+  owner: neutral
 W59S57:
+  level: 0
+  owner: neutral
+W59S59:
   level: 0
   owner: neutral
 W59S7:
@@ -14421,6 +15669,9 @@ W59S7:
   owner: neutral
 W59S8:
   level: 4
+  owner: neutral
+W59S9:
+  level: 5
   owner: neutral
 W5N11:
   level: 0
@@ -14436,6 +15687,9 @@ W5N17:
   owner: neutral
 W5N18:
   level: 0
+  owner: neutral
+W5N19:
+  level: 8
   owner: neutral
 W5N2:
   level: 0
@@ -14455,6 +15709,9 @@ W5N27:
 W5N28:
   level: 8
   owner: neutral
+W5N29:
+  level: 7
+  owner: neutral
 W5N3:
   level: 0
   owner: neutral
@@ -14468,15 +15725,21 @@ W5N43:
   level: 0
   owner: Remco
 W5N48:
-  level: 3
+  level: 4
   owner: neutral
 W5N51:
+  level: 0
+  owner: neutral
+W5N59:
   level: 0
   owner: neutral
 W5N7:
   level: 8
   owner: neutral
 W5N8:
+  level: 0
+  owner: Dissi
+W5N9:
   level: 0
   owner: Dissi
 W5S1:
@@ -14497,11 +15760,17 @@ W5S17:
 W5S18:
   level: 8
   owner: Hernanduer
+W5S19:
+  level: 0
+  owner: Hernanduer
 W5S23:
   level: 0
   owner: Hernanduer
 W5S27:
   level: 8
+  owner: Zergling
+W5S29:
+  level: 0
   owner: Zergling
 W5S3:
   level: 0
@@ -14514,6 +15783,9 @@ W5S33:
   owner: neutral
 W5S38:
   level: 0
+  owner: neutral
+W5S39:
+  level: 8
   owner: neutral
 W5S41:
   level: 7
@@ -14545,6 +15817,9 @@ W6N17:
 W6N18:
   level: 8
   owner: neutral
+W6N19:
+  level: 0
+  owner: neutral
 W6N21:
   level: 0
   owner: neutral
@@ -14572,13 +15847,22 @@ W6N42:
 W6N48:
   level: 0
   owner: Remco
+W6N49:
+  level: 7
+  owner: Remco
 W6N51:
+  level: 6
+  owner: neutral
+W6N59:
   level: 6
   owner: neutral
 W6N7:
   level: 0
   owner: neutral
 W6N8:
+  level: 8
+  owner: Dissi
+W6N9:
   level: 8
   owner: Dissi
 W6S11:
@@ -14596,6 +15880,9 @@ W6S17:
 W6S18:
   level: 0
   owner: Hernanduer
+W6S19:
+  level: 0
+  owner: Hernanduer
 W6S21:
   level: 0
   owner: Hernanduer
@@ -14611,6 +15898,9 @@ W6S3:
 W6S37:
   level: 8
   owner: neutral
+W6S39:
+  level: 0
+  owner: neutral
 W6S41:
   level: 0
   owner: Atlan
@@ -14625,6 +15915,9 @@ W6S53:
   owner: neutral
 W6S57:
   level: 3
+  owner: neutral
+W6S59:
+  level: 2
   owner: neutral
 W6S7:
   level: 2
@@ -14657,9 +15950,6 @@ W7N19:
   level: 0
   owner: neutral
 W7N2:
-  level: 0
-  owner: neutral
-W7N23:
   level: 0
   owner: neutral
 W7N26:
@@ -14708,7 +15998,7 @@ W7N51:
   level: 1
   owner: neutral
 W7N55:
-  level: 1
+  level: 2
   owner: neutral
 W7N56:
   level: 5
@@ -14810,7 +16100,7 @@ W7S52:
   level: 3
   owner: neutral
 W7S54:
-  level: 3
+  level: 4
   owner: neutral
 W7S56:
   level: 3
@@ -14827,10 +16117,7 @@ W7S8:
 W8N11:
   level: 8
   owner: neutral
-W8N13:
-  level: 0
-  owner: neutral
-W8N15:
+W8N12:
   level: 0
   owner: neutral
 W8N16:
@@ -14869,9 +16156,6 @@ W8N34:
 W8N36:
   level: 0
   owner: neutral
-W8N37:
-  level: 0
-  owner: neutral
 W8N42:
   level: 0
   owner: Remco
@@ -14881,12 +16165,6 @@ W8N46:
 W8N47:
   level: 7
   owner: Remco
-W8N48:
-  level: 0
-  owner: Garland
-W8N49:
-  level: 0
-  owner: Garland
 W8N5:
   level: 8
   owner: neutral
@@ -14972,7 +16250,7 @@ W8S54:
   level: 4
   owner: neutral
 W8S56:
-  level: 4
+  level: 5
   owner: neutral
 W8S57:
   level: 5
@@ -15001,8 +16279,14 @@ W9N11:
 W9N13:
   level: 8
   owner: neutral
+W9N14:
+  level: 0
+  owner: neutral
 W9N27:
   level: 8
+  owner: neutral
+W9N36:
+  level: 6
   owner: neutral
 W9N37:
   level: 7
@@ -15010,11 +16294,35 @@ W9N37:
 W9N38:
   level: 7
   owner: neutral
+W9N39:
+  level: 0
+  owner: neutral
+W9N4:
+  level: 6
+  owner: neutral
+W9N44:
+  level: 0
+  owner: Remco
+W9N45:
+  level: 0
+  owner: Remco
+W9N49:
+  level: 7
+  owner: Garland
+W9N5:
+  level: 8
+  owner: neutral
 W9N51:
   level: 5
   owner: neutral
 W9N53:
   level: 5
+  owner: neutral
+W9N54:
+  level: 4
+  owner: neutral
+W9N56:
+  level: 0
   owner: neutral
 W9N57:
   level: 6
@@ -15022,11 +16330,17 @@ W9N57:
 W9N58:
   level: 0
   owner: neutral
+W9N6:
+  level: 8
+  owner: neutral
 W9N7:
   level: 0
   owner: neutral
 W9N8:
   level: 8
+  owner: neutral
+W9N9:
+  level: 0
   owner: neutral
 W9S11:
   level: 0
@@ -15037,11 +16351,23 @@ W9S12:
 W9S13:
   level: 8
   owner: Hernanduer
+W9S14:
+  level: 0
+  owner: Hernanduer
+W9S15:
+  level: 0
+  owner: Hernanduer
+W9S16:
+  level: 0
+  owner: Hernanduer
 W9S17:
   level: 0
   owner: Hernanduer
 W9S18:
   level: 6
+  owner: Hernanduer
+W9S19:
+  level: 8
   owner: Hernanduer
 W9S21:
   level: 0
@@ -15055,6 +16381,9 @@ W9S27:
 W9S28:
   level: 8
   owner: Zergling
+W9S29:
+  level: 0
+  owner: Zergling
 W9S3:
   level: 0
   owner: neutral
@@ -15062,6 +16391,18 @@ W9S31:
   level: 8
   owner: Zergling
 W9S32:
+  level: 8
+  owner: neutral
+W9S34:
+  level: 8
+  owner: neutral
+W9S4:
+  level: 0
+  owner: neutral
+W9S49:
+  level: 0
+  owner: Atlan
+W9S5:
   level: 8
   owner: neutral
 W9S51:
@@ -15073,7 +16414,16 @@ W9S57:
 W9S58:
   level: 2
   owner: neutral
+W9S59:
+  level: 3
+  owner: neutral
+W9S6:
+  level: 0
+  owner: neutral
 W9S8:
   level: 8
+  owner: neutral
+W9S9:
+  level: 0
   owner: neutral
 
