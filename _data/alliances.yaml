@@ -44,6 +44,7 @@ semperrexoff:
 
 sun:
   name: Screeps United Nations
+  charter: https://docs.google.com/document/d/1AWDVqoCi2wJxYgIiwPqxqa283byMJPNeg4RlSBbWfD4
   color: "#b9c4c9"
   slack: sun
   abbreviation: SUN
