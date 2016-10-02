@@ -252,8 +252,12 @@ ScreepsMap.prototype.drawColorKey = function() {
     let container = document.getElementById(this.colorKeyID);
     let output = '<ul class="colorKeyList">';
     for (let aName of this.allianceNames) {
+        output += '<div id=#colorkey_alliance_' + aName + '>'
         output += '<li class="colorKeyItem"><span class="colorBox" style="background-color: ' + this.colorForAlliance(aName) + ';"></span>';
+        output += '<a href="index.html#alliance_' + aName + '">'
         output += '<span class="colorLabel">' + this.alliances[aName].name + '</li>';
+        output += '</a>'
+        output += '</div>'
     }
     output += '</ul>';
     container.innerHTML = output;
