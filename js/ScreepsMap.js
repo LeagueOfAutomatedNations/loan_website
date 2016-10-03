@@ -304,11 +304,15 @@ ScreepsMap.prototype.drawLayerControls = function() {
         input.setAttribute("onclick", onclick);
         li.appendChild(input);
 
-        let text = document.createTextNode(name);
+        let text = document.createTextNode(this.titlecase(name));
         li.appendChild(text);
         ul.appendChild(li);
     }
     container.appendChild(ul);
+}
+
+ScreepsMap.prototype.titlecase = function(text) {
+    return text.replace(/(^|_|-| )([a-z])/g, function (g) { return " " + g[g.length-1].toUpperCase(); });
 }
 
 ScreepsMap.prototype.findGroups = function(matchingFunc, radius) {
