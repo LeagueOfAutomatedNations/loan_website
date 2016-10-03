@@ -4,12 +4,12 @@ var ScreepsMap = function() {
     this.containerID = "ScreepsMapContainer";
     this.canvasID = "ScreepsMapCanvas";
     this.colorKeyID = "ScreepsColorKeyContainer";
-    this.topLeftOfTerrain = this.roomNameToXY("W60N60");
+    this.topLeftOfTerrain = this.roomNameToXY("W70N70");
     this.terrainImageRoomSize = 50;
 
     // Defaults
-    this.setRoomSize(5,5);
-    this.setMapBounds("W60N60","E60S60");
+    this.setRoomSize(4);
+    this.setMapBounds("W70N70","E70S70");
     this.setPadding(5);
 };
 
