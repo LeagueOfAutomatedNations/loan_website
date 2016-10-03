@@ -135,9 +135,16 @@ article {
 /* Map
 --------------------------- */
 #ScreepsMapFlex {
+  position: relative;
   display: flex;
-  justify-content: space-around;
+  justify-content: space-between;
   align-items: flex-start;
+}
+
+#ScreepsMapContainer canvas {
+    position: absolute;
+    top: 0px;
+    left: 0px;
 }
 
 #ScreepsColorKeyContainer {

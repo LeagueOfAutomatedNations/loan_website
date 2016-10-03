@@ -130,12 +130,15 @@ ScreepsMap.prototype.colorForAlliance = function(aName) {
 }
 
 ScreepsMap.prototype.drawAllianceMap = function(options) {
-    this.canvas = this.resetCanvas(document.getElementById(this.containerID));
-    this.context = this.canvas.getContext("2d");
     this.drawOptions = options;
     if (!this.drawOptions.roomStyle) {
         this.drawOptions.roomStyle = "box";
     }
+
+    this.resetCanvases();
+    this.addCanvas("terrain");
+    this.addCanvas("rooms");
+    this.addCanvas("alliance_labels");
     this.loadImages(function() {
         this.drawTerrain();
         this.drawAlliances();
@@ -143,10 +146,22 @@ ScreepsMap.prototype.drawAllianceMap = function(options) {
     }.bind(this));
 }
 
-ScreepsMap.prototype.resetCanvas = function(container) {
-    let canvasHTML = '<canvas id="' + this.canvasID + '" width="' + this.desiredCanvasWidth() + '" height="' + this.desiredCanvasHeight() + '"></canvas>';
-    container.innerHTML = canvasHTML;
-    return document.getElementById(this.canvasID);
+ScreepsMap.prototype.resetCanvases = function() {
+    let container = document.getElementById(this.containerID);
+    container.innerHTML = "";
+    this.contexts = {};
+    container.setAttribute("style", "width: " + this.desiredCanvasWidth() + "px; height: " + this.desiredCanvasHeight() + "px;");
+}
+
+ScreepsMap.prototype.addCanvas = function(layerID) {
+    let container = document.getElementById(this.containerID);
+    let canvas = document.createElement("canvas");
+    canvas.setAttribute("id", this.canvasID + '.' + layerID);
+    canvas.setAttribute("width", this.desiredCanvasWidth());
+    canvas.setAttribute("height", this.desiredCanvasHeight());
+    container.appendChild(canvas);
+    canvas = document.getElementById(this.canvasID + '.' + layerID);
+    this.contexts[layerID] = canvas.getContext("2d");
 }
 
 ScreepsMap.prototype.loadImages = function(callback) {
@@ -162,10 +177,10 @@ ScreepsMap.prototype.drawTerrain = function() {
     let clipHeight = (this.bottomRight.y - this.topLeft.y + 1) * this.terrainImageRoomSize;
     let imageWidth = (this.bottomRight.x - this.topLeft.x + 1) * this.roomWidth;
     let imageHeight = (this.bottomRight.y - this.topLeft.y + 1) * this.roomHeight;
-    this.context.save();
-    this.context.globalAlpha = 0.7;
-    this.context.drawImage(this.terrainImage, clipX, clipY, clipWidth, clipHeight, this.padding, this.padding, imageWidth, imageHeight);
-    this.context.restore();
+    this.contexts["terrain"].save();
+    this.contexts["terrain"].globalAlpha = 0.7;
+    this.contexts["terrain"].drawImage(this.terrainImage, clipX, clipY, clipWidth, clipHeight, this.padding, this.padding, imageWidth, imageHeight);
+    this.contexts["terrain"].restore();
 }
 
 ScreepsMap.prototype.drawAlliances = function() {
@@ -206,12 +221,12 @@ ScreepsMap.prototype.drawGroupLabels = function() {
 }
 
 ScreepsMap.prototype.drawText = function(xy, text, color) {
-    this.context.save();
-    this.context.font = "15px Arial";
-    this.context.fillStyle = color;
-    this.context.textAlign = "center";
-    this.context.fillText(text, xy.x, xy.y);
-    this.context.restore();
+    this.contexts["alliance_labels"].save();
+    this.contexts["alliance_labels"].font = "15px Arial";
+    this.contexts["alliance_labels"].fillStyle = color;
+    this.contexts["alliance_labels"].textAlign = "center";
+    this.contexts["alliance_labels"].fillText(text, xy.x, xy.y);
+    this.contexts["alliance_labels"].restore();
 }
 
 ScreepsMap.prototype.drawOutlinedText = function(xy, text, color) {
@@ -229,23 +244,23 @@ ScreepsMap.prototype.drawFadeCircle = function(roomName, radius, solidRadius, co
     } else {
         xy = roomName;
     }
-    this.context.beginPath();
-    let rad = this.context.createRadialGradient(xy.x, xy.y, solidRadius, xy.x, xy.y, radius);
+    this.contexts["rooms"].beginPath();
+    let rad = this.contexts["rooms"].createRadialGradient(xy.x, xy.y, solidRadius, xy.x, xy.y, radius);
     let parts = this.hexToRgb(color);
     rad.addColorStop(0, 'rgba(' + parts.r + ', ' + parts.g + ', ' + parts.b + ',1)');
     rad.addColorStop(1, 'rgba(' + parts.r + ', ' + parts.g + ', ' + parts.b + ',0)');
-    this.context.fillStyle = rad;
-    this.context.arc(xy.x, xy.y, radius, 0, Math.PI*2, false);
-    this.context.fill();
+    this.contexts["rooms"].fillStyle = rad;
+    this.contexts["rooms"].arc(xy.x, xy.y, radius, 0, Math.PI*2, false);
+    this.contexts["rooms"].fill();
 }
 
 ScreepsMap.prototype.drawFillBox = function(roomName, color, alpha) {
     let xy = this.roomNameToRoomCorner(roomName);
-    this.context.save();
-    this.context.fillStyle = color;
-    this.context.globalAlpha = alpha;
-    this.context.fillRect(xy.x, xy.y, this.roomWidth, this.roomHeight);
-    this.context.restore();
+    this.contexts["rooms"].save();
+    this.contexts["rooms"].fillStyle = color;
+    this.contexts["rooms"].globalAlpha = alpha;
+    this.contexts["rooms"].fillRect(xy.x, xy.y, this.roomWidth, this.roomHeight);
+    this.contexts["rooms"].restore();
 }
 
 ScreepsMap.prototype.drawColorKey = function() {
