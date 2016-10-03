@@ -141,6 +141,18 @@ article {
   align-items: flex-start;
 }
 
+#ScreepsMapFlex .spinner {
+    background-image: url(/img/leaguelogo_spinner.gif);
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+
+#ScreepsMapFlex .spinnerDone {
+    background-image: url(/img/leaguelogo.png);
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+
 #ScreepsMapContainer canvas {
     position: absolute;
     top: 0px;

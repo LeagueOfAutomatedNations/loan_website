@@ -137,22 +137,45 @@ ScreepsMap.prototype.drawAllianceMap = function(options) {
     }
 
     this.resetCanvases();
+    this.showSpinner();
     this.addCanvas("terrain");
     this.addCanvas("rooms");
     this.addCanvas("alliance_labels");
-    this.loadImages(function() {
-        this.drawTerrain();
-        this.drawAlliances();
-        this.drawGroupLabels();
-    }.bind(this));
+    setTimeout(function() {
+        this.loadImages(function() {
+            this.finishSpinner();
+            setTimeout(function() {
+                this.drawTerrain();
+                this.drawAlliances();
+                this.drawGroupLabels();
+                this.hideSpinner();
+            }.bind(this), 100);
+        }.bind(this));
+    }.bind(this), 100);
 }
 
 ScreepsMap.prototype.resetCanvases = function() {
     let container = document.getElementById(this.containerID);
     container.innerHTML = "";
     this.contexts = {};
-    container.setAttribute("style", "width: " + this.desiredCanvasWidth() + "px; height: " + this.desiredCanvasHeight() + "px;");
+    container.style.width = String(this.desiredCanvasWidth()) + "px";
+    container.style.height = String(this.desiredCanvasHeight()) + "px";
     this.canvasZIndex = 1;
+}
+
+ScreepsMap.prototype.showSpinner = function() {
+    let container = document.getElementById(this.containerID);
+    container.className = "spinner";
+}
+
+ScreepsMap.prototype.finishSpinner = function() {
+    let container = document.getElementById(this.containerID);
+    container.className = "spinnerDone";
+}
+
+ScreepsMap.prototype.hideSpinner = function() {
+    let container = document.getElementById(this.containerID);
+    container.className = "";
 }
 
 ScreepsMap.prototype.addCanvas = function(layerID) {
