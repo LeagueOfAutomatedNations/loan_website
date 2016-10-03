@@ -4,6 +4,7 @@ var ScreepsMap = function() {
     this.containerID = "ScreepsMapContainer";
     this.canvasID = "ScreepsMapCanvas";
     this.colorKeyID = "ScreepsColorKeyContainer";
+    this.layerControlsID = "ScreepsMapLayerControls";
     this.topLeftOfTerrain = this.roomNameToXY("W70N70");
     this.terrainImageRoomSize = 50;
 
@@ -151,6 +152,7 @@ ScreepsMap.prototype.resetCanvases = function() {
     container.innerHTML = "";
     this.contexts = {};
     container.setAttribute("style", "width: " + this.desiredCanvasWidth() + "px; height: " + this.desiredCanvasHeight() + "px;");
+    this.canvasZIndex = 1;
 }
 
 ScreepsMap.prototype.addCanvas = function(layerID) {
@@ -159,6 +161,8 @@ ScreepsMap.prototype.addCanvas = function(layerID) {
     canvas.setAttribute("id", this.canvasID + '.' + layerID);
     canvas.setAttribute("width", this.desiredCanvasWidth());
     canvas.setAttribute("height", this.desiredCanvasHeight());
+    canvas.setAttribute("style", "z-index: " + this.canvasZIndex + "; display: block;");
+    this.canvasZIndex += 1;
     container.appendChild(canvas);
     canvas = document.getElementById(this.canvasID + '.' + layerID);
     this.contexts[layerID] = canvas.getContext("2d");
@@ -278,6 +282,33 @@ ScreepsMap.prototype.drawColorKey = function() {
     }
     output += '</ul>';
     container.innerHTML = output;
+}
+
+ScreepsMap.prototype.drawLayerControls = function() {
+    let container = document.getElementById(this.layerControlsID);
+    container.innerHTML = "<h3>Map Layers:</h3>";
+    let ul = document.createElement("ul");
+    ul.setAttribute("class", "layerControls");
+    let output = '<ul class="layerControls">';
+    for (let name of Object.keys(this.contexts)) {
+        let li = document.createElement("li");
+        li.setAttribute("class", "layerControlItem");
+
+        let input = document.createElement("input");
+        input.setAttribute("type", "checkbox");
+        input.setAttribute("name", name);
+        input.setAttribute("checked", true);
+        let onclick = 'let canvas = document.getElementById("' + this.canvasID + '.' + '" + this.name); ';
+        onclick += 'let display = canvas.style.display; ';
+        onclick += 'if (display == "block") { canvas.style.display = "none"; } else { canvas.style.display = "block"; }';
+        input.setAttribute("onclick", onclick);
+        li.appendChild(input);
+
+        let text = document.createTextNode(name);
+        li.appendChild(text);
+        ul.appendChild(li);
+    }
+    container.appendChild(ul);
 }
 
 ScreepsMap.prototype.findGroups = function(matchingFunc, radius) {

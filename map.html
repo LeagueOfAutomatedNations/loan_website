@@ -9,7 +9,10 @@ sitemap:
 <div class="unit whole">
   <div id="ScreepsMapFlex">
     <div id="ScreepsMapContainer"></div>
-    <div id="ScreepsColorKeyContainer"></div>
+    <div>
+      <span id="ScreepsColorKeyContainer"></span>
+      <span id="ScreepsMapLayerControls"></span>
+    </div>
   </div>
   <script type="text/javascript" language="javascript">
     window.onload = function() {
@@ -21,6 +24,7 @@ sitemap:
       map.setAllianceData({{ site.data.alliances | jsonify }});
       map.drawAllianceMap({"roomStyle": "box"});
       map.drawColorKey();
+      map.drawLayerControls();
     }
   </script>
 </div>
