@@ -153,6 +153,10 @@ article {
     background-position: center center;
 }
 
+#ScreepsMapContainer {
+    display: block;
+}
+
 #ScreepsMapContainer canvas {
     position: absolute;
     top: 0px;

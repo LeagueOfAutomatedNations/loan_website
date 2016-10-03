@@ -8,7 +8,7 @@ sitemap:
 <script type="text/javascript" language="javascript" src="js/ScreepsMap.js"></script>
 <div class="unit whole">
   <div id="ScreepsMapFlex">
-    <div id="ScreepsMapContainer"></div>
+    <a id="ScreepsMapContainer" href="" target="LOANScreepsMapTarget"></a>
     <div>
       <span id="ScreepsColorKeyContainer"></span>
       <span id="ScreepsMapLayerControls"></span>
@@ -25,6 +25,7 @@ sitemap:
       map.drawAllianceMap({"roomStyle": "box"});
       map.drawColorKey();
       map.drawLayerControls();
+      window.onmousemove = function(event) { map.mouseMove(event); }
     }
   </script>
 </div>

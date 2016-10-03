@@ -7,6 +7,7 @@ var ScreepsMap = function() {
     this.layerControlsID = "ScreepsMapLayerControls";
     this.topLeftOfTerrain = this.roomNameToXY("W70N70");
     this.terrainImageRoomSize = 50;
+    this.screepsRoomUrl = "https://screeps.com/a/#!/room/";
 
     // Defaults
     this.setRoomSize(4);
@@ -398,4 +399,20 @@ ScreepsMap.prototype.geometricCenter = function(rooms) {
     sum.x = Math.floor(sum.x / rooms.length);
     sum.y = Math.floor(sum.y / rooms.length);
     return sum;
+}
+
+ScreepsMap.prototype.mouseMove = function(event) {
+    let container = document.getElementById(this.containerID);
+    let rect = container.getBoundingClientRect();
+    let roomXY = {
+        "x": Math.floor((event.clientX - Math.ceil(rect.left) - this.padding) / this.roomWidth) + this.topLeft.x,
+        "y": Math.floor((event.clientY - Math.ceil(rect.top) - this.padding) / this.roomHeight) + this.topLeft.y,
+    };
+    if (roomXY.x < this.topLeft.x || roomXY.y < this.topLeft.y || roomXY.x > this.bottomRight.x || roomXY.y > this.bottomRight.y) {
+        // Hide tooltip.
+    } else {
+        let roomName = this.xyToRoomName(roomXY);
+        // Move, populate, and show tooltip.
+        container.href = this.screepsRoomUrl + roomName;
+    }
 }
