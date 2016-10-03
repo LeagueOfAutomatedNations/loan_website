@@ -14,8 +14,8 @@ sitemap:
   <script type="text/javascript" language="javascript">
     window.onload = function() {
       let map = new ScreepsMap();
-      map.setRoomSize(5,5);
-      map.setMapBounds("W60N60","E60S60");
+      map.setRoomSize(4);
+      map.setMapBounds("W70N70","E70S70");
       map.setPadding(5);
       map.setRoomData({{ site.data.rooms | jsonify }});
       map.setAllianceData({{ site.data.alliances | jsonify }});
