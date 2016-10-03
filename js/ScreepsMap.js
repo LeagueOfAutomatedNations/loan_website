@@ -269,7 +269,8 @@ ScreepsMap.prototype.drawFillBox = function(roomName, color, alpha) {
 
 ScreepsMap.prototype.drawColorKey = function() {
     let container = document.getElementById(this.colorKeyID);
-    let output = '<ul class="colorKeyList">';
+    let output = '<h3>Legend:</h3>';
+    output += '<ul class="colorKeyList">';
     for (let aName of this.allianceNames) {
         output += '<div id=#colorkey_alliance_' + aName + '>'
         output += '  <li class="colorKeyItem">';
@@ -289,7 +290,6 @@ ScreepsMap.prototype.drawLayerControls = function() {
     container.innerHTML = "<h3>Map Layers:</h3>";
     let ul = document.createElement("ul");
     ul.setAttribute("class", "layerControls");
-    let output = '<ul class="layerControls">';
     for (let name of Object.keys(this.contexts)) {
         let li = document.createElement("li");
         li.setAttribute("class", "layerControlItem");

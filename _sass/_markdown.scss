@@ -151,14 +151,14 @@ article {
     float: right;
 }
 
-.colorKeyList {
+#ScreepsMapFlex .colorKeyList, #ScreepsMapFlex .layerControls {
     list-style: none;
 }
 
 .colorKeyList .colorBox {
   display: inline-block;
   border: 1px solid black;
-  width: 3em;
+  width: 1em;
   height: 1em;
   margin-right: 2px;
   vertical-align: middle;
