@@ -171,11 +171,34 @@ article {
     list-style: none;
 }
 
-.colorKeyList .colorBox {
+#ScreepsColorKeyContainer .colorKeyList .colorBox {
   display: inline-block;
   border: 1px solid black;
   width: 1em;
   height: 1em;
   margin-right: 2px;
   vertical-align: middle;
+}
+
+#ScreepsMapTooltip {
+  position: fixed;
+  z-index: 100;
+  background-color: #FFFFFF;
+  opacity: 0.7;
+  padding: 5px;
+  border: 1px solid black;
+  border-radius: 10px;
+  width: 17em;
+}
+
+#ScreepsMapTooltip dl {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+#ScreepsMapTooltip dl dt {
+  width: 30%;
+}
+#ScreepsMapTooltip dl div {
+  width: 66%;
 }

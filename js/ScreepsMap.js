@@ -5,6 +5,7 @@ var ScreepsMap = function() {
     this.canvasID = "ScreepsMapCanvas";
     this.colorKeyID = "ScreepsColorKeyContainer";
     this.layerControlsID = "ScreepsMapLayerControls";
+    this.tooltipID = "ScreepsMapTooltip";
     this.topLeftOfTerrain = this.roomNameToXY("W70N70");
     this.terrainImageRoomSize = 50;
     this.screepsRoomUrl = "https://screeps.com/a/#!/room/";
@@ -403,16 +404,56 @@ ScreepsMap.prototype.geometricCenter = function(rooms) {
 
 ScreepsMap.prototype.mouseMove = function(event) {
     let container = document.getElementById(this.containerID);
+    let tooltip = document.getElementById(this.tooltipID);
     let rect = container.getBoundingClientRect();
+    let pixelXY = {
+        "x": event.clientX - Math.ceil(rect.left),
+        "y": event.clientY - Math.ceil(rect.top),
+    };
     let roomXY = {
         "x": Math.floor((event.clientX - Math.ceil(rect.left) - this.padding) / this.roomWidth) + this.topLeft.x,
         "y": Math.floor((event.clientY - Math.ceil(rect.top) - this.padding) / this.roomHeight) + this.topLeft.y,
     };
     if (roomXY.x < this.topLeft.x || roomXY.y < this.topLeft.y || roomXY.x > this.bottomRight.x || roomXY.y > this.bottomRight.y) {
+        tooltip.style.display = "none";
         // Hide tooltip.
     } else {
         let roomName = this.xyToRoomName(roomXY);
         // Move, populate, and show tooltip.
+        let toolRect = tooltip.getBoundingClientRect();
+        tooltip.style.left = String(event.clientX + 15) + "px";
+        tooltip.style.top = String(event.clientY - Math.floor(toolRect.height/2)) + "px";
+        this.populateTooltip(tooltip, roomName);
+        tooltip.style.display = "block";
+
         container.href = this.screepsRoomUrl + roomName;
+    }
+}
+
+ScreepsMap.prototype.populateTooltip = function(tooltip, roomName) {
+    tooltip.querySelector(".roomName").innerHTML = roomName;
+    if (this.rooms[roomName]) {
+        if (this.rooms[roomName].level) {
+            tooltip.querySelector(".roomType").innerHTML = "Owned";
+        } else {
+            tooltip.querySelector(".roomType").innerHTML = "Reserved";
+        }
+        tooltip.querySelector(".roomOwner").innerHTML = this.rooms[roomName].owner;
+        let alliance;
+        for (let aName of Object.keys(this.alliances)) {
+            if (this.alliances[aName].members.indexOf(this.rooms[roomName].owner) != -1) {
+                alliance = aName;
+                break;
+            }
+        }
+        if (alliance) {
+            tooltip.querySelector(".roomAlliance").innerHTML = this.alliances[alliance].name;
+        } else {
+            tooltip.querySelector(".roomAlliance").innerHTML = "N/A";
+        }
+    } else {
+        tooltip.querySelector(".roomType").innerHTML = "Unowned";
+        tooltip.querySelector(".roomOwner").innerHTML = "N/A";
+        tooltip.querySelector(".roomAlliance").innerHTML = "N/A";
     }
 }
