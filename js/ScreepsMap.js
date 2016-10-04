@@ -435,8 +435,10 @@ ScreepsMap.prototype.populateTooltip = function(tooltip, roomName) {
     if (this.rooms[roomName]) {
         if (this.rooms[roomName].level) {
             tooltip.querySelector(".roomType").innerHTML = "Owned";
+            tooltip.querySelector(".roomLevel").innerHTML = this.rooms[roomName].level;
         } else {
             tooltip.querySelector(".roomType").innerHTML = "Reserved";
+            tooltip.querySelector(".roomLevel").innerHTML = "N/A";
         }
         tooltip.querySelector(".roomOwner").innerHTML = this.rooms[roomName].owner;
         let alliance;
@@ -455,5 +457,6 @@ ScreepsMap.prototype.populateTooltip = function(tooltip, roomName) {
         tooltip.querySelector(".roomType").innerHTML = "Unowned";
         tooltip.querySelector(".roomOwner").innerHTML = "N/A";
         tooltip.querySelector(".roomAlliance").innerHTML = "N/A";
+        tooltip.querySelector(".roomLevel").innerHTML = "N/A";
     }
 }
