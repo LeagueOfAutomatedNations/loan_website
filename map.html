@@ -5,8 +5,14 @@ sitemap:
   priority: 1.0
   changefreq: weekly
 ---
-<script type="text/javascript" language="javascript" src="js/ScreepsMap.js"></script>
-<div class="unit whole">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.0.1/dist/leaflet.css" />
+  <link rel="stylesheet" href="/css/loan-map.css" />
+  <script src="https://unpkg.com/leaflet@1.0.1/dist/leaflet.js"></script>
+
+  <script src="/js/ScreepsConstants.js"></script>
+  <script src="/js/ScreepsRegion.js"></script>
+  <script src="/js/ScreepsMap.js"></script>
+
   <div id="ScreepsMapTooltip" style="display: none;">
       <dl>
           <dt>Room:</dt>
@@ -21,25 +27,36 @@ sitemap:
           <div class="roomAlliance"></div>
       </dl>
   </div>
+
   <div id="ScreepsMapFlex">
-    <a id="ScreepsMapContainer" href="" target="LOANScreepsMapTarget"></a>
+    <div id="ScreepsMapContainer"></div>
+    
     <div>
       <span id="ScreepsColorKeyContainer"></span>
-      <span id="ScreepsMapLayerControls"></span>
     </div>
   </div>
+  
   <script type="text/javascript" language="javascript">
     window.onload = function() {
-      let map = new ScreepsMap();
-      map.setRoomSize(4);
-      map.setMapBounds("W70N70","E70S70");
-      map.setPadding(5);
-      map.setRoomData({{ site.data.rooms | jsonify }});
-      map.setAllianceData({{ site.data.alliances | jsonify }});
-      map.drawAllianceMap({"roomStyle": "box"});
-      map.drawColorKey();
-      map.drawLayerControls();
-      window.onmousemove = function(event) { map.mouseMove(event); }
+      let region = new ScreepsRegion("W70N70", "E70S70");
+      let mapView = new ScreepsMap(
+        {
+          spinnerHostId: "ScreepsMapFlex",
+          mapHostId: "ScreepsMapContainer",
+          legendHostId: "ScreepsColorKeyContainer",
+          roomTooltipHostId: "ScreepsMapTooltip",
+
+          terrainUri: "img/screeps_terrain.png",
+          region: region,
+          style: { 'room-padding': 10 }
+        });
+
+      mapView.setData(
+        {{ site.data.rooms | jsonify }},
+        {{ site.data.alliances | jsonify }}
+      );
+
+      mapView.render();
     }
   </script>
 </div>
