@@ -120,6 +120,7 @@ ud:
 ypsilonempire:
   name: Ypsilon Empire
   abbreviation: Ypsilon
+  color: "#0066ff"
   members:
   - daboross
   - DoctorPC
