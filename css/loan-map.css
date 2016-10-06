@@ -1,0 +1,74 @@
+#ScreepsMapFlex {
+  position: relative;
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+}
+
+.spinner {
+    background-image: url(/img/leaguelogo_spinner.gif);
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+
+.spinnerDone {
+    background-image: url(/img/leaguelogo.png);
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+
+#ScreepsMapContainer {
+    display: block;
+    height: 640px;
+    width: 640px;
+    cursor: pointer;
+}
+
+#ScreepsColorKeyContainer {
+    float: right;
+}
+
+#ScreepsMapFlex .colorKeyList, #ScreepsMapFlex .layerControls {
+    list-style: none;
+}
+
+#ScreepsColorKeyContainer .colorKeyList .colorBox {
+  display: inline-block;
+  border: 1px solid black;
+  width: 1em;
+  height: 1em;
+  margin-right: 2px;
+  vertical-align: middle;
+}
+
+#ScreepsMapTooltip {
+  position: fixed;
+  z-index: 800;
+  background-color: #FFFFFF;
+  opacity: 0.80;
+  padding: 5px;
+  border: 1px solid black;
+  border-radius: 10px;
+  width: 17em;
+}
+
+#ScreepsMapTooltip dl {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+#ScreepsMapTooltip dl dt {
+  width: 30%;
+}
+#ScreepsMapTooltip dl div {
+  width: 66%;
+}
+
+.alliance-label {
+    text-shadow:
+        -1px -1px 0 #000,
+        1px -1px 0 #000,
+        -1px 1px 0 #000,
+        1px 1px 0 #000;
+    user-select: none;
+}
