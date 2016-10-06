@@ -78,7 +78,8 @@ var ScreepsMap = (function() {
                 maxZoom: 1,
                 zoomSnap: 0.1,
                 maxBounds: mapBounds,
-                maxBoundsViscosity: 1.0
+                maxBoundsViscosity: 1.0,
+                attributionControl: false
             });
 
             let controlLayer = (new L.LayerGroup()).addTo(this.map);
