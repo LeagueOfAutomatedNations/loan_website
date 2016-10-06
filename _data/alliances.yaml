@@ -66,8 +66,10 @@ sun:
   - Finndibaen
   - Klapaucius
 
-semperrexoff:
-  name: Semperrexoff
+SRO:
+  name: SemperRexOffica
+  abbreviation: SRO
+  color: "#000066"
   members:
   - NihilRex
   - SemperRabbit
