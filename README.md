@@ -1,9 +1,7 @@
-# League of Automated Nations - Alliance Website Tracker
+# Deprecated League of Automated Nations - Alliance Website Tracker
 
 ## Making Updates
 
-All data on this site is generates from the `_data/alliances.yaml` file. To add
-new data simply make a pull request.
+This is the old website for the League of Automated Nations. It is no longer being used.
 
-*** IMPORTANT NOTE: Usernames are case sensitive, so make sure you put the right
-username in! ***
+To access and update your alliance information please visit the new site at [www.leagueofautomatednations.com](www.leagueofautomatednations.com). If you are interested in contributing features and bug fixes to the new project visit it's [repository](https://github.com/LeagueOfAutomatedNations/Screeps-LoAN).
